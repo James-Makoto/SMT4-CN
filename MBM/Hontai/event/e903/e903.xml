@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>2Dイベントテストを開始します。{f801}</source>
+    <target>2Dイベントテストを開始します。{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>状況説明テスト{f801}</source>
+    <target>状況説明テスト{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}悪魔{0000}{f87a}{f2ff}悪魔NPC立ち絵との会話テスト{f801}{f802}</source>
+    <target>{f812}悪魔{0000}{f87a}{f2ff}悪魔NPC立ち絵との会話テスト{f801}{f802}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}ヨナタン{0000}{f87a}{0300}{f87b}{0300}{0200}{0100}{0100}{f843}{0000}ワルター{f801}{f802}{f87b}{0300}{0100}{0100}{0100}{f843}{0100}ヨナタン{f801}{f802}{f87b}{0300}{0300}{0100}{0100}{f843}{0000}イザボー{f801}{f802}</source>
+    <target>{f812}ヨナタン{0000}{f87a}{0300}{f87b}{0300}{0200}{0100}{0100}{f843}{0000}ワルター{f801}{f802}{f87b}{0300}{0100}{0100}{0100}{f843}{0100}ヨナタン{f801}{f802}{f87b}{0300}{0300}{0100}{0100}{f843}{0000}イザボー{f801}{f802}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}通信ホープ{0000}{f87a}{0800}通信会話{f801}{f802}</source>
+    <target>{f812}通信ホープ{0000}{f87a}{0800}通信会話{f801}{f802}</target>
+  </entry>
+  <entry id="5">
+    <source>{f812}ヨナタン{0000}{f87a}{0300}NPC立ち絵と{f801}「バストアップ」との会話{f801}{f802}ページ2{f801}{f802}ページ3{f801}{f802}</source>
+    <target>{f812}ヨナタン{0000}{f87a}{0300}NPC立ち絵と{f801}「バストアップ」との会話{f801}{f802}ページ2{f801}{f802}ページ3{f801}{f802}</target>
+  </entry>
+  <entry id="6">
+    <source>{f812}NPC1{0000}{f87a}{1d00}「NPC立ち絵」と{f801}バストアップの会話{f801}</source>
+    <target>{f812}NPC1{0000}{f87a}{1d00}「NPC立ち絵」と{f801}バストアップの会話{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>{f812}バロウズ{0000}{f87a}{0400}NPC立ち絵と{f801}「通信」の会話{f801}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0400}NPC立ち絵と{f801}「通信」の会話{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>{f812}ヒメネス{0000}{f87a}{0400}バストアップ切り替え会話{f801}</source>
+    <target>{f812}ヒメネス{0000}{f87a}{0400}バストアップ切り替え会話{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>{f812}ヨナタン{0000}{f87a}{0300}バストアップ切り替え会話{f801}</source>
+    <target>{f812}ヨナタン{0000}{f87a}{0300}バストアップ切り替え会話{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>{f812}ヒメネス{0000}{f87a}{0400}バストアップ切り替え会話{f801}</source>
+    <target>{f812}ヒメネス{0000}{f87a}{0400}バストアップ切り替え会話{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>システムウィンドウで{f801}質問文{f801}</source>
+    <target>システムウィンドウで{f801}質問文{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>{f812}だれか{0000}吹き出しなしでの{f801}会話メッセージ表示{f801}</source>
+    <target>{f812}だれか{0000}吹き出しなしでの{f801}会話メッセージ表示{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>{f812}悪魔{0000}ウィスパー演出チェック{f801}</source>
+    <target>{f812}悪魔{0000}ウィスパー演出チェック{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>はい{f801}いいえ{f801}</source>
+    <target>はい{f801}いいえ{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>ロウ合体のテスト{f801}</source>
+    <target>ロウ合体のテスト{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>カオス合体のテスト{f801}</source>
+    <target>カオス合体のテスト{f801}</target>
+  </entry>
+  <entry id="200">
+    <source>{f812}善意の大魂{0000}{f87a}聯メッセージ1{f801}</source>
+    <target>{f812}善意の大魂{0000}{f87a}聯メッセージ1{f801}</target>
+  </entry>
+  <entry id="201">
+    <source>{f812}悪意の大魂{0000}{f87a}癒メッセージ2{f801}</source>
+    <target>{f812}悪意の大魂{0000}{f87a}癒メッセージ2{f801}</target>
+  </entry>
+  <entry id="202">
+    <source>{f812}希望の大魂{0000}{f87a}朋メッセージ3{f801}</source>
+    <target>{f812}希望の大魂{0000}{f87a}朋メッセージ3{f801}</target>
+  </entry>
+</mbm>

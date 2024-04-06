@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>文字を入力してください{f801}</source>
+    <target>文字を入力してください{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>「{f811}{3200}」でよろしいですか?{f801}</source>
+    <target>「{f811}{3200}」でよろしいですか?{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>はい{f801}いいえ{f801}{f802}</source>
+    <target>はい{f801}いいえ{f801}{f802}</target>
+  </entry>
+  <entry id="3">
+    <source>どうしますか?{f801}</source>
+    <target>どうしますか?{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>入力をやめる{f801}入力を続ける{f801}元に戻す{f801}{f802}</source>
+    <target>入力をやめる{f801}入力を続ける{f801}元に戻す{f801}{f802}</target>
+  </entry>
+  <entry id="5">
+    <source>入力を続ける{f801}元に戻す{f801}{f802}</source>
+    <target>入力を続ける{f801}元に戻す{f801}{f802}</target>
+  </entry>
+  <entry id="6">
+    <source>その名前は使えません{f801}</source>
+    <target>その名前は使えません{f801}</target>
+  </entry>
+</mbm>

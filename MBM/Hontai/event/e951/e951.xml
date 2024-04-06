@@ -1,0 +1,434 @@
+<mbm>
+  <entry id="0">
+    <source>A01{f801}</source>
+    <target>A01{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>A02{f801}</source>
+    <target>A02{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>A03{f801}</source>
+    <target>A03{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>A04{f801}</source>
+    <target>A04{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>B01{f801}</source>
+    <target>B01{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>B02{f801}</source>
+    <target>B02{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>B03{f801}</source>
+    <target>B03{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>B04{f801}</source>
+    <target>B04{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>B05{f801}</source>
+    <target>B05{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>B06{f801}</source>
+    <target>B06{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>B07{f801}</source>
+    <target>B07{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>B08{f801}</source>
+    <target>B08{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>B09{f801}</source>
+    <target>B09{f801}</target>
+  </entry>
+  <entry id="13">
+    <source>B10{f801}</source>
+    <target>B10{f801}</target>
+  </entry>
+  <entry id="14">
+    <source>D01{f801}</source>
+    <target>D01{f801}</target>
+  </entry>
+  <entry id="15">
+    <source>D02{f801}</source>
+    <target>D02{f801}</target>
+  </entry>
+  <entry id="16">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="17">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="18">
+    <source>D05{f801}</source>
+    <target>D05{f801}</target>
+  </entry>
+  <entry id="19">
+    <source>D06{f801}</source>
+    <target>D06{f801}</target>
+  </entry>
+  <entry id="20">
+    <source>D07{f801}</source>
+    <target>D07{f801}</target>
+  </entry>
+  <entry id="21">
+    <source>D08{f801}</source>
+    <target>D08{f801}</target>
+  </entry>
+  <entry id="22">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="23">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="26">
+    <source>D13{f801}</source>
+    <target>D13{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>D14{f801}</source>
+    <target>D14{f801}</target>
+  </entry>
+  <entry id="28">
+    <source>D15{f801}</source>
+    <target>D15{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>D16{f801}</source>
+    <target>D16{f801}</target>
+  </entry>
+  <entry id="30">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>D18{f801}</source>
+    <target>D18{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>D19{f801}</source>
+    <target>D19{f801}</target>
+  </entry>
+  <entry id="33">
+    <source>D20{f801}</source>
+    <target>D20{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>D21{f801}</source>
+    <target>D21{f801}</target>
+  </entry>
+  <entry id="35">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>D23{f801}</source>
+    <target>D23{f801}</target>
+  </entry>
+  <entry id="37">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>D25{f801}</source>
+    <target>D25{f801}</target>
+  </entry>
+  <entry id="39">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>D27{f801}</source>
+    <target>D27{f801}</target>
+  </entry>
+  <entry id="41">
+    <source>D28{f801}</source>
+    <target>D28{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>D29{f801}</source>
+    <target>D29{f801}</target>
+  </entry>
+  <entry id="43">
+    <source>D30{f801}</source>
+    <target>D30{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>D31{f801}</source>
+    <target>D31{f801}</target>
+  </entry>
+  <entry id="45">
+    <source>D32{f801}</source>
+    <target>D32{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>D33{f801}</source>
+    <target>D33{f801}</target>
+  </entry>
+  <entry id="47">
+    <source>D34{f801}</source>
+    <target>D34{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>D35{f801}</source>
+    <target>D35{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="50">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>D38{f801}</source>
+    <target>D38{f801}</target>
+  </entry>
+  <entry id="52">
+    <source>D39{f801}</source>
+    <target>D39{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>D40{f801}</source>
+    <target>D40{f801}</target>
+  </entry>
+  <entry id="54">
+    <source>D41{f801}</source>
+    <target>D41{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>E01{f801}</source>
+    <target>E01{f801}</target>
+  </entry>
+  <entry id="56">
+    <source>E02{f801}</source>
+    <target>E02{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>E03{f801}</source>
+    <target>E03{f801}</target>
+  </entry>
+  <entry id="58">
+    <source>E04{f801}</source>
+    <target>E04{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>E05{f801}</source>
+    <target>E05{f801}</target>
+  </entry>
+  <entry id="60">
+    <source>E06{f801}</source>
+    <target>E06{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>E07{f801}</source>
+    <target>E07{f801}</target>
+  </entry>
+  <entry id="62">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="64">
+    <source>E10{f801}</source>
+    <target>E10{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>E11{f801}</source>
+    <target>E11{f801}</target>
+  </entry>
+  <entry id="66">
+    <source>E12{f801}</source>
+    <target>E12{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>E13{f801}</source>
+    <target>E13{f801}</target>
+  </entry>
+  <entry id="68">
+    <source>E14{f801}</source>
+    <target>E14{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>E15{f801}</source>
+    <target>E15{f801}</target>
+  </entry>
+  <entry id="70">
+    <source>E16{f801}</source>
+    <target>E16{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>E17{f801}</source>
+    <target>E17{f801}</target>
+  </entry>
+  <entry id="72">
+    <source>E18{f801}</source>
+    <target>E18{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="74">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="76">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>M01{f801}</source>
+    <target>M01{f801}</target>
+  </entry>
+  <entry id="78">
+    <source>M02{f801}</source>
+    <target>M02{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>M03{f801}</source>
+    <target>M03{f801}</target>
+  </entry>
+  <entry id="80">
+    <source>M04{f801}</source>
+    <target>M04{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>M05{f801}</source>
+    <target>M05{f801}</target>
+  </entry>
+  <entry id="82">
+    <source>S01{f801}</source>
+    <target>S01{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>S02{f801}</source>
+    <target>S02{f801}</target>
+  </entry>
+  <entry id="84">
+    <source>S03{f801}</source>
+    <target>S03{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>S04{f801}</source>
+    <target>S04{f801}</target>
+  </entry>
+  <entry id="86">
+    <source>S05{f801}</source>
+    <target>S05{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>S06{f801}</source>
+    <target>S06{f801}</target>
+  </entry>
+  <entry id="88">
+    <source>S07{f801}</source>
+    <target>S07{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>S08{f801}</source>
+    <target>S08{f801}</target>
+  </entry>
+  <entry id="90">
+    <source>S09{f801}</source>
+    <target>S09{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>S10{f801}</source>
+    <target>S10{f801}</target>
+  </entry>
+  <entry id="92">
+    <source>S11{f801}</source>
+    <target>S11{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>S12{f801}</source>
+    <target>S12{f801}</target>
+  </entry>
+  <entry id="94">
+    <source>S13{f801}</source>
+    <target>S13{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>S14{f801}</source>
+    <target>S14{f801}</target>
+  </entry>
+  <entry id="96">
+    <source>S15{f801}</source>
+    <target>S15{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>S16{f801}</source>
+    <target>S16{f801}</target>
+  </entry>
+  <entry id="98">
+    <source>NON{f801}</source>
+    <target>NON{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>ENV01{f801}</source>
+    <target>ENV01{f801}</target>
+  </entry>
+  <entry id="100">
+    <source>ENV02{f801}</source>
+    <target>ENV02{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>ENV03{f801}</source>
+    <target>ENV03{f801}</target>
+  </entry>
+  <entry id="102">
+    <source>ENV04{f801}</source>
+    <target>ENV04{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>ENV05{f801}</source>
+    <target>ENV05{f801}</target>
+  </entry>
+  <entry id="104">
+    <source>ENV06{f801}</source>
+    <target>ENV06{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>ENV07{f801}</source>
+    <target>ENV07{f801}</target>
+  </entry>
+  <entry id="106">
+    <source>テスト{f801}</source>
+    <target>テスト{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>E{f801}D{f801}A B{f801}M S{f801}</source>
+    <target>E{f801}D{f801}A B{f801}M S{f801}</target>
+  </entry>
+</mbm>

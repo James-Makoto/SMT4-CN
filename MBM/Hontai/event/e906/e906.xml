@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>背景3D{f801}イベントテストを開始します{f801}</source>
+    <target>背景3D{f801}イベントテストを開始します{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>キャラ表示します{f801}</source>
+    <target>キャラ表示します{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>質問{f801}</source>
+    <target>質問{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>はい{f801}いいえ{f801}</source>
+    <target>はい{f801}いいえ{f801}</target>
+  </entry>
+</mbm>

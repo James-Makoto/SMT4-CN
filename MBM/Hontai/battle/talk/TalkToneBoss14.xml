@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}</source>
+    <target>ダミーメッセージ{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}{f816}私{f817}わたし{f818}は{f816}神{f817}かみ{f818}の{f816}戦車{f817}せんしゃ{f818}{f801}ただ{f816}主{f817}しゅ{f818}の{f816}御心{f817}みこころ{f818}にのみ{f816}従{f817}したが{f818}うもの{f801}{f802}{f816}汝{f817}なんじ{f818}が{f816}仲魔{f817}なかま{f818}として{f816}望{f817}のぞ{f818}まば{f801}{f816}私{f817}わたし{f818}は{f816}聖{f817}せい{f818}なる{f816}砲火{f817}ほうか{f818}で{f816}応{f817}おう{f818}じるだろう{f801}{f802}</source>
+    <target>{f871}{0100}{f816}私{f817}わたし{f818}は{f816}神{f817}かみ{f818}の{f816}戦車{f817}せんしゃ{f818}{f801}ただ{f816}主{f817}しゅ{f818}の{f816}御心{f817}みこころ{f818}にのみ{f816}従{f817}したが{f818}うもの{f801}{f802}{f816}汝{f817}なんじ{f818}が{f816}仲魔{f817}なかま{f818}として{f816}望{f817}のぞ{f818}まば{f801}{f816}私{f817}わたし{f818}は{f816}聖{f817}せい{f818}なる{f816}砲火{f817}ほうか{f818}で{f816}応{f817}おう{f818}じるだろう{f801}{f802}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}{f816}神{f817}かみ{f818}の{f816}戦車{f817}せんしゃ{f818}が{f816}姿{f817}すがた{f818}を{f816}見{f817}み{f818}せた{f801}その{f816}意味{f817}いみ{f818}を{f816}考{f817}かんが{f818}えるがよい…{f801}{f802}{f816}訪{f817}おとず{f818}れるは{f816}穏{f817}おだ{f818}やかな{f816}停戦{f817}ていせん{f818}にあらず{f801}{f816}汝{f817}なんじ{f818}の{f816}滅{f817}ほろ{f818}びと {f816}我{f817}われ{f818}らの{f816}栄光{f817}えいこう{f818}である{f801}{f802}</source>
+    <target>{f871}{0100}{f816}神{f817}かみ{f818}の{f816}戦車{f817}せんしゃ{f818}が{f816}姿{f817}すがた{f818}を{f816}見{f817}み{f818}せた{f801}その{f816}意味{f817}いみ{f818}を{f816}考{f817}かんが{f818}えるがよい…{f801}{f802}{f816}訪{f817}おとず{f818}れるは{f816}穏{f817}おだ{f818}やかな{f816}停戦{f817}ていせん{f818}にあらず{f801}{f816}汝{f817}なんじ{f818}の{f816}滅{f817}ほろ{f818}びと {f816}我{f817}われ{f818}らの{f816}栄光{f817}えいこう{f818}である{f801}{f802}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="26">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="28">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="30">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="31">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="33">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}{f816}私{f817}わたし{f818}の{f816}言葉{f817}ことば{f818}を…{f816}主{f817}しゅ{f818}より{f816}賜{f817}たまわ{f818}りし{f801}{f816}聖{f817}せい{f818}なる{f816}教{f817}おし{f818}えを{f816}得{f817}え{f818}たいというのか?{f801}{f802}ならば {f816}対価{f817}たいか{f818}が{f816}必要{f817}ひつよう{f818}だ…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}私{f817}わたし{f818}の{f816}言葉{f817}ことば{f818}を…{f816}主{f817}しゅ{f818}より{f816}賜{f817}たまわ{f818}りし{f801}{f816}聖{f817}せい{f818}なる{f816}教{f817}おし{f818}えを{f816}得{f817}え{f818}たいというのか?{f801}{f802}ならば {f816}対価{f817}たいか{f818}が{f816}必要{f817}ひつよう{f818}だ…{f801}{f802}</target>
+  </entry>
+  <entry id="35">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}では {f816}私{f817}わたし{f818}の{f816}言葉{f817}ことば{f818}を{f816}聞{f817}き{f818}くがよい{f801}{f816}果{f817}は{f818}たして これで{f816}汝{f817}なんじ{f818}が{f816}動{f817}うご{f818}くものか…{f801}{f802}</source>
+    <target>{f871}{0100}では {f816}私{f817}わたし{f818}の{f816}言葉{f817}ことば{f818}を{f816}聞{f817}き{f818}くがよい{f801}{f816}果{f817}は{f818}たして これで{f816}汝{f817}なんじ{f818}が{f816}動{f817}うご{f818}くものか…{f801}{f802}</target>
+  </entry>
+  <entry id="37">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}おお…! {f816}遂{f817}つい{f818}に{f816}私{f817}わたし{f818}の{f816}言葉{f817}ことば{f818}を{f801}{f816}聞{f817}き{f818}き{f816}入{f817}い{f818}れるというのか!{f801}{f802}ならば{f816}語{f817}かた{f818}り{f816}伝{f817}つた{f818}えようぞ!{f801}{f816}主{f817}しゅ{f818}より{f816}賜{f817}たまわ{f818}りし {f816}聖{f817}せい{f818}なる{f816}教{f817}おし{f818}えを{f801}{f802}</source>
+    <target>{f871}{0100}おお…! {f816}遂{f817}つい{f818}に{f816}私{f817}わたし{f818}の{f816}言葉{f817}ことば{f818}を{f801}{f816}聞{f817}き{f818}き{f816}入{f817}い{f818}れるというのか!{f801}{f802}ならば{f816}語{f817}かた{f818}り{f816}伝{f817}つた{f818}えようぞ!{f801}{f816}主{f817}しゅ{f818}より{f816}賜{f817}たまわ{f818}りし {f816}聖{f817}せい{f818}なる{f816}教{f817}おし{f818}えを{f801}{f802}</target>
+  </entry>
+  <entry id="39">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}おお {f816}素晴{f817}すば{f818}らしき{f816}主{f817}しゅ{f818}の{f816}教{f817}おし{f818}えよ…{f801}いつまででも {f816}語{f817}かた{f818}っていたいものだ{f801}{f802}</source>
+    <target>{f871}{0100}おお {f816}素晴{f817}すば{f818}らしき{f816}主{f817}しゅ{f818}の{f816}教{f817}おし{f818}えよ…{f801}いつまででも {f816}語{f817}かた{f818}っていたいものだ{f801}{f802}</target>
+  </entry>
+  <entry id="41">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}{f816}主{f817}しゅ{f818}は{f816}申{f817}もう{f818}された {f816}慈悲深{f817}じひぶか{f818}くあれと{f801}{f816}汝{f817}なんじ{f818}はそれに{f816}値{f817}あたい{f818}するものか…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}主{f817}しゅ{f818}は{f816}申{f817}もう{f818}された {f816}慈悲深{f817}じひぶか{f818}くあれと{f801}{f816}汝{f817}なんじ{f818}はそれに{f816}値{f817}あたい{f818}するものか…{f801}{f802}</target>
+  </entry>
+  <entry id="43">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}{f816}今{f817}いま{f818}ばかり {f816}汝{f817}なんじ{f818}は{f816}慈悲{f817}じひ{f818}に{f816}値{f817}あたい{f818}する{f801}{f816}癒{f817}いや{f818}しと{f816}施{f817}ほどこ{f818}しを{f816}受{f817}う{f818}けるがよい…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}今{f817}いま{f818}ばかり {f816}汝{f817}なんじ{f818}は{f816}慈悲{f817}じひ{f818}に{f816}値{f817}あたい{f818}する{f801}{f816}癒{f817}いや{f818}しと{f816}施{f817}ほどこ{f818}しを{f816}受{f817}う{f818}けるがよい…{f801}{f802}</target>
+  </entry>
+  <entry id="45">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}{f816}眠{f817}ねむ{f818}りは…あらゆるものに…{f801}{f816}等{f817}ひと{f818}しく{f816}与{f817}あた{f818}えられる…{f816}安{f817}やす{f818}らぎ…{f801}{f802}{f816}今{f817}いま{f818}は{f816}汝{f817}なんじ{f818}にも…{f816}安{f817}やす{f818}らぎを…{f801}{f816}主{f817}しゅ{f818}の{f816}恵{f817}めぐ{f818}みたもう{f816}慈悲{f817}じひ{f818}を…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}眠{f817}ねむ{f818}りは…あらゆるものに…{f801}{f816}等{f817}ひと{f818}しく{f816}与{f817}あた{f818}えられる…{f816}安{f817}やす{f818}らぎ…{f801}{f802}{f816}今{f817}いま{f818}は{f816}汝{f817}なんじ{f818}にも…{f816}安{f817}やす{f818}らぎを…{f801}{f816}主{f817}しゅ{f818}の{f816}恵{f817}めぐ{f818}みたもう{f816}慈悲{f817}じひ{f818}を…{f801}{f802}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="48">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="49">
+    <source>{f871}{0100}{f816}更{f817}さら{f818}なる{f816}主{f817}しゅ{f818}の{f816}愛{f817}あい{f818}を その{f816}身{f817}み{f818}に{f816}受{f817}う{f818}けよ…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}更{f817}さら{f818}なる{f816}主{f817}しゅ{f818}の{f816}愛{f817}あい{f818}を その{f816}身{f817}み{f818}に{f816}受{f817}う{f818}けよ…{f801}{f802}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}この{f816}私{f817}わたし{f818}に {f816}資金{f817}しきん{f818}の{f816}提供{f817}ていきょう{f818}だと…?{f801}{f816}汝{f817}なんじ{f818}の{f816}欲望{f817}よくぼう{f818}はどこまで…{f801}{f802}</source>
+    <target>{f871}{0100}この{f816}私{f817}わたし{f818}に {f816}資金{f817}しきん{f818}の{f816}提供{f817}ていきょう{f818}だと…?{f801}{f816}汝{f817}なんじ{f818}の{f816}欲望{f817}よくぼう{f818}はどこまで…{f801}{f802}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="53">
+    <source>{f871}{0100}ケガレと{f816}罪{f817}つみ{f818}を{f816}重{f817}かさ{f818}ねし{f816}者{f817}もの{f818}よ{f801}{f816}報{f817}むく{f818}いの{f816}時{f817}とき{f818}を{f816}待{f817}ま{f818}つがいい…{f801}{f802}</source>
+    <target>{f871}{0100}ケガレと{f816}罪{f817}つみ{f818}を{f816}重{f817}かさ{f818}ねし{f816}者{f817}もの{f818}よ{f801}{f816}報{f817}むく{f818}いの{f816}時{f817}とき{f818}を{f816}待{f817}ま{f818}つがいい…{f801}{f802}</target>
+  </entry>
+  <entry id="54">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f816}罪{f817}つみ{f818}に{f816}対{f817}たい{f818}し この{f816}神{f817}かみ{f818}の{f816}戦車{f817}せんしゃ{f818}が{f801}{f816}報{f817}むく{f818}いの{f816}砲火{f817}ほうか{f818}を{f816}与{f817}あた{f818}えよう{f801}{f802}{f816}光{f817}ひかり{f818}に{f816}身{f817}み{f818}を{f816}焼{f817}や{f818}かれ {f816}悔{f817}く{f818}いるがいい…ッ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f816}罪{f817}つみ{f818}に{f816}対{f817}たい{f818}し この{f816}神{f817}かみ{f818}の{f816}戦車{f817}せんしゃ{f818}が{f801}{f816}報{f817}むく{f818}いの{f816}砲火{f817}ほうか{f818}を{f816}与{f817}あた{f818}えよう{f801}{f802}{f816}光{f817}ひかり{f818}に{f816}身{f817}み{f818}を{f816}焼{f817}や{f818}かれ {f816}悔{f817}く{f818}いるがいい…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="56">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}おぉぉ…ッ{f801}{f802}</source>
+    <target>{f871}{0100}おぉぉ…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="58">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}{f816}主{f817}しゅ{f818}の{f816}眼下{f817}がんか{f818}にて{f801}このような{f816}行{f817}おこな{f818}いが{f816}許{f817}ゆる{f818}されるとでも…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}主{f817}しゅ{f818}の{f816}眼下{f817}がんか{f818}にて{f801}このような{f816}行{f817}おこな{f818}いが{f816}許{f817}ゆる{f818}されるとでも…{f801}{f802}</target>
+  </entry>
+  <entry id="60">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}…もういい {f816}金{f817}かね{f818}はくれてやる{f801}どうだ {f816}嬉{f817}うれ{f818}しいか?{f801}{f802}ケガレた{f816}身{f817}み{f818}で{f816}金{f817}かね{f818}を{f816}抱{f817}だ{f818}きしめ{f801}{f816}惨{f817}みじ{f818}めな{f816}快楽{f817}かいらく{f818}を{f816}貪{f817}むさぼ{f818}るがいい{f801}{f802}</source>
+    <target>{f871}{0100}…もういい {f816}金{f817}かね{f818}はくれてやる{f801}どうだ {f816}嬉{f817}うれ{f818}しいか?{f801}{f802}ケガレた{f816}身{f817}み{f818}で{f816}金{f817}かね{f818}を{f816}抱{f817}だ{f818}きしめ{f801}{f816}惨{f817}みじ{f818}めな{f816}快楽{f817}かいらく{f818}を{f816}貪{f817}むさぼ{f818}るがいい{f801}{f802}</target>
+  </entry>
+  <entry id="62">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}…これ{f816}以上{f817}いじょう{f818}の{f816}蛮行{f817}ばんこう{f818}{f801}もはや{f816}主{f817}しゅ{f818}にお{f816}見{f817}み{f818}せできぬ…ッ{f801}{f802}</source>
+    <target>{f871}{0100}…これ{f816}以上{f817}いじょう{f818}の{f816}蛮行{f817}ばんこう{f818}{f801}もはや{f816}主{f817}しゅ{f818}にお{f816}見{f817}み{f818}せできぬ…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="64">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}{f816}私{f817}わたし{f818}の{f816}身動{f817}みうご{f818}きを{f816}奪{f817}うば{f818}い{f801}いかなる{f816}邪悪{f817}じゃあく{f818}を{f816}働{f817}はたら{f818}かんと…ッ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}私{f817}わたし{f818}の{f816}身動{f817}みうご{f818}きを{f816}奪{f817}うば{f818}い{f801}いかなる{f816}邪悪{f817}じゃあく{f818}を{f816}働{f817}はたら{f818}かんと…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="66">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}{f816}主{f817}しゅ{f818}は{f816}申{f817}もう{f818}された {f816}良{f817}よ{f818}き{f816}交換{f817}こうかん{f818}をせよと{f801}{f816}汝{f817}なんじ{f818}にそれができるものか…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}主{f817}しゅ{f818}は{f816}申{f817}もう{f818}された {f816}良{f817}よ{f818}き{f816}交換{f817}こうかん{f818}をせよと{f801}{f816}汝{f817}なんじ{f818}にそれができるものか…{f801}{f802}</target>
+  </entry>
+  <entry id="68">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}{f816}良{f817}よ{f818}かろう では{f816}交換{f817}こうかん{f818}だ{f801}{f816}汝{f817}なんじ{f818}はこれに{f816}値{f817}あたい{f818}するだろう{f801}{f802}</source>
+    <target>{f871}{0100}{f816}良{f817}よ{f818}かろう では{f816}交換{f817}こうかん{f818}だ{f801}{f816}汝{f817}なんじ{f818}はこれに{f816}値{f817}あたい{f818}するだろう{f801}{f802}</target>
+  </entry>
+  <entry id="70">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}{f816}主{f817}しゅ{f818}は{f816}申{f817}もう{f818}された {f816}良{f817}よ{f818}き{f816}交換{f817}こうかん{f818}をせよと{f801}しかしッ こうも{f816}申{f817}もう{f818}された{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}惜{f817}お{f818}しみなく{f816}分{f817}わ{f818}け{f816}与{f817}あた{f818}えよとも…ッ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}主{f817}しゅ{f818}は{f816}申{f817}もう{f818}された {f816}良{f817}よ{f818}き{f816}交換{f817}こうかん{f818}をせよと{f801}しかしッ こうも{f816}申{f817}もう{f818}された{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}惜{f817}お{f818}しみなく{f816}分{f817}わ{f818}け{f816}与{f817}あた{f818}えよとも…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="72">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}より{f816}良{f817}よ{f818}き{f816}交換{f817}こうかん{f818}のため{f801}{f816}更{f817}さら{f818}にこれも{f816}分{f817}わ{f818}け{f816}与{f817}あた{f818}えよう{f801}{f802}</source>
+    <target>{f871}{0100}より{f816}良{f817}よ{f818}き{f816}交換{f817}こうかん{f818}のため{f801}{f816}更{f817}さら{f818}にこれも{f816}分{f817}わ{f818}け{f816}与{f817}あた{f818}えよう{f801}{f802}</target>
+  </entry>
+  <entry id="74">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="75">
+    <source>{f871}{0100}…{f816}時間{f817}じかん{f818}が{f816}惜{f817}お{f818}しい{f801}{f816}金銭{f817}きんせん{f818}にて{f816}即決{f817}そっけつ{f818}することにしよう{f801}{f802}{f804}{0100}{f878}{0100}マッカ{f804}{0000}{f801}この{f816}額{f817}がく{f818} {f816}納{f817}おさ{f818}められるか?{f801}{f802}</source>
+    <target>{f871}{0100}…{f816}時間{f817}じかん{f818}が{f816}惜{f817}お{f818}しい{f801}{f816}金銭{f817}きんせん{f818}にて{f816}即決{f817}そっけつ{f818}することにしよう{f801}{f802}{f804}{0100}{f878}{0100}マッカ{f804}{0000}{f801}この{f816}額{f817}がく{f818} {f816}納{f817}おさ{f818}められるか?{f801}{f802}</target>
+  </entry>
+  <entry id="76">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="77">
+    <source>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}を{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}を{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="79">
+    <source>{f871}{0100}{f804}{0100}{f878}{0100}マッカ{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f804}{0100}{f878}{0100}マッカ{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="80">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="81">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}少{f817}すこ{f818}しばかり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}少{f817}すこ{f818}しばかり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="82">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="83">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}そこそこ{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}そこそこ{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="84">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="85">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}かなり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}かなり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="86">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="87">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}苛烈{f817}かれつ{f818}なまでに{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}生命力{f817}せいめいりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}苛烈{f817}かれつ{f818}なまでに{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="88">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="89">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}少{f817}すこ{f818}しばかり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}少{f817}すこ{f818}しばかり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="90">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="91">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}そこそこ{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}そこそこ{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="92">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="93">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}かなり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}かなり{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="94">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="95">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}苛烈{f817}かれつ{f818}なまでに{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f804}{0100}{f816}精神力{f817}せいしんりょく{f818}{f804}{0000}を{f801}{f804}{0100}{f816}苛烈{f817}かれつ{f818}なまでに{f804}{0000}{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="96">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="97">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f816}仲魔{f817}なかま{f818}…{f801}{f804}{0100}{f873}{0200}の{f816}命{f817}いのち{f818}{f804}{0000}を{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818}の{f816}仲魔{f817}なかま{f818}…{f801}{f804}{0100}{f873}{0200}の{f816}命{f817}いのち{f818}{f804}{0000}を{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="99">
+    <source>{f871}{0100}…{f804}{0100}アレ{f804}{0000}を{f816}納{f817}おさ{f818}めよ{f801}{f802}</source>
+    <target>{f871}{0100}…{f804}{0100}アレ{f804}{0000}を{f816}納{f817}おさ{f818}めよ{f801}{f802}</target>
+  </entry>
+  <entry id="100">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="101">
+    <source>{f871}{0100}{f816}汝{f817}なんじ{f818} {f816}何{f817}なに{f818}を{f816}求{f817}もと{f818}められていると{f816}思{f817}おも{f818}う?{f801}{f802}</source>
+    <target>{f871}{0100}{f816}汝{f817}なんじ{f818} {f816}何{f817}なに{f818}を{f816}求{f817}もと{f818}められていると{f816}思{f817}おも{f818}う?{f801}{f802}</target>
+  </entry>
+  <entry id="102">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}そう…その{f816}通{f817}とお{f818}りだ{f801}{f802}</source>
+    <target>{f871}{0100}そう…その{f816}通{f817}とお{f818}りだ{f801}{f802}</target>
+  </entry>
+  <entry id="104">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}やはり {f816}汝{f817}なんじ{f818}には{f816}分{f817}わ{f818}からぬか…{f801}{f802}</source>
+    <target>{f871}{0100}やはり {f816}汝{f817}なんじ{f818}には{f816}分{f817}わ{f818}からぬか…{f801}{f802}</target>
+  </entry>
+  <entry id="106">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="109">
+    <source>NOT USED{f801}{f802}</source>
+    <target>NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="110">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{f801}{f802}</source>
+    <target>NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{f801}{f802}</source>
+    <target>NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{f801}{f802}</source>
+    <target>NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{f801}{f802}</source>
+    <target>NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="118">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="120">
+    <source>{f871}{0100}うむ ここに{f816}充足{f817}じゅうそく{f818}を{f816}見{f817}み{f818}た{f801}{f802}</source>
+    <target>{f871}{0100}うむ ここに{f816}充足{f817}じゅうそく{f818}を{f816}見{f817}み{f818}た{f801}{f802}</target>
+  </entry>
+  <entry id="121">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}おお これは{f816}素晴{f817}すば{f818}らしきもの…ッ{f801}これだけで{f816}十分{f817}じゅうぶん{f818}だ{f801}{f802}</source>
+    <target>{f871}{0100}おお これは{f816}素晴{f817}すば{f818}らしきもの…ッ{f801}これだけで{f816}十分{f817}じゅうぶん{f818}だ{f801}{f802}</target>
+  </entry>
+  <entry id="123">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}{f816}光{f817}ひかり{f818}を…{f816}拒{f817}こば{f818}むというのか…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}光{f817}ひかり{f818}を…{f816}拒{f817}こば{f818}むというのか…{f801}{f802}</target>
+  </entry>
+  <entry id="125">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}よもや{f816}出{f817}だ{f818}し{f816}惜{f817}お{f818}しみとは…{f801}その{f816}狭{f817}せま{f818}き{f816}心{f817}こころ{f818}に {f816}主{f817}しゅ{f818}もお{f816}嘆{f817}なげ{f818}きであろう{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}断罪{f817}だんざい{f818}されよ…ッ{f801}{f802}</source>
+    <target>{f871}{0100}よもや{f816}出{f817}だ{f818}し{f816}惜{f817}お{f818}しみとは…{f801}その{f816}狭{f817}せま{f818}き{f816}心{f817}こころ{f818}に {f816}主{f817}しゅ{f818}もお{f816}嘆{f817}なげ{f818}きであろう{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}断罪{f817}だんざい{f818}されよ…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="127">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="128">
+    <source>{f871}{0100}もう{f816}結構{f817}けっこう{f818}だ {f816}私{f817}わたし{f818}の{f816}心{f817}こころ{f818}は{f816}離{f817}はな{f818}れた {f801}{f802}</source>
+    <target>{f871}{0100}もう{f816}結構{f817}けっこう{f818}だ {f816}私{f817}わたし{f818}の{f816}心{f817}こころ{f818}は{f816}離{f817}はな{f818}れた {f801}{f802}</target>
+  </entry>
+  <entry id="129">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="130">
+    <source>{f871}{0100}よもや{f816}欺{f817}あざむ{f818}くとは…{f801}その{f816}悪徳{f817}あくとく{f818}に {f816}主{f817}しゅ{f818}もお{f816}嘆{f817}なげ{f818}きであろう{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}断罪{f817}だんざい{f818}されよ…ッ{f801}{f802}</source>
+    <target>{f871}{0100}よもや{f816}欺{f817}あざむ{f818}くとは…{f801}その{f816}悪徳{f817}あくとく{f818}に {f816}主{f817}しゅ{f818}もお{f816}嘆{f817}なげ{f818}きであろう{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}断罪{f817}だんざい{f818}されよ…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="131">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="132">
+    <source>{f871}{0100}…{f816}持{f817}も{f818}たざる{f816}者{f817}もの{f818}であったか{f801}{f802}</source>
+    <target>{f871}{0100}…{f816}持{f817}も{f818}たざる{f816}者{f817}もの{f818}であったか{f801}{f802}</target>
+  </entry>
+  <entry id="133">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="134">
+    <source>{f871}{0100}{f816}魔石{f817}ませき{f818}がないとは {f816}嘆{f817}なげ{f818}かわしい{f801}{f802}</source>
+    <target>{f871}{0100}{f816}魔石{f817}ませき{f818}がないとは {f816}嘆{f817}なげ{f818}かわしい{f801}{f802}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="136">
+    <source>{f871}{0100}ならば {f816}謙虚{f817}けんきょ{f818}と{f816}美徳{f817}びとく{f818}をもって{f801}ささやかなる{f816}充足{f817}じゅうそく{f818}を{f816}知{f817}し{f818}ろう…{f801}{f802}</source>
+    <target>{f871}{0100}ならば {f816}謙虚{f817}けんきょ{f818}と{f816}美徳{f817}びとく{f818}をもって{f801}ささやかなる{f816}充足{f817}じゅうそく{f818}を{f816}知{f817}し{f818}ろう…{f801}{f802}</target>
+  </entry>
+  <entry id="137">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="138">
+    <source>{f871}{0100}{f816}分{f817}わ{f818}け{f816}与{f817}あた{f818}えを{f816}惜{f817}お{f818}しむとは…{f801}その{f816}貧{f817}まず{f818}しき{f816}心{f817}こころ{f818}に {f816}主{f817}しゅ{f818}もお{f816}嘆{f817}なげ{f818}きであろう{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}断罪{f817}だんざい{f818}されよ…ッ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}分{f817}わ{f818}け{f816}与{f817}あた{f818}えを{f816}惜{f817}お{f818}しむとは…{f801}その{f816}貧{f817}まず{f818}しき{f816}心{f817}こころ{f818}に {f816}主{f817}しゅ{f818}もお{f816}嘆{f817}なげ{f818}きであろう{f801}{f802}{f816}汝{f817}なんじ{f818} {f816}断罪{f817}だんざい{f818}されよ…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="139">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="140">
+    <source>{f871}{0100}{f816}度重{f817}たびかさ{f818}なり {f816}頑{f817}がん{f818}とした{f816}拒絶{f817}きょぜつ{f818}…{f801}それは{f816}暗{f817}くら{f818}くも {f816}固{f817}かた{f818}き{f816}誓{f817}ちか{f818}いであるか…{f801}{f802}その{f816}誓{f817}ちか{f818}い {f816}今{f817}いま{f818}ばかりは{f816}尊重{f817}そんちょう{f818}しよう{f801}{f802}</source>
+    <target>{f871}{0100}{f816}度重{f817}たびかさ{f818}なり {f816}頑{f817}がん{f818}とした{f816}拒絶{f817}きょぜつ{f818}…{f801}それは{f816}暗{f817}くら{f818}くも {f816}固{f817}かた{f818}き{f816}誓{f817}ちか{f818}いであるか…{f801}{f802}その{f816}誓{f817}ちか{f818}い {f816}今{f817}いま{f818}ばかりは{f816}尊重{f817}そんちょう{f818}しよう{f801}{f802}</target>
+  </entry>
+  <entry id="141">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="142">
+    <source>{f871}{0100}{f816}何{f817}なん{f818}でも{f816}差{f817}さ{f818}し{f816}出{f817}だ{f818}す その{f816}行為{f817}こうい{f818}も{f801}{f816}汝{f817}なんじ{f818}が{f816}行{f817}おこな{f818}えば {f816}卑{f817}いや{f818}しき{f816}盲従{f817}もうじゅう{f818}にすぎぬ{f801}{f802}{f816}離{f817}はな{f818}れよッ {f816}話{f817}はなし{f818}は{f816}終{f817}お{f818}わりだ{f801}{f802}</source>
+    <target>{f871}{0100}{f816}何{f817}なん{f818}でも{f816}差{f817}さ{f818}し{f816}出{f817}だ{f818}す その{f816}行為{f817}こうい{f818}も{f801}{f816}汝{f817}なんじ{f818}が{f816}行{f817}おこな{f818}えば {f816}卑{f817}いや{f818}しき{f816}盲従{f817}もうじゅう{f818}にすぎぬ{f801}{f802}{f816}離{f817}はな{f818}れよッ {f816}話{f817}はなし{f818}は{f816}終{f817}お{f818}わりだ{f801}{f802}</target>
+  </entry>
+  <entry id="143">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="144">
+    <source>{f871}{0100}そんなにも{f816}何{f817}なに{f818}も{f816}持{f817}も{f818}たぬ{f816}身{f817}み{f818}で{f801}{f816}私{f817}わたし{f818}に{f816}立{f817}た{f818}ち{f816}向{f817}む{f818}かったというのか…{f801}{f802}{f816}暗{f817}くら{f818}くも{f816}強{f817}つよ{f818}き これが{f816}汝{f817}なんじ{f818}の{f816}意志{f817}いし{f818}か…ッ{f801}{f802}</source>
+    <target>{f871}{0100}そんなにも{f816}何{f817}なに{f818}も{f816}持{f817}も{f818}たぬ{f816}身{f817}み{f818}で{f801}{f816}私{f817}わたし{f818}に{f816}立{f817}た{f818}ち{f816}向{f817}む{f818}かったというのか…{f801}{f802}{f816}暗{f817}くら{f818}くも{f816}強{f817}つよ{f818}き これが{f816}汝{f817}なんじ{f818}の{f816}意志{f817}いし{f818}か…ッ{f801}{f802}</target>
+  </entry>
+  <entry id="145">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="146">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="149">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="151">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="152">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="153">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="155">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="157">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="159">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="161">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="162">
+    <source>{f871}{0100}{f816}何度{f817}なんど{f818}{f816}同{f817}おな{f818}じことを{f816}繰{f817}く{f818}り{f816}返{f817}かえ{f818}す{f801}いくら{f816}私{f817}わたし{f818}とて {f816}飽{f817}あ{f818}きるというもの…{f801}{f802}</source>
+    <target>{f871}{0100}{f816}何度{f817}なんど{f818}{f816}同{f817}おな{f818}じことを{f816}繰{f817}く{f818}り{f816}返{f817}かえ{f818}す{f801}いくら{f816}私{f817}わたし{f818}とて {f816}飽{f817}あ{f818}きるというもの…{f801}{f802}</target>
+  </entry>
+  <entry id="163">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="165">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="166">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="168">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="169">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="170">
+    <source>NOT USED{f801}</source>
+    <target>NOT USED{f801}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="172">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+  <entry id="174">
+    <source>{f871}{0100}NOT USED{f801}{f802}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>はい{f801}いいえ{f801}</source>
+    <target>はい{f801}いいえ{f801}</target>
+  </entry>
+  <entry id="1">
+    <source>エリア1に移動しますか?{f801}</source>
+    <target>エリア1に移動しますか?{f801}</target>
+  </entry>
+  <entry id="2">
+    <source>エリア2に移動しますか?{f801}</source>
+    <target>エリア2に移動しますか?{f801}</target>
+  </entry>
+  <entry id="3">
+    <source>エリア3に移動しますか?{f801}</source>
+    <target>エリア3に移動しますか?{f801}</target>
+  </entry>
+  <entry id="4">
+    <source>エリア4に移動しますか?{f801}</source>
+    <target>エリア4に移動しますか?{f801}</target>
+  </entry>
+  <entry id="5">
+    <source>エリア5に移動しますか?{f801}</source>
+    <target>エリア5に移動しますか?{f801}</target>
+  </entry>
+  <entry id="6">
+    <source>エリア6に移動しますか?{f801}</source>
+    <target>エリア6に移動しますか?{f801}</target>
+  </entry>
+  <entry id="7">
+    <source>エリア7に移動しますか?{f801}</source>
+    <target>エリア7に移動しますか?{f801}</target>
+  </entry>
+  <entry id="8">
+    <source>エリア8に移動しますか?{f801}</source>
+    <target>エリア8に移動しますか?{f801}</target>
+  </entry>
+  <entry id="9">
+    <source>エリア9に移動しますか?{f801}</source>
+    <target>エリア9に移動しますか?{f801}</target>
+  </entry>
+  <entry id="10">
+    <source>空を飛びますか?{f801}</source>
+    <target>空を飛びますか?{f801}</target>
+  </entry>
+  <entry id="11">
+    <source>俺の爆弾で ぶっとばすぞ{f801}</source>
+    <target>俺の爆弾で ぶっとばすぞ{f801}</target>
+  </entry>
+</mbm>
