@@ -1040,8 +1040,8 @@
     <target>リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="264">
-    <source>{f871}{0100}呃~ 老子 醉了{f801}现在 想睡觉…{f801}{f802}借你的 召唤槽 睡一下…{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}呃~ 老子 醉了{f801}现在 想睡觉…{f801}{f802}借你的 召唤槽 睡一下…{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}呃〜 老子 醉了{f801}现在 想睡觉…{f801}{f802}借你的 召唤槽 睡一下…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呃〜 老子 醉了{f801}现在 想睡觉…{f801}{f802}借你的 召唤槽 睡一下…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="265">
     <source>リザーブ{f801}{ffff}</source>

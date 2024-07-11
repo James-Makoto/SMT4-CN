@@ -120,8 +120,8 @@
     <target>{f871}{0100}…为什么要妨碍我的安眠…{f801}人类总是这么碍事…{f801}{f802}赶快消失吧…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="30">
-    <source>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊~{f801}{ffff}</source>
-    <target>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊~{f801}{ffff}</target>
+    <source>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊〜{f801}{ffff}</source>
+    <target>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊〜{f801}{ffff}</target>
   </entry>
   <entry id="31">
     <source>你吵醒我们?{f801}粗鲁…{f801}废物…{f801}快滚!{f801}我们还要睡…{f801}{ffff}</source>
@@ -188,8 +188,8 @@
     <target>{f871}{0100}ZZZ…{f801}请你不要妨碍我的安眠…{f801}{f802}如果你想要慈悲…{f801}那就给你…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="47">
-    <source>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊啊啊啊~{f801}{ffff}</source>
-    <target>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊啊啊啊~{f801}{ffff}</target>
+    <source>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊啊啊啊〜{f801}{ffff}</source>
+    <target>Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}Zzzzzz…{f801}呼啊啊啊啊啊啊〜{f801}{ffff}</target>
   </entry>
   <entry id="48">
     <source>你把我们吵醒…{f801}就为了敬拜我们?{f801}你有我们的慈悲了。{f801}现在快离开。{f801}我们只想睡觉…{f801}{ffff}</source>
@@ -424,8 +424,8 @@
     <target>{f871}{0100}我们聊不到一起去呢。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="106">
-    <source>唉~{f801}你真不懂啊。{f801}真是的…{f801}算了算了,{f801}真够扫兴。{f801}{ffff}</source>
-    <target>唉~{f801}你真不懂啊。{f801}真是的…{f801}算了算了,{f801}真够扫兴。{f801}{ffff}</target>
+    <source>唉〜{f801}你真不懂啊。{f801}真是的…{f801}算了算了,{f801}真够扫兴。{f801}{ffff}</source>
+    <target>唉〜{f801}你真不懂啊。{f801}真是的…{f801}算了算了,{f801}真够扫兴。{f801}{ffff}</target>
   </entry>
   <entry id="107">
     <source>{f871}{0100}我想敲一下你的脑袋,{f801}既然是空的,应该会发出悦耳的声音吧?{f801}{f802}{ffff}</source>
@@ -548,8 +548,8 @@
     <target>{f871}{0100}…好吧,{f801}有时对他人的要求放简单些也好。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="137">
-    <source>哎呀?{f801}我们要的好像太多了?{f801}那行,{f801}我们就节约点。{f801}哼哼~{f801}{ffff}</source>
-    <target>哎呀?{f801}我们要的好像太多了?{f801}那行,{f801}我们就节约点。{f801}哼哼~{f801}{ffff}</target>
+    <source>哎呀?{f801}我们要的好像太多了?{f801}那行,{f801}我们就节约点。{f801}哼哼〜{f801}{ffff}</source>
+    <target>哎呀?{f801}我们要的好像太多了?{f801}那行,{f801}我们就节约点。{f801}哼哼〜{f801}{ffff}</target>
   </entry>
   <entry id="138">
     <source>{f871}{0100}以你现在的立场应该说这句话吗?{f801}还真是小看我呢。{f801}{f802}事已至此,你也死不足惜了。{f801}{f802}{ffff}</source>
