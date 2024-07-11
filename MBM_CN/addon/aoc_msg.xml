@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="1">
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>ここから{f816}先{f817}さき{f818}はインターネットへの{f801}{f816}接続{f817}せつぞく{f818}が{f816}必要{f817}ひつよう{f818}です よろしいですか?{f801}{ffff}</source>
+    <target>要进入这个页面，需要连接到互联网。{f801}{f816}确定要进入这个页面吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f816}終了{f817}しゅうりょう{f818}しますか?{f801}{ffff}</source>
+    <target>要结束吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f872}{0100}{f801}を{f816}購入{f817}こうにゅう{f818}しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}{f801}要购买吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f872}{0100}{f801}を{f816}削除{f817}さくじょ{f818}しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}{f801}要删除吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f872}{0100}{f801}を{f816}再受信{f817}さいじゅしん{f818}しますか?{f801}{ffff}</source>
+    <target>{f872}{0100}{f801}要重新下载吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>SDカードを{f816}抜{f817}ぬ{f818}かないでください{f801}{ffff}</source>
+    <target>请不要拔出SD卡{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>コンテンツの{f816}削除{f817}さくじょ{f818}が{f816}完了{f817}かんりょう{f818}しました{f801}{ffff}</source>
+    <target>可下载内容已删除{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>パスワード{f816}入力{f817}にゅうりょく{f818}を{f816}行{f817}おこな{f818}いますか?{f801}{ffff}</source>
+    <target>要输入密码吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>パスワードが{f816}間違{f817}まちが{f818}っています{f801}{ffff}</source>
+    <target>密码不正确{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>ダウンロード番号の入力{f801}{ffff}</source>
+    <target>输入下载兑换码{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>ダウンロードカードをお{f816}持{f817}も{f818}ちの{f816}場合{f817}ばあい{f818}はこちらで{f801}{f816}記載{f817}きさい{f818}されたダウンロード{f816}番号{f817}ばんごう{f818}の{f816}入力{f817}にゅうりょく{f818}が{f816}行{f817}おこな{f818}えます{f801}入{f816}力後{f817}にゅうりょくご{f818} ゲーム{f816}中{f817}ちゅう{f818}の『メニュー』の『{f816}装備{f817}そうび{f818}』の{f801}『{f816}上半身{f817}じょうはんしん{f818}』{f816}欄{f817}らん{f818}に{f816}各{f817}かく{f818}ダウンロードコードに{f816}応{f817}おう{f818}じた{f801}{f816}専用装備{f817}せんようそうび{f818}が1{f816}個{f817}こ{f818}{f816}無料{f817}むりょう{f818}でダウンロードされます{f801}{ffff}</source>
+    <target>持有下载兑换卡的时候，可输入卡上记载的{f801}下载兑换码输入后可在游戏中的『菜单』内{f801}选择『装备』中的『上半身』一栏中获取{f801}专属装备，一个下载兑换码可获取一件专属装备{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>ダウンロード{f816}番号{f817}ばんごう{f818}の{f816}入力{f817}にゅうりょく{f818}を{f816}行{f817}おこな{f818}いますか?{f801}{ffff}</source>
+    <target>要输入下载兑换码吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>『{f816}注意事項{f817}ちゅういじこう{f818}』{f801}ここでは{f816}真{f817}しん{f818}・{f816}女神転生{f817}めがみてんせい{f818}{8757}の{f816}追加{f817}ついか{f818}コンテンツを{f801}{f816}購入{f817}こうにゅう{f818}することができます{f801}{f816}本編{f817}ほんぺん{f818}を{f816}進{f817}すす{f818}めることでプレイ{f816}可能{f817}かのう{f818}になるコンテンツ{f801}もありますので {f816}購入{f817}こうにゅう{f818}の{f816}際{f817}さい{f818}は{f816}各{f817}かく{f818}コンテンツの{f816}説明{f817}せつめい{f818}{f801}をご{f816}確認{f817}かくにん{f818}ください{f801}また {f816}購入{f817}こうにゅう{f818}した{f816}追加{f817}ついか{f818}コンテンツは{f801}すべてのセーブデータで{f816}遊{f817}あそ{f818}ぶことができます{f801}{ffff}</source>
+    <target>『注意事项』{f801}在这里你可以购买{f801}真・女神转生{8757}的可下载内容{f801}其中一部分可下载内容{f801}在您游玩本篇内容时会随着进展而解锁{f801}因此请在购买前查看说明以进行确认{f801}购买可下载内容后{f801}所有存档都可以使用可下载内容{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>ここから先は{f801}タッチ操作で項目をえらんでください{f801}{ffff}</source>
+    <target>从这里开始{f801}请通过点触项目来进行操作{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>購入したいコンテンツをえらんでください{f801}{ffff}</source>
+    <target>请选择您想要购买的内容{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f816}近日{f817}きんじつ{f818}サービスを{f816}開始{f817}かいし{f818}{f816}致{f817}いた{f818}します{f801}お{f816}楽{f817}たの{f818}しみに!{f801}{ffff}</source>
+    <target>该服务即将推出{f801}敬请期待!{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>ブロック{f801}{ffff}</source>
+    <target>格数{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>無料{f801}{ffff}</source>
+    <target>免费{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>接続中{f801}{ffff}</source>
+    <target>连接中{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>少しお待ちください{f801}{ffff}</source>
+    <target>请稍候{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>準備中{f801}{ffff}</source>
+    <target>准备中{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>削除中{f801}{ffff}</source>
+    <target>删除中{f801}{ffff}</target>
+  </entry>
+  <entry id="190">
+    <source>{f816}追加{f817}ついか{f818}コンテンツを{f816}読{f817}よ{f818}み{f816}込{f817}こ{f818}んでいます{f801}SDカードを{f816}抜{f817}ぬ{f818}きさししないでください{f801}{ffff}</source>
+    <target>正在读取可下载内容{f801}请不要拔出SD卡{f801}{ffff}</target>
+  </entry>
+</mbm>
