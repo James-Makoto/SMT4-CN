@@ -376,8 +376,8 @@
     <target>HPが0の状態をHP全快で復活させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="95">
-    <source>自分の全HPと引換に味方を復活&amp;全快{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>自分の全HPと引換に味方を復活&amp;全快{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+    <source>自分の全HPと引換に味方を復活・全快{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>自分の全HPと引換に味方を復活・全快{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="96">
     <source>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
@@ -496,8 +496,8 @@
     <target>仲魔を召喚 または帰還させる{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="125">
-    <source>仲魔を召喚・帰還&amp;HPが0の状態を復活{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>仲魔を召喚・帰還&amp;HPが0の状態を復活{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
+    <source>仲魔を召喚・帰還・HPが0の状態を復活{f801}対象/{f87d}{0f00}{f801}{ffff}</source>
+    <target>仲魔を召喚・帰還・HPが0の状態を復活{f801}対象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="126">
     <source>ダミー{f801}対象/{f87d}{0f00}{f801}{ffff}</source>

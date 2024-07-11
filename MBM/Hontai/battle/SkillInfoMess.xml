@@ -236,8 +236,8 @@
     <target>{f873}{0600}はニヤリと笑った・・・{f801}{ffff}</target>
   </entry>
   <entry id="318">
-    <source>自分の全能力アップ&amp;相手の全能力ダウン!{f801}{ffff}</source>
-    <target>自分の全能力アップ&amp;相手の全能力ダウン!{f801}{ffff}</target>
+    <source>自分の全能力アップ・相手の全能力ダウン!{f801}{ffff}</source>
+    <target>自分の全能力アップ・相手の全能力ダウン!{f801}{ffff}</target>
   </entry>
   <entry id="319">
     <source>命中・回避率 ダウン!{f801}{ffff}</source>

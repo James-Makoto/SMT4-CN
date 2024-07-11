@@ -236,8 +236,8 @@
     <target>{f873}{0600}露出了奸笑・・・{f801}{ffff}</target>
   </entry>
   <entry id="318">
-    <source>自己的所有能力提升&amp;对手的所有能力下降!{f801}{ffff}</source>
-    <target>自己的所有能力提升&amp;对手的所有能力下降!{f801}{ffff}</target>
+    <source>自己的所有能力提升・对手的所有能力下降!{f801}{ffff}</source>
+    <target>自己的所有能力提升・对手的所有能力下降!{f801}{ffff}</target>
   </entry>
   <entry id="319">
     <source>命中・回避率 DOWN!{f801}{ffff}</source>

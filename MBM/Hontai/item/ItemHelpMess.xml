@@ -108,8 +108,8 @@
     <target>MPを小回復する  補足/無限に使用可{f801}対象/{f87d}{0000} 所持個数制限/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="28">
-    <source>仲魔を召喚・帰還&amp;HPが0の状態を復活{f801}対象/{f87d}{0000} 所持個数制限/{f87d}{0100}{f801}{ffff}</source>
-    <target>仲魔を召喚・帰還&amp;HPが0の状態を復活{f801}対象/{f87d}{0000} 所持個数制限/{f87d}{0100}{f801}{ffff}</target>
+    <source>仲魔を召喚・帰還・HPが0の状態を復活{f801}対象/{f87d}{0000} 所持個数制限/{f87d}{0100}{f801}{ffff}</source>
+    <target>仲魔を召喚・帰還・HPが0の状態を復活{f801}対象/{f87d}{0000} 所持個数制限/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="29">
     <source>換金することのできる黄金の工芸品{f801}対象/なし 所持個数制限/{f87d}{0100}{f801}{ffff}</source>
@@ -7960,8 +7960,8 @@
     <target>「ふんばり武士軍団」{f801}から手に入れた契約書{f801}{ffff}</target>
   </entry>
   <entry id="1991">
-    <source>「ドワーフ&amp;エルフ」{f801}から手に入れた契約書{f801}{ffff}</source>
-    <target>「ドワーフ&amp;エルフ」{f801}から手に入れた契約書{f801}{ffff}</target>
+    <source>「ドワーフ・エルフ」{f801}から手に入れた契約書{f801}{ffff}</source>
+    <target>「ドワーフ・エルフ」{f801}から手に入れた契約書{f801}{ffff}</target>
   </entry>
   <entry id="1992">
     <source>「半獣軍団」{f801}から手に入れた契約書{f801}{ffff}</source>

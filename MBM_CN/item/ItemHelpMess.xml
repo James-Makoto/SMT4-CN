@@ -108,8 +108,8 @@
     <target>MP小回复  备注/可无限使用{f801}对象/{f87d}{0000} 持有个数限制/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="28">
-    <source>召唤・归还仲魔&amp;从HP为0的状态复活{f801}对象/{f87d}{0000} 持有个数限制/{f87d}{0100}{f801}{ffff}</source>
-    <target>召唤・归还仲魔&amp;从HP为0的状态复活{f801}对象/{f87d}{0000} 持有个数限制/{f87d}{0100}{f801}{ffff}</target>
+    <source>召唤・归还仲魔・从HP为0的状态复活{f801}对象/{f87d}{0000} 持有个数限制/{f87d}{0100}{f801}{ffff}</source>
+    <target>召唤・归还仲魔・从HP为0的状态复活{f801}对象/{f87d}{0000} 持有个数限制/{f87d}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="29">
     <source>可以换钱的黄金工艺品{f801}对象/无 持有个数限制/{f87d}{0100}{f801}{ffff}</source>
@@ -7960,8 +7960,8 @@
     <target>「ふんばり武士军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1991">
-    <source>「ドワーフ&amp;エルフ」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「ドワーフ&amp;エルフ」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「ドワーフ・エルフ」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「ドワーフ・エルフ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1992">
     <source>「半兽军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
