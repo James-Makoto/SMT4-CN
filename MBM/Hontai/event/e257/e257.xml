@@ -1,10 +1,10 @@
 <mbm>
   <entry id="0">
-    <source>ヤマトを起動しブラックホールをつくる{f801}</source>
-    <target>ヤマトを起動しブラックホールをつくる{f801}</target>
+    <source>ヤマトを起動しブラックホールをつくる{f801}{ffff}</source>
+    <target>ヤマトを起動しブラックホールをつくる{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>カットアニメで{f801}主人公が粒子となり消滅する{f801}</source>
-    <target>カットアニメで{f801}主人公が粒子となり消滅する{f801}</target>
+    <source>カットアニメで{f801}主人公が粒子となり消滅する{f801}{ffff}</source>
+    <target>カットアニメで{f801}主人公が粒子となり消滅する{f801}{ffff}</target>
   </entry>
 </mbm>

@@ -1,702 +1,702 @@
 <mbm>
   <entry id="0">
-    <source>ダミーメッセージ{f801}</source>
-    <target>ダミーメッセージ{f801}</target>
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>{f871}{0100}何で…分かって…くれないの…{f801}ワタシ…悪くない…のに…{f801}{f802}みんな…世間が…悪い…{f801}責任…取りなさい…よ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}何で…分かって…くれないの…{f801}ワタシ…悪くない…のに…{f801}{f802}みんな…世間が…悪い…{f801}責任…取りなさい…よ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}何で…分かって…くれないの…{f801}ワタシ…悪くない…のに…{f801}{f802}みんな…世間が…悪い…{f801}責任…取りなさい…よ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何で…分かって…くれないの…{f801}ワタシ…悪くない…のに…{f801}{f802}みんな…世間が…悪い…{f801}責任…取りなさい…よ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="2">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="3">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="4">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="5">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="6">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="7">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="8">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="9">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="10">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="11">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="12">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="13">
-    <source>{f871}{0100}ワタシは…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}責任…取りなさい…よ…{f801}{f802}</source>
-    <target>{f871}{0100}ワタシは…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}責任…取りなさい…よ…{f801}{f802}</target>
+    <source>{f871}{0100}ワタシは…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワタシは…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="14">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="15">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="16">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="17">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="18">
-    <source>{f871}{0100}ワタシを…置いて…行く気ね…{f801}そうは…させない…わよ…{f801}{f802}</source>
-    <target>{f871}{0100}ワタシを…置いて…行く気ね…{f801}そうは…させない…わよ…{f801}{f802}</target>
+    <source>{f871}{0100}ワタシを…置いて…行く気ね…{f801}そうは…させない…わよ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワタシを…置いて…行く気ね…{f801}そうは…させない…わよ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="19">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="20">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="21">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="22">
-    <source>{f871}{0100}アンタの…せいよ…{f801}どうして…くれるの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アンタの…せいよ…{f801}どうして…くれるの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アンタの…せいよ…{f801}どうして…くれるの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アンタの…せいよ…{f801}どうして…くれるの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="23">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="24">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="25">
-    <source>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}</source>
-    <target>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}</target>
+    <source>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="26">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="27">
-    <source>{f871}{0100}一応…責任…取ったし…{f801}もう…帰って…いいわ…よ…{f801}{f802}</source>
-    <target>{f871}{0100}一応…責任…取ったし…{f801}もう…帰って…いいわ…よ…{f801}{f802}</target>
+    <source>{f871}{0100}一応…責任…取ったし…{f801}もう…帰って…いいわ…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}一応…責任…取ったし…{f801}もう…帰って…いいわ…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="28">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="29">
-    <source>{f871}{0100}ワタシ…寝てる…のに…{f801}どうして…起こすの…よ…ッ{f801}{f802}責任…取りなさいよ…{f801}早く…消えなさい…よ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ワタシ…寝てる…のに…{f801}どうして…起こすの…よ…ッ{f801}{f802}責任…取りなさいよ…{f801}早く…消えなさい…よ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ワタシ…寝てる…のに…{f801}どうして…起こすの…よ…ッ{f801}{f802}責任…取りなさいよ…{f801}早く…消えなさい…よ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワタシ…寝てる…のに…{f801}どうして…起こすの…よ…ッ{f801}{f802}責任…取りなさいよ…{f801}早く…消えなさい…よ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="30">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="31">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="32">
-    <source>{f871}{0100}どうせなら…回復…くらい…{f801}していったら…どうなの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}どうせなら…回復…くらい…{f801}していったら…どうなの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}どうせなら…回復…くらい…{f801}していったら…どうなの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}どうせなら…回復…くらい…{f801}していったら…どうなの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="33">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="34">
-    <source>{f871}{0100}責任…取って…くれるのね…?{f801}さっさと…出しなさい…よ…{f801}{f802}</source>
-    <target>{f871}{0100}責任…取って…くれるのね…?{f801}さっさと…出しなさい…よ…{f801}{f802}</target>
+    <source>{f871}{0100}責任…取って…くれるのね…?{f801}さっさと…出しなさい…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}責任…取って…くれるのね…?{f801}さっさと…出しなさい…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="35">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="36">
-    <source>{f871}{0100}責任…取って…もらえたわ…{f801}ああ…スッキリ…した…ッ{f801}{f802}</source>
-    <target>{f871}{0100}責任…取って…もらえたわ…{f801}ああ…スッキリ…した…ッ{f801}{f802}</target>
+    <source>{f871}{0100}責任…取って…もらえたわ…{f801}ああ…スッキリ…した…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}責任…取って…もらえたわ…{f801}ああ…スッキリ…した…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="37">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="38">
-    <source>{f871}{0100}アハ…アハハハ…{f801}責任…取って…くれるのね…?{f801}{f802}まあ…嬉しい…ッ{f801}世の中…これが…正しいの…ッ{f801}{f802}</source>
-    <target>{f871}{0100}アハ…アハハハ…{f801}責任…取って…くれるのね…?{f801}{f802}まあ…嬉しい…ッ{f801}世の中…これが…正しいの…ッ{f801}{f802}</target>
+    <source>{f871}{0100}アハ…アハハハ…{f801}責任…取って…くれるのね…?{f801}{f802}まあ…嬉しい…ッ{f801}世の中…これが…正しいの…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アハ…アハハハ…{f801}責任…取って…くれるのね…?{f801}{f802}まあ…嬉しい…ッ{f801}世の中…これが…正しいの…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="39">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="40">
-    <source>{f871}{0100}文句…言い続けて…よかった…わ…{f801}ゲヘッ…ゲヘヘヘッ…{f801}{f802}</source>
-    <target>{f871}{0100}文句…言い続けて…よかった…わ…{f801}ゲヘッ…ゲヘヘヘッ…{f801}{f802}</target>
+    <source>{f871}{0100}文句…言い続けて…よかった…わ…{f801}ゲヘッ…ゲヘヘヘッ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}文句…言い続けて…よかった…わ…{f801}ゲヘッ…ゲヘヘヘッ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="41">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="42">
-    <source>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}</source>
-    <target>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}</target>
+    <source>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="43">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="44">
-    <source>{f871}{0100}まったく…しょうがない…わね…{f801}これ…くらいで…いいかしら…?{f801}{f802}</source>
-    <target>{f871}{0100}まったく…しょうがない…わね…{f801}これ…くらいで…いいかしら…?{f801}{f802}</target>
+    <source>{f871}{0100}まったく…しょうがない…わね…{f801}これ…くらいで…いいかしら…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}まったく…しょうがない…わね…{f801}これ…くらいで…いいかしら…?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="45">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="46">
-    <source>{f871}{0100}ワタシ…眠いの…よ…{f801}ジャマ…しないで…よ…{f801}{f802}回復して…あげる…から…{f801}寝かせ…といて…よ…{f801}{f802}</source>
-    <target>{f871}{0100}ワタシ…眠いの…よ…{f801}ジャマ…しないで…よ…{f801}{f802}回復して…あげる…から…{f801}寝かせ…といて…よ…{f801}{f802}</target>
+    <source>{f871}{0100}ワタシ…眠いの…よ…{f801}ジャマ…しないで…よ…{f801}{f802}回復して…あげる…から…{f801}寝かせ…といて…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワタシ…眠いの…よ…{f801}ジャマ…しないで…よ…{f801}{f802}回復して…あげる…から…{f801}寝かせ…といて…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="47">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="48">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="49">
-    <source>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}</source>
-    <target>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}</target>
+    <source>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="50">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="51">
-    <source>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="52">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="53">
-    <source>{f871}{0100}恨んでやる…恨んでやる…{f801}世の中…間違って…る…ッ{f801}{f802}</source>
-    <target>{f871}{0100}恨んでやる…恨んでやる…{f801}世の中…間違って…る…ッ{f801}{f802}</target>
+    <source>{f871}{0100}恨んでやる…恨んでやる…{f801}世の中…間違って…る…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}恨んでやる…恨んでやる…{f801}世の中…間違って…る…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="54">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="55">
-    <source>{f871}{0100}責任…取れぇぇぇ…ッ{f801}死んで…詫びろ…よぉぉぉ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}責任…取れぇぇぇ…ッ{f801}死んで…詫びろ…よぉぉぉ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}責任…取れぇぇぇ…ッ{f801}死んで…詫びろ…よぉぉぉ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}責任…取れぇぇぇ…ッ{f801}死んで…詫びろ…よぉぉぉ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="56">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="57">
-    <source>{f871}{0100}ひ…ひえぇぇぇ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ひ…ひえぇぇぇ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ひ…ひえぇぇぇ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ひ…ひえぇぇぇ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="58">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="59">
-    <source>{f871}{0100}何でよぉぉぉ…ッ{f801}何で…ワタシ…が…{f801}{f802}</source>
-    <target>{f871}{0100}何でよぉぉぉ…ッ{f801}何で…ワタシ…が…{f801}{f802}</target>
+    <source>{f871}{0100}何でよぉぉぉ…ッ{f801}何で…ワタシ…が…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何でよぉぉぉ…ッ{f801}何で…ワタシ…が…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="60">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="61">
-    <source>{f871}{0100}分かった…わよ…ッ{f801}出せば…いいんで…しょ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}分かった…わよ…ッ{f801}出せば…いいんで…しょ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}分かった…わよ…ッ{f801}出せば…いいんで…しょ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}分かった…わよ…ッ{f801}出せば…いいんで…しょ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="62">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="63">
-    <source>{f871}{0100}ふぎぃぃぃぃぃ!{f801}いい加減に…しなさい…よ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ふぎぃぃぃぃぃ!{f801}いい加減に…しなさい…よ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ふぎぃぃぃぃぃ!{f801}いい加減に…しなさい…よ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ふぎぃぃぃぃぃ!{f801}いい加減に…しなさい…よ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="64">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="65">
-    <source>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ちょっと…やめて…よ…{f801}ワタシ…何も…悪くない…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="66">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="67">
-    <source>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}</source>
-    <target>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}</target>
+    <source>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}だったら…何か…出してよ…{f801}責任…取りなさい…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="68">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="69">
-    <source>{f871}{0100}まったく…しょうがない…わね…{f801}これで…いいかしら…?{f801}{f802}</source>
-    <target>{f871}{0100}まったく…しょうがない…わね…{f801}これで…いいかしら…?{f801}{f802}</target>
+    <source>{f871}{0100}まったく…しょうがない…わね…{f801}これで…いいかしら…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}まったく…しょうがない…わね…{f801}これで…いいかしら…?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="70">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="71">
-    <source>{f871}{0100}アハ…アハハハ…{f801}持って…いけば…いいでしょ…{f801}{f802}どうせ…失うもの…なんか…{f801}何も…ないんだ…から…ッ{f801}{f802}</source>
-    <target>{f871}{0100}アハ…アハハハ…{f801}持って…いけば…いいでしょ…{f801}{f802}どうせ…失うもの…なんか…{f801}何も…ないんだ…から…ッ{f801}{f802}</target>
+    <source>{f871}{0100}アハ…アハハハ…{f801}持って…いけば…いいでしょ…{f801}{f802}どうせ…失うもの…なんか…{f801}何も…ないんだ…から…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アハ…アハハハ…{f801}持って…いけば…いいでしょ…{f801}{f802}どうせ…失うもの…なんか…{f801}何も…ないんだ…から…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="72">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="73">
-    <source>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}</source>
-    <target>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}</target>
+    <source>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何よ…まだ…足りないの…?{f801}まったく…厚かましい…わね…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="74">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="75">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="76">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="77">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="78">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="79">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="80">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="81">
-    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="82">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="83">
-    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="84">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="85">
-    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="86">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="87">
-    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}生命力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="88">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="89">
-    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}少しだけ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="90">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="91">
-    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}そこそこ{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="92">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="93">
-    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}かなり{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="94">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="95">
-    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタの…{f804}{0100}精神力{f804}{0000}…{f801}{f804}{0100}死ぬほど{f804}{0000}…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="96">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="97">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="98">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="99">
-    <source>{f871}{0100}{f804}{0100}アレ{f804}{0000}を…よこすの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}{f804}{0100}アレ{f804}{0000}を…よこすの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}{f804}{0100}アレ{f804}{0000}を…よこすの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}アレ{f804}{0000}を…よこすの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="100">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="101">
-    <source>{f871}{0100}ワタシの…欲しい…もの…くらい…{f801}少しは…考え…なさい…よ…{f801}{f802}</source>
-    <target>{f871}{0100}ワタシの…欲しい…もの…くらい…{f801}少しは…考え…なさい…よ…{f801}{f802}</target>
+    <source>{f871}{0100}ワタシの…欲しい…もの…くらい…{f801}少しは…考え…なさい…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワタシの…欲しい…もの…くらい…{f801}少しは…考え…なさい…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="102">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="103">
-    <source>{f871}{0100}それで…いいの…よ…{f801}{f802}</source>
-    <target>{f871}{0100}それで…いいの…よ…{f801}{f802}</target>
+    <source>{f871}{0100}それで…いいの…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}それで…いいの…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="104">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="105">
-    <source>{f871}{0100}違うわ…よ…ッ{f801}アナタ…馬鹿にして…るの…?{f801}{f802}</source>
-    <target>{f871}{0100}違うわ…よ…ッ{f801}アナタ…馬鹿にして…るの…?{f801}{f802}</target>
+    <source>{f871}{0100}違うわ…よ…ッ{f801}アナタ…馬鹿にして…るの…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}違うわ…よ…ッ{f801}アナタ…馬鹿にして…るの…?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="106">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="107">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="108">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="109">
-    <source>NOT USED{f801}{f802}</source>
-    <target>NOT USED{f801}{f802}</target>
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="110">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="111">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="112">
-    <source>NOT USED{f801}{f802}</source>
-    <target>NOT USED{f801}{f802}</target>
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="113">
-    <source>NOT USED{f801}{f802}</source>
-    <target>NOT USED{f801}{f802}</target>
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="114">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="115">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="116">
-    <source>NOT USED{f801}{f802}</source>
-    <target>NOT USED{f801}{f802}</target>
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="117">
-    <source>NOT USED{f801}{f802}</source>
-    <target>NOT USED{f801}{f802}</target>
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="118">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="119">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="120">
-    <source>{f871}{0100}いいわよ…このくらい…で…{f801}{f802}</source>
-    <target>{f871}{0100}いいわよ…このくらい…で…{f801}{f802}</target>
+    <source>{f871}{0100}いいわよ…このくらい…で…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}いいわよ…このくらい…で…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="121">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="122">
-    <source>{f871}{0100}あら…こんなに…いいもの…{f801}分かってる…じゃない…{f801}{f802}</source>
-    <target>{f871}{0100}あら…こんなに…いいもの…{f801}分かってる…じゃない…{f801}{f802}</target>
+    <source>{f871}{0100}あら…こんなに…いいもの…{f801}分かってる…じゃない…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あら…こんなに…いいもの…{f801}分かってる…じゃない…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="123">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="124">
-    <source>{f871}{0100}何で…なのよ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}何で…なのよ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}何で…なのよ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何で…なのよ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="125">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="126">
-    <source>{f871}{0100}出し惜しみ…したわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}出し惜しみ…したわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}出し惜しみ…したわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}出し惜しみ…したわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="127">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="128">
-    <source>{f871}{0100}やめた…{f801}もう…嫌よ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}やめた…{f801}もう…嫌よ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}やめた…{f801}もう…嫌よ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}やめた…{f801}もう…嫌よ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="129">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="130">
-    <source>{f871}{0100}ごまかしたわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ごまかしたわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ごまかしたわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ごまかしたわ…ね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="131">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="132">
-    <source>{f871}{0100}それくらい…持ってて…よ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}それくらい…持ってて…よ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}それくらい…持ってて…よ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}それくらい…持ってて…よ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="133">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="134">
-    <source>{f871}{0100}魔石が…なくちゃ…{f801}始まらない…でしょ…?{f801}{f802}</source>
-    <target>{f871}{0100}魔石が…なくちゃ…{f801}始まらない…でしょ…?{f801}{f802}</target>
+    <source>{f871}{0100}魔石が…なくちゃ…{f801}始まらない…でしょ…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}魔石が…なくちゃ…{f801}始まらない…でしょ…?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="135">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="136">
-    <source>{f871}{0100}分かった…わよ…{f801}これ…くらいで…いいわ…よ…{f801}{f802}</source>
-    <target>{f871}{0100}分かった…わよ…{f801}これ…くらいで…いいわ…よ…{f801}{f802}</target>
+    <source>{f871}{0100}分かった…わよ…{f801}これ…くらいで…いいわ…よ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}分かった…わよ…{f801}これ…くらいで…いいわ…よ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="137">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="138">
-    <source>{f871}{0100}切り上げる…のね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}切り上げる…のね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}切り上げる…のね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}切り上げる…のね…?{f801}責任…取らない…つもり…?{f801}{f802}ちくしょう…死ねよ…ッ{f801}死んじまえ…よぉぉぉ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="139">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="140">
-    <source>{f871}{0100}アナタ…断り…過ぎよ…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}</source>
-    <target>{f871}{0100}アナタ…断り…過ぎよ…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}</target>
+    <source>{f871}{0100}アナタ…断り…過ぎよ…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタ…断り…過ぎよ…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="141">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="142">
-    <source>{f871}{0100}アナタ…さっきから…{f801}応じて…ばかりじゃ…ない…{f801}{f802}生返事…? バカに…してるの…?{f801}もういい…やめよ…やめ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}アナタ…さっきから…{f801}応じて…ばかりじゃ…ない…{f801}{f802}生返事…? バカに…してるの…?{f801}もういい…やめよ…やめ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}アナタ…さっきから…{f801}応じて…ばかりじゃ…ない…{f801}{f802}生返事…? バカに…してるの…?{f801}もういい…やめよ…やめ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタ…さっきから…{f801}応じて…ばかりじゃ…ない…{f801}{f802}生返事…? バカに…してるの…?{f801}もういい…やめよ…やめ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="143">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="144">
-    <source>{f871}{0100}アナタ…何も…持ってない…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}</source>
-    <target>{f871}{0100}アナタ…何も…持ってない…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}</target>
+    <source>{f871}{0100}アナタ…何も…持ってない…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}アナタ…何も…持ってない…{f801}責任…取れない…の…?{f801}{f802}もう…いいわよ…{f801}ワタシも…気が…済んだ…から…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="145">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="146">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="147">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="148">
-    <source>{f871}{0100}あら…{f843}{0000}…{f801}また…会ったわ…ね…{f801}{f802}アナタ…だけ…よ…{f801}ワタシを…分かって…くれる…の…{f801}{f802}</source>
-    <target>{f871}{0100}あら…{f843}{0000}…{f801}また…会ったわ…ね…{f801}{f802}アナタ…だけ…よ…{f801}ワタシを…分かって…くれる…の…{f801}{f802}</target>
+    <source>{f871}{0100}あら…{f843}{0000}…{f801}また…会ったわ…ね…{f801}{f802}アナタ…だけ…よ…{f801}ワタシを…分かって…くれる…の…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}あら…{f843}{0000}…{f801}また…会ったわ…ね…{f801}{f802}アナタ…だけ…よ…{f801}ワタシを…分かって…くれる…の…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="149">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="150">
-    <source>{f871}{0100}NOT USED{f801}{f802}</source>
-    <target>{f871}{0100}NOT USED{f801}{f802}</target>
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
   </entry>
   <entry id="151">
-    <source>NOT USED{f801}</source>
-    <target>NOT USED{f801}</target>
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="152">
-    <source>{f871}{0100}ええ…構わない…わよ…{f801}アナタ…責任…ない…から…{f801}{f802}</source>
-    <target>{f871}{0100}ええ…構わない…わよ…{f801}アナタ…責任…ない…から…{f801}{f802}</target>
+    <source>{f871}{0100}ええ…構わない…わよ…{f801}アナタ…責任…ない…から…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ええ…構わない…わよ…{f801}アナタ…責任…ない…から…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="153">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="154">
-    <source>{f871}{0100}ワタシを…応援して…くれるの…?{f801}ありがとう…嬉しい…わ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ワタシを…応援して…くれるの…?{f801}ありがとう…嬉しい…わ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ワタシを…応援して…くれるの…?{f801}ありがとう…嬉しい…わ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワタシを…応援して…くれるの…?{f801}ありがとう…嬉しい…わ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="155">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="156">
-    <source>{f871}{0100}お互い…辛い…立場よ…ね…{f801}これで…いい…かしら…?{f801}{f802}</source>
-    <target>{f871}{0100}お互い…辛い…立場よ…ね…{f801}これで…いい…かしら…?{f801}{f802}</target>
+    <source>{f871}{0100}お互い…辛い…立場よ…ね…{f801}これで…いい…かしら…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}お互い…辛い…立場よ…ね…{f801}これで…いい…かしら…?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="157">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="158">
-    <source>{f871}{0100}ちょうど…お金が…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}</source>
-    <target>{f871}{0100}ちょうど…お金が…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}</target>
+    <source>{f871}{0100}ちょうど…お金が…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ちょうど…お金が…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="159">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="160">
-    <source>{f871}{0100}ちょうど…アイテムが…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}</source>
-    <target>{f871}{0100}ちょうど…アイテムが…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}</target>
+    <source>{f871}{0100}ちょうど…アイテムが…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ちょうど…アイテムが…あるの…{f801}訴訟で…奪い…取った…の…{f801}{f802}アナタにも…分けて…あげる…わ…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="161">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="162">
-    <source>{f871}{0100}サッきト…おナジィィ…だゾ…{f801}ゾンびィィ…ダッて…アキる…{f801}{f802}</source>
-    <target>{f871}{0100}サッきト…おナジィィ…だゾ…{f801}ゾンびィィ…ダッて…アキる…{f801}{f802}</target>
+    <source>{f871}{0100}サッきト…おナジィィ…だゾ…{f801}ゾンびィィ…ダッて…アキる…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}サッきト…おナジィィ…だゾ…{f801}ゾンびィィ…ダッて…アキる…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="163">
-    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</source>
-    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}</target>
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="164">
-    <source>{f871}{0100}何で…ワタシが…{f801}迷子に…なんか…なる…の…{f801}{f802}アナタの…せいよ…{f801}責任…取りなさい…よ…ッ{f801}{f802}</source>
-    <target>{f871}{0100}何で…ワタシが…{f801}迷子に…なんか…なる…の…{f801}{f802}アナタの…せいよ…{f801}責任…取りなさい…よ…ッ{f801}{f802}</target>
+    <source>{f871}{0100}何で…ワタシが…{f801}迷子に…なんか…なる…の…{f801}{f802}アナタの…せいよ…{f801}責任…取りなさい…よ…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}何で…ワタシが…{f801}迷子に…なんか…なる…の…{f801}{f802}アナタの…せいよ…{f801}責任…取りなさい…よ…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="165">
-    <source>{f871}{0100}ワタシ…悪くない…のに…{f801}どうして…責め…られる…の…{f801}{f802}お願い…殺さない…で…{f801}何でも…するか…ら…ッ{f801}{f802}</source>
-    <target>{f871}{0100}ワタシ…悪くない…のに…{f801}どうして…責め…られる…の…{f801}{f802}お願い…殺さない…で…{f801}何でも…するか…ら…ッ{f801}{f802}</target>
+    <source>{f871}{0100}ワタシ…悪くない…のに…{f801}どうして…責め…られる…の…{f801}{f802}お願い…殺さない…で…{f801}何でも…するか…ら…ッ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}ワタシ…悪くない…のに…{f801}どうして…責め…られる…の…{f801}{f802}お願い…殺さない…で…{f801}何でも…するか…ら…ッ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="166">
-    <source>リザーブ{f801}</source>
-    <target>リザーブ{f801}</target>
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="167">
-    <source>{f871}{0100}しょうが…ないわ…ね…{f801}{f802}</source>
-    <target>{f871}{0100}しょうが…ないわ…ね…{f801}{f802}</target>
+    <source>{f871}{0100}しょうが…ないわ…ね…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}しょうが…ないわ…ね…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="168">
-    <source>リザーブ{f801}</source>
-    <target>リザーブ{f801}</target>
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="169">
-    <source>{f871}{0100}恨んで…やる…{f801}{f802}</source>
-    <target>{f871}{0100}恨んで…やる…{f801}{f802}</target>
+    <source>{f871}{0100}恨んで…やる…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}恨んで…やる…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="170">
-    <source>リザーブ{f801}</source>
-    <target>リザーブ{f801}</target>
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
   </entry>
   <entry id="171">
-    <source>{f871}{0100}リザーブ{f801}{f802}</source>
-    <target>{f871}{0100}リザーブ{f801}{f802}</target>
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="172">
-    <source>{f871}{0100}リザーブ{f801}{f802}</source>
-    <target>{f871}{0100}リザーブ{f801}{f802}</target>
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="173">
-    <source>{f871}{0100}リザーブ{f801}{f802}</source>
-    <target>{f871}{0100}リザーブ{f801}{f802}</target>
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
   </entry>
   <entry id="174">
-    <source>{f871}{0100}リザーブ{f801}{f802}</source>
-    <target>{f871}{0100}リザーブ{f801}{f802}</target>
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
   </entry>
 </mbm>

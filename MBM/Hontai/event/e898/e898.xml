@@ -1,6 +1,6 @@
 <mbm>
   <entry id="0">
-    <source>アイテムを入手しました{f801}{f802}外へ出ます{f801}</source>
-    <target>アイテムを入手しました{f801}{f802}外へ出ます{f801}</target>
+    <source>アイテムを入手しました{f801}{f802}外へ出ます{f801}{ffff}</source>
+    <target>アイテムを入手しました{f801}{f802}外へ出ます{f801}{ffff}</target>
   </entry>
 </mbm>

@@ -1,34 +1,34 @@
 <mbm>
   <entry id="0">
-    <source>セーブデータを初期化します{f801}</source>
-    <target>セーブデータを初期化します{f801}</target>
+    <source>セーブデータを初期化します{f801}{ffff}</source>
+    <target>セーブデータを初期化します{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>セーブデータを初期化しています{f801}</source>
-    <target>セーブデータを初期化しています{f801}</target>
+    <source>セーブデータを初期化しています{f801}{ffff}</source>
+    <target>セーブデータを初期化しています{f801}{ffff}</target>
   </entry>
   <entry id="2">
-    <source>セーブデータを初期化しました{f801}</source>
-    <target>セーブデータを初期化しました{f801}</target>
+    <source>セーブデータを初期化しました{f801}{ffff}</source>
+    <target>セーブデータを初期化しました{f801}{ffff}</target>
   </entry>
   <entry id="3">
-    <source>セーブデータが破損しているため{f801}初期化します{f801}</source>
-    <target>セーブデータが破損しているため{f801}初期化します{f801}</target>
+    <source>セーブデータが破損しているため{f801}初期化します{f801}{ffff}</source>
+    <target>セーブデータが破損しているため{f801}初期化します{f801}{ffff}</target>
   </entry>
   <entry id="4">
-    <source>セーブデータにアクセスできません{f801}</source>
-    <target>セーブデータにアクセスできません{f801}</target>
+    <source>セーブデータにアクセスできません{f801}{ffff}</source>
+    <target>セーブデータにアクセスできません{f801}{ffff}</target>
   </entry>
   <entry id="5">
-    <source>セーブデータを初期化できませんでした{f801}</source>
-    <target>セーブデータを初期化できませんでした{f801}</target>
+    <source>セーブデータを初期化できませんでした{f801}{ffff}</source>
+    <target>セーブデータを初期化できませんでした{f801}{ffff}</target>
   </entry>
   <entry id="6">
-    <source>セーブデータが破損していたため{f801}削除しました{f801}</source>
-    <target>セーブデータが破損していたため{f801}削除しました{f801}</target>
+    <source>セーブデータが破損していたため{f801}削除しました{f801}{ffff}</source>
+    <target>セーブデータが破損していたため{f801}削除しました{f801}{ffff}</target>
   </entry>
   <entry id="7">
-    <source>セーブデータが破損していたため{f801}初期化します{f801}</source>
-    <target>セーブデータが破損していたため{f801}初期化します{f801}</target>
+    <source>セーブデータが破損していたため{f801}初期化します{f801}{ffff}</source>
+    <target>セーブデータが破損していたため{f801}初期化します{f801}{ffff}</target>
   </entry>
 </mbm>

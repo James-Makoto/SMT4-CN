@@ -1,30 +1,30 @@
 <mbm>
   <entry id="0">
-    <source>※10月ROM対応版です{f801}{f802}どこへ向かいますか?{f801}</source>
-    <target>※10月ROM対応版です{f801}{f802}どこへ向かいますか?{f801}</target>
+    <source>※10月ROM対応版です{f801}{f802}どこへ向かいますか?{f801}{ffff}</source>
+    <target>※10月ROM対応版です{f801}{f802}どこへ向かいますか?{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>本堂の入口へ行く{f801}外へ出る{f801}</source>
-    <target>本堂の入口へ行く{f801}外へ出る{f801}</target>
+    <source>本堂の入口へ行く{f801}外へ出る{f801}{ffff}</source>
+    <target>本堂の入口へ行く{f801}外へ出る{f801}{ffff}</target>
   </entry>
   <entry id="2">
-    <source>本堂の入口へ行く{f801}外へ出る{f801}ベンチがある広場へ{f801}</source>
-    <target>本堂の入口へ行く{f801}外へ出る{f801}ベンチがある広場へ{f801}</target>
+    <source>本堂の入口へ行く{f801}外へ出る{f801}ベンチがある広場へ{f801}{ffff}</source>
+    <target>本堂の入口へ行く{f801}外へ出る{f801}ベンチがある広場へ{f801}{ffff}</target>
   </entry>
   <entry id="3">
-    <source>本堂の入口へ向かいます{f801}</source>
-    <target>本堂の入口へ向かいます{f801}</target>
+    <source>本堂の入口へ向かいます{f801}{ffff}</source>
+    <target>本堂の入口へ向かいます{f801}{ffff}</target>
   </entry>
   <entry id="4">
-    <source>大マップに戻ります{f801}</source>
-    <target>大マップに戻ります{f801}</target>
+    <source>大マップに戻ります{f801}{ffff}</source>
+    <target>大マップに戻ります{f801}{ffff}</target>
   </entry>
   <entry id="5">
-    <source>ベンチがある広場に向かいます{f801}{f802}ここでベンチの下に隠し通路を見つけ{f801}築地本願寺の中に進入できます{f801}</source>
-    <target>ベンチがある広場に向かいます{f801}{f802}ここでベンチの下に隠し通路を見つけ{f801}築地本願寺の中に進入できます{f801}</target>
+    <source>ベンチがある広場に向かいます{f801}{f802}ここでベンチの下に隠し通路を見つけ{f801}築地本願寺の中に進入できます{f801}{ffff}</source>
+    <target>ベンチがある広場に向かいます{f801}{f802}ここでベンチの下に隠し通路を見つけ{f801}築地本願寺の中に進入できます{f801}{ffff}</target>
   </entry>
   <entry id="6">
-    <source>しかし門は固く閉ざされている…{f801}</source>
-    <target>しかし門は固く閉ざされている…{f801}</target>
+    <source>しかし門は固く閉ざされている…{f801}{ffff}</source>
+    <target>しかし門は固く閉ざされている…{f801}{ffff}</target>
   </entry>
 </mbm>

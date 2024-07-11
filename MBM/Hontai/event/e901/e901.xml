@@ -1,110 +1,110 @@
 <mbm>
   <entry id="0">
-    <source>テスト{f801}</source>
-    <target>テスト{f801}</target>
+    <source>テスト{f801}{ffff}</source>
+    <target>テスト{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>{f812}バロウズ{0000}{f87a}{0200}休みますか?{f801}</source>
-    <target>{f812}バロウズ{0000}{f87a}{0200}休みますか?{f801}</target>
+    <source>{f812}バロウズ{0000}{f87a}{0200}休みますか?{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0200}休みますか?{f801}{ffff}</target>
   </entry>
   <entry id="2">
-    <source>はい{f801}いいえ{f801}</source>
-    <target>はい{f801}いいえ{f801}</target>
+    <source>はい{f801}いいえ{f801}{ffff}</source>
+    <target>はい{f801}いいえ{f801}{ffff}</target>
   </entry>
   <entry id="3">
-    <source>{f843}{0000}たちは回復した{f801}</source>
-    <target>{f843}{0000}たちは回復した{f801}</target>
+    <source>{f843}{0000}たちは回復した{f801}{ffff}</source>
+    <target>{f843}{0000}たちは回復した{f801}{ffff}</target>
   </entry>
   <entry id="4">
-    <source>{f812}バロウズ{0000}{f87a}{0200}スタッフロールを再生します{f801}</source>
-    <target>{f812}バロウズ{0000}{f87a}{0200}スタッフロールを再生します{f801}</target>
+    <source>{f812}バロウズ{0000}{f87a}{0200}スタッフロールを再生します{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0200}スタッフロールを再生します{f801}{ffff}</target>
   </entry>
   <entry id="14">
-    <source>カロンが現れた{f801}</source>
-    <target>カロンが現れた{f801}</target>
+    <source>カロンが現れた{f801}{ffff}</source>
+    <target>カロンが現れた{f801}{ffff}</target>
   </entry>
   <entry id="15">
-    <source>{f812}カロン{0000}{f87a}{0100}では、約束の渡し賃は頂くぞ…{f801}</source>
-    <target>{f812}カロン{0000}{f87a}{0100}では、約束の渡し賃は頂くぞ…{f801}</target>
+    <source>{f812}カロン{0000}{f87a}{0100}では、約束の渡し賃は頂くぞ…{f801}{ffff}</source>
+    <target>{f812}カロン{0000}{f87a}{0100}では、約束の渡し賃は頂くぞ…{f801}{ffff}</target>
   </entry>
   <entry id="16">
-    <source>{f878}{0100}マッカが消え去った{f801}</source>
-    <target>{f878}{0100}マッカが消え去った{f801}</target>
+    <source>{f878}{0100}マッカが消え去った{f801}{ffff}</source>
+    <target>{f878}{0100}マッカが消え去った{f801}{ffff}</target>
   </entry>
   <entry id="17">
-    <source>なんとオヌシ文無しか!{f801}金が用意出来た頃にまた来るとしよう{f801}</source>
-    <target>なんとオヌシ文無しか!{f801}金が用意出来た頃にまた来るとしよう{f801}</target>
+    <source>なんとオヌシ文無しか!{f801}金が用意出来た頃にまた来るとしよう{f801}{ffff}</source>
+    <target>なんとオヌシ文無しか!{f801}金が用意出来た頃にまた来るとしよう{f801}{ffff}</target>
   </entry>
   <entry id="120">
-    <source>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション1{f801}</source>
-    <target>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション1{f801}</target>
+    <source>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション1{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション1{f801}{ffff}</target>
   </entry>
   <entry id="121">
-    <source>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション2{f801}</source>
-    <target>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション2{f801}</target>
+    <source>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション2{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション2{f801}{ffff}</target>
   </entry>
   <entry id="122">
-    <source>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション3{f801}</source>
-    <target>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション3{f801}</target>
+    <source>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション3{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}{f87a}{0200}バロウズリアクション3{f801}{ffff}</target>
   </entry>
   <entry id="130">
-    <source>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション1{f801}</source>
-    <target>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション1{f801}</target>
+    <source>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション1{f801}{ffff}</source>
+    <target>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション1{f801}{ffff}</target>
   </entry>
   <entry id="131">
-    <source>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション2{f801}</source>
-    <target>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション2{f801}</target>
+    <source>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション2{f801}{ffff}</source>
+    <target>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション2{f801}{ffff}</target>
   </entry>
   <entry id="132">
-    <source>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション3{f801}</source>
-    <target>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション3{f801}</target>
+    <source>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション3{f801}{ffff}</source>
+    <target>{f812}ヨナタン{0000}{f87a}{0300}ヨナタンリアクション3{f801}{ffff}</target>
   </entry>
   <entry id="140">
-    <source>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション1{f801}</source>
-    <target>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション1{f801}</target>
+    <source>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション1{f801}{ffff}</source>
+    <target>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション1{f801}{ffff}</target>
   </entry>
   <entry id="141">
-    <source>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション2{f801}</source>
-    <target>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション2{f801}</target>
+    <source>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション2{f801}{ffff}</source>
+    <target>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション2{f801}{ffff}</target>
   </entry>
   <entry id="142">
-    <source>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション3{f801}</source>
-    <target>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション3{f801}</target>
+    <source>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション3{f801}{ffff}</source>
+    <target>{f812}ワルター{0000}{f87a}{0400}ワルターリアクション3{f801}{ffff}</target>
   </entry>
   <entry id="150">
-    <source>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション1{f801}</source>
-    <target>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション1{f801}</target>
+    <source>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション1{f801}{ffff}</source>
+    <target>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション1{f801}{ffff}</target>
   </entry>
   <entry id="151">
-    <source>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション2{f801}</source>
-    <target>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション2{f801}</target>
+    <source>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション2{f801}{ffff}</source>
+    <target>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション2{f801}{ffff}</target>
   </entry>
   <entry id="152">
-    <source>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション3{f801}</source>
-    <target>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション3{f801}</target>
+    <source>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション3{f801}{ffff}</source>
+    <target>{f812}イザボー{0000}{f87a}{0500}イザボーリアクション3{f801}{ffff}</target>
   </entry>
   <entry id="920">
-    <source>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション1{f801}</source>
-    <target>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション1{f801}</target>
+    <source>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション1{f801}{ffff}</source>
+    <target>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション1{f801}{ffff}</target>
   </entry>
   <entry id="921">
-    <source>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション2{f801}</source>
-    <target>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション2{f801}</target>
+    <source>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション2{f801}{ffff}</source>
+    <target>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション2{f801}{ffff}</target>
   </entry>
   <entry id="922">
-    <source>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション3{f801}</source>
-    <target>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション3{f801}</target>
+    <source>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション3{f801}{ffff}</source>
+    <target>{f812}メルカバー{0000}{f87a}{5c00}メルカバーリアクション3{f801}{ffff}</target>
   </entry>
   <entry id="930">
-    <source>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション1{f801}</source>
-    <target>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション1{f801}</target>
+    <source>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション1{f801}{ffff}</source>
+    <target>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション1{f801}{ffff}</target>
   </entry>
   <entry id="931">
-    <source>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション2{f801}</source>
-    <target>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション2{f801}</target>
+    <source>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション2{f801}{ffff}</source>
+    <target>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション2{f801}{ffff}</target>
   </entry>
   <entry id="932">
-    <source>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション3{f801}</source>
-    <target>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション3{f801}</target>
+    <source>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション3{f801}{ffff}</source>
+    <target>{f812}ルシファー{0000}{f87a}{5d00}ルシファーリアクション3{f801}{ffff}</target>
   </entry>
 </mbm>

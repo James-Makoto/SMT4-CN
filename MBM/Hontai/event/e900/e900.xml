@@ -1,46 +1,46 @@
 <mbm>
   <entry id="0">
-    <source>クエストをガントレットに登録しました。{f801}</source>
-    <target>クエストをガントレットに登録しました。{f801}</target>
+    <source>クエストをガントレットに登録しました。{f801}{ffff}</source>
+    <target>クエストをガントレットに登録しました。{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>クエストを受注しました。{f801}</source>
-    <target>クエストを受注しました。{f801}</target>
+    <source>クエストを受注しました。{f801}{ffff}</source>
+    <target>クエストを受注しました。{f801}{ffff}</target>
   </entry>
   <entry id="2">
-    <source>すでに受注しています。{f801}</source>
-    <target>すでに受注しています。{f801}</target>
+    <source>すでに受注しています。{f801}{ffff}</source>
+    <target>すでに受注しています。{f801}{ffff}</target>
   </entry>
   <entry id="3">
-    <source>クリア条件を満たしていません。{f801}</source>
-    <target>クリア条件を満たしていません。{f801}</target>
+    <source>クリア条件を満たしていません。{f801}{ffff}</source>
+    <target>クリア条件を満たしていません。{f801}{ffff}</target>
   </entry>
   <entry id="4">
-    <source>クリア条件を満たしています。{f801}</source>
-    <target>クリア条件を満たしています。{f801}</target>
+    <source>クリア条件を満たしています。{f801}{ffff}</source>
+    <target>クリア条件を満たしています。{f801}{ffff}</target>
   </entry>
   <entry id="5">
-    <source>クエストを受注していません。{f801}</source>
-    <target>クエストを受注していません。{f801}</target>
+    <source>クエストを受注していません。{f801}{ffff}</source>
+    <target>クエストを受注していません。{f801}{ffff}</target>
   </entry>
   <entry id="6">
-    <source>クリア条件を満たしていません。{f801}</source>
-    <target>クリア条件を満たしていません。{f801}</target>
+    <source>クリア条件を満たしていません。{f801}{ffff}</source>
+    <target>クリア条件を満たしていません。{f801}{ffff}</target>
   </entry>
   <entry id="7">
-    <source>クリア処理をやめました。{f801}</source>
-    <target>クリア処理をやめました。{f801}</target>
+    <source>クリア処理をやめました。{f801}{ffff}</source>
+    <target>クリア処理をやめました。{f801}{ffff}</target>
   </entry>
   <entry id="8">
-    <source>クエストを受注していません。{f801}</source>
-    <target>クエストを受注していません。{f801}</target>
+    <source>クエストを受注していません。{f801}{ffff}</source>
+    <target>クエストを受注していません。{f801}{ffff}</target>
   </entry>
   <entry id="9">
-    <source>{f870}{0300}クエスト:{f87c}{0400}{0000}{f801} 依頼者:{f87c}{0400}{0100}{f801}</source>
-    <target>{f870}{0300}クエスト:{f87c}{0400}{0000}{f801} 依頼者:{f87c}{0400}{0100}{f801}</target>
+    <source>{f870}{0300}クエスト:{f87c}{0400}{0000}{f801} 依頼者:{f87c}{0400}{0100}{f801}{ffff}</source>
+    <target>{f870}{0300}クエスト:{f87c}{0400}{0000}{f801} 依頼者:{f87c}{0400}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="10">
-    <source>{f812}バロウズ{0000}システマチックバトルに失敗しました{f801}</source>
-    <target>{f812}バロウズ{0000}システマチックバトルに失敗しました{f801}</target>
+    <source>{f812}バロウズ{0000}システマチックバトルに失敗しました{f801}{ffff}</source>
+    <target>{f812}バロウズ{0000}システマチックバトルに失敗しました{f801}{ffff}</target>
   </entry>
 </mbm>
