@@ -4,31 +4,31 @@
     <target>ダミー{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>{f843}{0000}は身动きとれない!{f801}{ffff}</source>
-    <target>{f843}{0000}は身动きとれない!{f801}{ffff}</target>
+    <source>{f843}{0000}は身饕きとれない!{f801}{ffff}</source>
+    <target>{f843}{0000}无法动弹!{f801}{ffff}</target>
   </entry>
   <entry id="2">
     <source>{f873}{3c00}はダメージをうけた{f801}{ffff}</source>
-    <target>{f873}{3c00}はダメージをうけた{f801}{ffff}</target>
+    <target>{f873}{3c00}受到了伤害{f801}{ffff}</target>
   </entry>
   <entry id="3">
     <source>ロウソクが减っていく…{f801}{ffff}</source>
-    <target>ロウソクが减っていく…{f801}{ffff}</target>
+    <target>蜡烛继续燃烧…{f801}{ffff}</target>
   </entry>
   <entry id="4">
     <source>ウィッカーマンの炎がノゾミを袭う{f801}{ffff}</source>
-    <target>ウィッカーマンの炎がノゾミを袭う{f801}{ffff}</target>
+    <target>柳条人的火焰向希袭去{f801}{ffff}</target>
   </entry>
   <entry id="5">
     <source>天使の1体がノゾミを攻击した!{f801}{ffff}</source>
-    <target>天使の1体がノゾミを攻击した!{f801}{ffff}</target>
+    <target>一名天使向希发动了攻击!{f801}{ffff}</target>
   </entry>
   <entry id="6">
     <source>四门の玉にヒビが入る…{f801}{ffff}</source>
-    <target>四门の玉にヒビが入る…{f801}{ffff}</target>
+    <target>四门之珠出现了裂痕…{f801}{ffff}</target>
   </entry>
   <entry id="7">
     <source>{f873}{0500}ごとダメージを受けた!{f801}{ffff}</source>
-    <target>{f873}{0500}ごとダメージを受けた!{f801}{ffff}</target>
+    <target>{f873}{0500}逐一受到了伤害!{f801}{ffff}</target>
   </entry>
 </mbm>

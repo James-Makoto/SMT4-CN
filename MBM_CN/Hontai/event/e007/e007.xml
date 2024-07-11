@@ -88,8 +88,8 @@
     <target>{f812}修道僧{0000}{f87a}{2a00}{f813}{0000}{0000}{711b}{0000}来,伸出你的左臂。{f801}{ffff}</target>
   </entry>
   <entry id="23">
-    <source>修道僧温柔地把仪式护手{f843}{0000}套在{f801}的手臂上…{f801}{ffff}</source>
-    <target>修道僧温柔地把仪式护手{f843}{0000}套在{f801}的手臂上…{f801}{ffff}</target>
+    <source>修道僧温柔地把仪式护手套在{f801}{f843}{0000}的手臂上…{f801}{ffff}</source>
+    <target>修道僧温柔地把仪式护手套在{f801}{f843}{0000}的手臂上…{f801}{ffff}</target>
   </entry>
   <entry id="24">
     <source>{f812}エラー{0000}欠番です{f801}{ffff}</source>

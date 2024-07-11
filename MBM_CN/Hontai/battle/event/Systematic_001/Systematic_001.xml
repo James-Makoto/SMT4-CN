@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>ガントレットに{f801}魔法の言語が浮かんでいる…{f801}{ffff}</source>
+    <target>护手上{f801}浮现出了魔法语言…{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f802}{ffff}</source>
+    <target>{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}イッポンダタラ{0000}{f87a}{0000}反射さえなければ{f801}テメーなんて敵じゃねーな!{f801}{ffff}</source>
+    <target>{f812}一本踏鞴{0000}{f87a}{0000}要不是能进行反射，{f801}你小子根本不是我的对手！{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>行動開始チェック{f801}{f802}{ffff}</source>
+    <target>行動開始チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}イッポンダタラ{0000}{f87a}{0000}あん…? もしかしてオレの攻撃{f801}反射されてるのか?{f801}{f802}…考えたって始まらねー{f801}とにかく攻撃だッ{f801}{ffff}</source>
+    <target>{f812}一本踏鞴{0000}{f87a}{0000}啊…？难道说我的攻击{f801}被反射回来了？{f801}{f802}…想那么多也没用，{f801}总之我还是要攻击！{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f812}イッポンダタラ{0000}{f87a}{0000}テメー!{f801}反射ばっかりしやがって!{f801}{f802}ま…負けてたまるかよッ{f801}{ffff}</source>
+    <target>{f812}一本踏鞴{0000}{f87a}{0000}臭小子！{f801}反射个没完！{f801}{f802}我…我才不会输给你！{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f812}イッポンダタラ{0000}{f87a}{0000}さてはこの野郎…{f801}反射マスターだったってのか?{f801}{f802}チッ…オマエに教えることは{f801}もう何もねーぜ…{f801}{ffff}</source>
+    <target>{f812}一本踏鞴{0000}{f87a}{0000}哼，这个混蛋…{f801}原来是个反射大师吗？{f801}{f802}切…已经没什么{f801}可教你的了…{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>行動終了チェック{f801}{f802}{ffff}</source>
+    <target>行動終了チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f802}{ffff}</source>
+    <target>{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>{f843}{0000} {f801}退出了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>敵逃走チェック{f801}{f802}{ffff}</source>
+    <target>敵逃走チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>制限ターン内に{f801}敵を全滅させることに失敗した{f801}{f802}{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>没能在限制回合数内{f801}消灭全部敌人{f801}{f802}{f843}{0000} {f801}退出了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f802}{ffff}</source>
+    <target>{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>制限ターン内に{f801}敵を全滅させることに成功した{f801}{f802}{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>在限制回合数内{f801}成功消灭了全部敌人{f801}{f802}{f843}{0000} {f801}离开了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>『訓練用悪魔プログラム…展開完了{f801}トレーニングバトル1…ミッション開始』{f801}{f802}{f804}{0500}『敵に大ダメージを与える方法を探し{f801}5ターン以内に撃破せよ』{f804}{0000}{f801}{ffff}</source>
+    <target>『训练专用恶魔程序…启动完毕{f801}战斗训练1…任务开始』{f801}{f802}{f804}{0500}『找到能给敌方带来极大伤害的方法，{f801}在5回合以内结束战斗』{f804}{0000}{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>电梯上{f801}装有安全锁{f801}{ffff}</source>
+    <target>电梯上{f801}装有安全锁{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}沃尔特{0000}{f87a}{0400}…感觉和之前六本木地下的门{f801}有点像啊…{f801}{ffff}</source>
+    <target>{f812}沃尔特{0000}{f87a}{0400}…感觉和之前六本木地下的门{f801}有点像啊…{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}沃尔特{0000}{f87a}{0400}这里也要用钥匙卡{f801}才能打开吗…?{f801}{ffff}</source>
+    <target>{f812}沃尔特{0000}{f87a}{0400}这里也要用钥匙卡{f801}才能打开吗…?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>使用烧焦的钥匙卡{f801}不使用烧焦的钥匙卡{f801}{ffff}</source>
+    <target>使用烧焦的钥匙卡{f801}不使用烧焦的钥匙卡{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}沃尔特{0000}{f87a}{0400}哎，不用吗?{f801}好吧…{f801}{ffff}</source>
+    <target>{f812}沃尔特{0000}{f87a}{0400}哎，不用吗?{f801}好吧…{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f843}{0000}使用了烧焦的钥匙卡{f801}{ffff}</source>
+    <target>{f843}{0000}使用了烧焦的钥匙卡{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>电梯的锁解除了{f801}{ffff}</source>
+    <target>电梯的锁解除了{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{831a}{0600}将LOCK方式与全部所持物品{f801}进行比对后，检测出了能够开锁的道具。{f801}{f802}要怎么做?{f801}{f843}{0000}大人。{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{831a}{0600}将LOCK方式与全部所持物品{f801}进行比对后，检测出了能够开锁的道具。{f801}{f802}要怎么做?{f801}{f843}{0000}大人。{f801}{ffff}</target>
+  </entry>
+</mbm>

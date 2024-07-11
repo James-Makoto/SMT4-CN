@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{821a}{0600}…警戒して{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{821a}{0600}…请提高警惕。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>四天王の一柱を発見した{f801}{ffff}</source>
+    <target>发现了四天王中的一尊{f801}{ffff}</target>
+  </entry>
+</mbm>

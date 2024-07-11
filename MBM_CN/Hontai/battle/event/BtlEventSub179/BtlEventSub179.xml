@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>悪魔は我を忘れている{f801}倒して鎮める必要があるようだ{f801}{ffff}</source>
+    <target>恶魔已经失去了理智，{f801}似乎必须打倒它来令它恢复冷静{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>悪魔はおとなしくなった{f801}{f802}眼に光りが灯りつつある…{f801}{ffff}</source>
+    <target>恶魔变得老实了{f801}{f802}它的眼睛里逐渐有了理性的光芒…{f801}{ffff}</target>
+  </entry>
+</mbm>

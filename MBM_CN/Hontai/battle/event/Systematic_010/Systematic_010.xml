@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>ガントレットに{f801}魔法の言語が浮かんでいる…{f801}{ffff}</source>
+    <target>护手上{f801}浮现出了魔法语言…{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}シェムハザ{0000}{f87a}{0000}私の体には 力が満ちています{f801}もしも 下手にダメージを与えたら…{f801}{f802}その力が暴れ出し 強力な攻撃として{f801}貴方に襲い掛かることでしょうね!{f801}{ffff}</source>
+    <target>{f812}谢姆亚扎{0000}{f87a}{0000}我的身体里充满了力量。{f801}要是你对我造成伤害的方式不够慎重…{f801}{f802}我的力量就会暴走，转化为强大的攻击{f801}将你吞噬殆尽！{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source />
+    <target />
+  </entry>
+  <entry id="3">
+    <source>行動開始チェック{f801}{f802}{ffff}</source>
+    <target>行動開始チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}シェムハザ{0000}{f87a}{0000}貴方…下手にダメージを与えましたね?{f801}私の力が暴れていますよ…ッ{f801}{ffff}</source>
+    <target>{f812}谢姆亚扎{0000}{f87a}{0000}刚才的这一下…可不算妙。{f801}我的力量即将爆发…！{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f812}シェムハザ{0000}{f87a}{0000}{ffff}</source>
+    <target>{f812}谢姆亚扎{0000}{f87a}{0000}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f812}シェムハザ{0000}{f87a}{0000}{ffff}</source>
+    <target>{f812}谢姆亚扎{0000}{f87a}{0000}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>行動終了チェック{f801}{f802}{ffff}</source>
+    <target>行動終了チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f802}{ffff}</source>
+    <target>{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>{f843}{0000} {f801}退出了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>敵逃走チェック{f801}{f802}{ffff}</source>
+    <target>敵逃走チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>制限ターン内に{f801}敵を全滅させることに失敗した{f801}{f802}{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>没能在限制回合数内{f801}消灭全部敌人{f801}{f802}{f843}{0000} {f801}退出了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>仮の敵 シェムハザ ダーキニー{f801}{f802}{ffff}</source>
+    <target>仮の敵 谢姆亚扎 荼吉尼{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>制限ターン内に{f801}敵を全滅させることに成功した{f801}{f802}{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>在限制回合数内{f801}成功消灭了全部敌人{f801}{f802}{f843}{0000} {f801}离开了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>{f812}ダーキニー{0000}{f87a}{0000}アタシたちはデリケートなのさ{f801}{f802}一定の力加減を守って攻撃するとか{f801}そういう気遣いがほしいモンだね{f801}{ffff}</source>
+    <target>{f812}荼吉尼{0000}{f87a}{0000}我们都是相当讲究的人。{f801}{f802}意思是希望你攻击的力道{f801}要保持在一定范围内。{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f812}ダーキニー{0000}{f87a}{0000}アンタ 力加減がなっちゃいないのさ!{f801}{f802}おかげでアタシの体が{f801}思わず暴れちまったじゃないか{f801}{ffff}</source>
+    <target>{f812}荼吉尼{0000}{f87a}{0000}你啊，一点都不会掌握分寸！{f801}{f802}都怪你，我的身体{f801}不受掌控地爆发了。{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>{f812}ダーキニー{0000}{f87a}{0000}{ffff}</source>
+    <target>{f812}荼吉尼{0000}{f87a}{0000}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f812}ダーキニー{0000}{f87a}{0000}{ffff}</source>
+    <target>{f812}荼吉尼{0000}{f87a}{0000}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>『訓練用悪魔プログラム…展開完了{f801}トレーニングバトル10…ミッション開始』{f801}{f802}{f804}{0500}『特定の条件下で強力な攻撃を放つ{f801}敵パーティを10ターン以内に掃討せよ』{f804}{0000}{f801}{ffff}</source>
+    <target>『训练专用恶魔程序…启动完毕{f801}战斗训练10…任务开始』{f801}{f802}{f804}{0500}『将特定条件下会释放强力攻击的{f801}敌方全体成员在10回合以内击败』{f804}{0000}{f801}{ffff}</target>
+  </entry>
+  <entry id="300">
+    <source>{f812}シェムハザ{0000}{f87a}{0000}{ffff}</source>
+    <target>{f812}谢姆亚扎{0000}{f87a}{0000}{ffff}</target>
+  </entry>
+  <entry id="301">
+    <source>{f812}ダーキニー{0000}{f87a}{0000}{ffff}</source>
+    <target>{f812}荼吉尼{0000}{f87a}{0000}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

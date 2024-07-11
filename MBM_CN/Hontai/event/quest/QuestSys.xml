@@ -1,266 +1,266 @@
 <mbm>
   <entry id="0">
     <source>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</source>
-    <target>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</target>
+    <target>已接取任务{f811}{2800}「{f801}」{f801}{ffff}</target>
   </entry>
   <entry id="1">
     <source>「{f811}{2800}」{f801}を达成しました!{f801}{ffff}</source>
-    <target>「{f811}{2800}」{f801}を达成しました!{f801}{ffff}</target>
+    <target>任务「{f811}{2800}」{f801}已完成！{f801}{ffff}</target>
   </entry>
   <entry id="2">
     <source>「{f811}{2800}」{f801}をギブアップしました{f801}{ffff}</source>
-    <target>「{f811}{2800}」{f801}をギブアップしました{f801}{ffff}</target>
+    <target>已放弃任务{f811}{2800}「{f801}」{f801}{ffff}</target>
   </entry>
   <entry id="3">
     <source>{f873}{0100}、残り{f878}{0100}体です{f801}{ffff}</source>
-    <target>{f873}{0100}、残り{f878}{0100}体です{f801}{ffff}</target>
+    <target>{f873}{0100} 还剩下{f878}{0100}名{f801}{ffff}</target>
   </entry>
   <entry id="4">
     <source>ゲストが参加します{f801}{ffff}</source>
-    <target>ゲストが参加します{f801}{ffff}</target>
+    <target>队友加入了{f801}{ffff}</target>
   </entry>
   <entry id="5">
     <source>同行者が离脱しました{f801}{ffff}</source>
-    <target>同行者が离脱しました{f801}{ffff}</target>
+    <target>同行者脱离了队哟{f801}{ffff}</target>
   </entry>
   <entry id="6">
     <source>同行者が一时的に离脱しました{f801}{ffff}</source>
-    <target>同行者が一时的に离脱しました{f801}{ffff}</target>
+    <target>同行者暂时脱离了队哟{f801}{ffff}</target>
   </entry>
   <entry id="7">
     <source>再び 仲间と共に往くことにした{f801}{ffff}</source>
-    <target>再び 仲间と共に往くことにした{f801}{ffff}</target>
+    <target>同伴再次与你一起行动了{f801}{ffff}</target>
   </entry>
   <entry id="8">
     <source>{f872}{0100}を渡しますか?{f801}{ffff}</source>
-    <target>{f872}{0100}を渡しますか?{f801}{ffff}</target>
+    <target>要交出{f872}{0100}吗？{f801}{ffff}</target>
   </entry>
   <entry id="9">
     <source>{f872}{0100}を{f878}{0100}个渡しますか?{f801}{ffff}</source>
-    <target>{f872}{0100}を{f878}{0100}个渡しますか?{f801}{ffff}</target>
+    <target>要交出{f872}{0100}个{f878}{0100}吗？{f801}{ffff}</target>
   </entry>
   <entry id="10">
     <source>{f873}{0100}を渡しますか?{f801}{ffff}</source>
-    <target>{f873}{0100}を渡しますか?{f801}{ffff}</target>
+    <target>要交出{f873}{0100}吗？{f801}{ffff}</target>
   </entry>
   <entry id="11">
     <source>はい{f801}いいえ{f801}{ffff}</source>
-    <target>はい{f801}いいえ{f801}{ffff}</target>
+    <target>是{f801}否{f801}{ffff}</target>
   </entry>
   <entry id="12">
     <source>纳品をやめました{f801}{ffff}</source>
-    <target>纳品をやめました{f801}{ffff}</target>
+    <target>已取消交纳{f801}{ffff}</target>
   </entry>
   <entry id="13">
     <source>{f811}{2800}は明晰状态になった!{f801}{ffff}</source>
-    <target>{f811}{2800}は明晰状态になった!{f801}{ffff}</target>
+    <target>{f811}{2800}恢复了清醒！{f801}{ffff}</target>
   </entry>
   <entry id="14">
     <source>{f843}{0000}は回复した{f801}{ffff}</source>
-    <target>{f843}{0000}は回复した{f801}{ffff}</target>
+    <target>{f843}{0000}得到了回复{f801}{ffff}</target>
   </entry>
   <entry id="15">
     <source>{f843}{0000}たちは回复した{f801}{ffff}</source>
-    <target>{f843}{0000}たちは回复した{f801}{ffff}</target>
+    <target>{f843}{0000}与同伴得到了回复{f801}{ffff}</target>
   </entry>
   <entry id="16">
     <source>「{f811}{2800}」{f801}が破弃されました{f801}{ffff}</source>
-    <target>「{f811}{2800}」{f801}が破弃されました{f801}{ffff}</target>
+    <target>任务「{f811}{2800}」{f801}已被废弃{f801}{ffff}</target>
   </entry>
   <entry id="17">
     <source>???{f801}{ffff}</source>
-    <target>???{f801}{ffff}</target>
+    <target>？？？{f801}{ffff}</target>
   </entry>
   <entry id="18">
     <source>{f872}{0100}×{f878}{0100}{f801}を纳品する{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100}{f801}を纳品する{f801}{ffff}</target>
+    <target>交纳{f801}{f872}{0100}×{f878}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="19">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を纳品する{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を纳品する{f801}{ffff}</target>
+    <target>交纳{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{ffff}</target>
   </entry>
   <entry id="20">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を纳品する{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を纳品する{f801}{ffff}</target>
+    <target>交纳 {f872}{0100}×{f878}{0100}{f801}{f872}{0200}×{f878}{0200} {f872}{0300}×{f878}{0300}{f801}{ffff}</target>
   </entry>
   <entry id="21">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を纳品する{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を纳品する{f801}{ffff}</target>
+    <target>交纳 {f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}{f801}{ffff}</target>
   </entry>
   <entry id="22">
     <source>{f873}{0100}×{f878}{0100}{f801}を讨伐する{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100}{f801}を讨伐する{f801}{ffff}</target>
+    <target>讨伐{f801}{f873}{0100}×{f878}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="23">
     <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を讨伐する{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を讨伐する{f801}{ffff}</target>
+    <target>讨伐{f801}{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{ffff}</target>
   </entry>
   <entry id="24">
     <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を讨伐する{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を讨伐する{f801}{ffff}</target>
+    <target>讨伐 {f873}{0100}×{f878}{0100}{f801}{f873}{0200}×{f878}{0200} {f873}{0300}×{f878}{0300}{f801}{ffff}</target>
   </entry>
   <entry id="25">
     <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を讨伐する{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を讨伐する{f801}{ffff}</target>
+    <target>讨伐 {f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400}{f801}{ffff}</target>
   </entry>
   <entry id="26">
     <source>{f872}{0100}×{f878}{0100} を见せる{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} を见せる{f801}{ffff}</target>
+    <target>出示 {f872}{0100}×{f878}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="27">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を见せる{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を见せる{f801}{ffff}</target>
+    <target>出示{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{ffff}</target>
   </entry>
   <entry id="28">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を见せる{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を见せる{f801}{ffff}</target>
+    <target>出示 {f872}{0100}×{f878}{0100}{f801}{f872}{0200}×{f878}{0200} {f872}{0300}×{f878}{0300}{f801}{ffff}</target>
   </entry>
   <entry id="29">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を见せる{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を见せる{f801}{ffff}</target>
+    <target>出示 {f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}{f801}{ffff}</target>
   </entry>
   <entry id="30">
     <source>{f873}{0100}×{f878}{0100}{f801}を见せる{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100}{f801}を见せる{f801}{ffff}</target>
+    <target>出示{f801}{f873}{0100}×{f878}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="31">
     <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を见せる{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}を见せる{f801}{ffff}</target>
+    <target>出示{f801}{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{ffff}</target>
   </entry>
   <entry id="32">
     <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を见せる{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} を见せる{f801}{ffff}</target>
+    <target>出示 {f873}{0100}×{f878}{0100}{f801}{f873}{0200}×{f878}{0200} {f873}{0300}×{f878}{0300}{f801}{ffff}</target>
   </entry>
   <entry id="33">
     <source>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を见せる{f801}{ffff}</source>
-    <target>{f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400} を见せる{f801}{ffff}</target>
+    <target>出示 {f873}{0100}×{f878}{0100} {f873}{0200}×{f878}{0200}{f801}{f873}{0300}×{f878}{0300} {f873}{0400}×{f878}{0400}{f801}{ffff}</target>
   </entry>
   <entry id="34">
     <source>「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</source>
-    <target>「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</target>
+    <target>要接取任务{f811}{2800}「{f801}」吗？{f801}{ffff}</target>
   </entry>
   <entry id="35">
     <source>「{f811}{2800}」{f801}をギブアップしますか?{f801}{ffff}</source>
-    <target>「{f811}{2800}」{f801}をギブアップしますか?{f801}{ffff}</target>
+    <target>要放弃任务{f811}{2800}「{f801}」吗？{f801}{ffff}</target>
   </entry>
   <entry id="36">
     <source>受注中のクエストをギブアップして{f801}このクエストを受注しますか?{f801}{ffff}</source>
-    <target>受注中のクエストをギブアップして{f801}このクエストを受注しますか?{f801}{ffff}</target>
+    <target>要放弃进行中的任务，{f801}接取这个任务吗？{f801}{ffff}</target>
   </entry>
   <entry id="37">
     <source>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</source>
-    <target>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</target>
+    <target>已接取任务{f811}{2800}「{f801}」{f801}{ffff}</target>
   </entry>
   <entry id="38">
     <source>このクエストは现在受注できません{f801}{ffff}</source>
-    <target>このクエストは现在受注できません{f801}{ffff}</target>
+    <target>这个任务现在无法接取{f801}{ffff}</target>
   </entry>
   <entry id="39">
     <source>纳品クエストは{f801}受注する必要はありません{f801}{ffff}</source>
-    <target>纳品クエストは{f801}受注する必要はありません{f801}{ffff}</target>
+    <target>交纳任务{f801}无需进行接取{f801}{ffff}</target>
   </entry>
   <entry id="40">
     <source>{f812}巴洛斯{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}このクエスト いまのレベルでは危险よ{f801}それでも挑战する?{f801}{ffff}</source>
-    <target>{f812}巴洛斯{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}このクエスト いまのレベルでは危险よ{f801}それでも挑战する?{f801}{ffff}</target>
+    <target>{f812}巴洛斯{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}这个任务对你目前的等级来说还很危险，{f801}确定要挑战吗？{f801}{ffff}</target>
   </entry>
   <entry id="41">
     <source>デーモンDNAが{f878}{0100}个以上の仲魔を连れてくる{f801}{ffff}</source>
-    <target>デーモンDNAが{f878}{0100}个以上の仲魔を连れてくる{f801}{ffff}</target>
+    <target>带来具有{f878}{0100}个以上恶魔DNA的仲魔{f801}{ffff}</target>
   </entry>
   <entry id="42">
     <source>デーモンDNA {f811}{2900}{f801}を所持している仲魔を连れてくる{f801}{ffff}</source>
-    <target>デーモンDNA {f811}{2900}{f801}を所持している仲魔を连れてくる{f801}{ffff}</target>
+    <target>带来具有DNA {f811}{2900}{f801}的仲魔{f801}{ffff}</target>
   </entry>
   <entry id="43">
     <source>DNA {f811}{2900}{f801}{f811}{2a00} を所持する仲魔を连れてくる{f801}{ffff}</source>
-    <target>DNA {f811}{2900}{f801}{f811}{2a00} を所持する仲魔を连れてくる{f801}{ffff}</target>
+    <target>带来具有DNA {f811}{2900}{f801}和{f811}{2a00}的仲魔{f801}{ffff}</target>
   </entry>
   <entry id="44">
     <source>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} を所持する仲魔を连れてくる{f801}{ffff}</source>
-    <target>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} を所持する仲魔を连れてくる{f801}{ffff}</target>
+    <target>带来具有DNA {f811}{2900} 和 {f811}{2a00}{f801}{f811}{2b00}的仲魔{f801}{ffff}</target>
   </entry>
   <entry id="45">
     <source>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} {f811}{2c00} の所持恶魔を见せる{f801}{ffff}</source>
-    <target>DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} {f811}{2c00} の所持恶魔を见せる{f801}{ffff}</target>
+    <target>带来具有DNA {f811}{2900} {f811}{2a00}{f801}{f811}{2b00} 和 {f811}{2c00}的仲魔{f801}{ffff}</target>
   </entry>
   <entry id="46">
     <source>{f873}{0100} を纳品する{f801}{ffff}</source>
-    <target>{f873}{0100} を纳品する{f801}{ffff}</target>
+    <target>交纳 {f873}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="47">
     <source>{f873}{0100} {f873}{0200}{f801}を纳品する{f801}{ffff}</source>
-    <target>{f873}{0100} {f873}{0200}{f801}を纳品する{f801}{ffff}</target>
+    <target>交纳{f801}{f873}{0100} {f873}{0200}{f801}{ffff}</target>
   </entry>
   <entry id="48">
     <source>{f873}{0100} {f873}{0200}{f801}{f873}{0300} を纳品する{f801}{ffff}</source>
-    <target>{f873}{0100} {f873}{0200}{f801}{f873}{0300} を纳品する{f801}{ffff}</target>
+    <target>交纳 {f873}{0100}{f801}{f873}{0200} {f873}{0300}{f801}{ffff}</target>
   </entry>
   <entry id="49">
     <source>{f873}{0100} {f873}{0200}{f801}{f873}{0300} {f873}{0400} を纳品する{f801}{ffff}</source>
-    <target>{f873}{0100} {f873}{0200}{f801}{f873}{0300} {f873}{0400} を纳品する{f801}{ffff}</target>
+    <target>交纳 {f873}{0100} {f873}{0200}{f801}{f873}{0300} {f873}{0400}{f801}{ffff}</target>
   </entry>
   <entry id="50">
     <source>このクエストを受注すると{f801}バトルへ移行します よろしいですか?{f801}{ffff}</source>
-    <target>このクエストを受注すると{f801}バトルへ移行します よろしいですか?{f801}{ffff}</target>
+    <target>接取这个任务后{f801}会直接进入战斗 可以吗？{f801}{ffff}</target>
   </entry>
   <entry id="51">
     <source>このクエストは达成济みです{f801}{ffff}</source>
-    <target>このクエストは达成济みです{f801}{ffff}</target>
+    <target>已达成此任务{f801}{ffff}</target>
   </entry>
   <entry id="52">
     <source>{f872}{0100}×{f878}{0100}{f801}を集める{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100}{f801}を集める{f801}{ffff}</target>
+    <target>收集{f801}{f872}{0100}×{f878}{0100}{f801}{ffff}</target>
   </entry>
   <entry id="53">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を集める{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}を集める{f801}{ffff}</target>
+    <target>收集{f801}{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{ffff}</target>
   </entry>
   <entry id="54">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を集める{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} を集める{f801}{ffff}</target>
+    <target>收集 {f872}{0100}×{f878}{0100}{f801}{f872}{0200}×{f878}{0200} {f872}{0300}×{f878}{0300}{f801}{ffff}</target>
   </entry>
   <entry id="55">
     <source>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を集める{f801}{ffff}</source>
-    <target>{f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400} を集める{f801}{ffff}</target>
+    <target>收集 {f872}{0100}×{f878}{0100} {f872}{0200}×{f878}{0200}{f801}{f872}{0300}×{f878}{0300} {f872}{0400}×{f878}{0400}{f801}{ffff}</target>
   </entry>
   <entry id="56">
     <source>{f873}{0100} {f873}{0200}が仲魔になった{f801}{ffff}</source>
-    <target>{f873}{0100} {f873}{0200}が仲魔になった{f801}{ffff}</target>
+    <target>{f873}{0100} {f873}{0200}成为了仲魔{f801}{ffff}</target>
   </entry>
   <entry id="57">
     <source>このクエストを受注すると{f801}别の场所へ移行します よろしいですか?{f801}{ffff}</source>
-    <target>このクエストを受注すると{f801}别の场所へ移行します よろしいですか?{f801}{ffff}</target>
+    <target>接取这个任务后{f801}会移动至其它场所 可以吗？{f801}{ffff}</target>
   </entry>
   <entry id="58">
     <source>{f843}{0000}は{f801}要求物を纳品した{f801}{ffff}</source>
-    <target>{f843}{0000}は{f801}要求物を纳品した{f801}{ffff}</target>
+    <target>{f843}{0000}{f801}交纳了所要求的物品{f801}{ffff}</target>
   </entry>
   <entry id="59">
     <source>{f843}{0000}は{f801}要求物を全て纳品した{f801}{ffff}</source>
-    <target>{f843}{0000}は{f801}要求物を全て纳品した{f801}{ffff}</target>
+    <target>{f843}{0000}{f801}交纳了所要求的全部物品{f801}{ffff}</target>
   </entry>
   <entry id="60">
     <source>ギブアップすると受注前の{f801}场所へ戻ります よろしいですか?{f801}{ffff}</source>
-    <target>ギブアップすると受注前の{f801}场所へ戻ります よろしいですか?{f801}{ffff}</target>
+    <target>放弃任务后{f801}会回到接取前的场所 可以吗？{f801}{ffff}</target>
   </entry>
   <entry id="61">
     <source>受注中のクエストデータが见つかりません{f801}クエストをキャンセルします{f801}{ffff}</source>
-    <target>受注中のクエストデータが见つかりません{f801}クエストをキャンセルします{f801}{ffff}</target>
+    <target>找不到进行中的任务数据{f801}即将取消任务{f801}{ffff}</target>
   </entry>
   <entry id="62">
     <source>受注中のクエストデータを读み涨めません{f801}でした 受注をキャンセルします{f801}{ffff}</source>
-    <target>受注中のクエストデータを读み涨めません{f801}でした 受注をキャンセルします{f801}{ffff}</target>
+    <target>无法读取进行中的任务数据{f801}即将取消任务{f801}{ffff}</target>
   </entry>
   <entry id="63">
     <source>受注前の场所へ戻ります{f801}{ffff}</source>
-    <target>受注前の场所へ戻ります{f801}{ffff}</target>
+    <target>即将回到接取前的场所{f801}{ffff}</target>
   </entry>
   <entry id="64">
     <source>このクエストを受注すると{f801}别の场所へ移行します よろしいですか?{f801}{ffff}</source>
-    <target>このクエストを受注すると{f801}别の场所へ移行します よろしいですか?{f801}{ffff}</target>
+    <target>接取这个任务后{f801}会移动至其它场所 可以吗？{f801}{ffff}</target>
   </entry>
   <entry id="65">
     <source>元の场所に戻り{f801}クエストをキャンセルしました{f801}{ffff}</source>
-    <target>元の场所に戻り{f801}クエストをキャンセルしました{f801}{ffff}</target>
+    <target>回到了原来的场所{f801}任务已取消{f801}{ffff}</target>
   </entry>
 </mbm>

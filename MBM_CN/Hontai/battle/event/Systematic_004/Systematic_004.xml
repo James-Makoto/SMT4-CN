@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>ガントレットに{f801}魔法の言語が浮かんでいる…{f801}{ffff}</source>
+    <target>护手上{f801}浮现出了魔法语言…{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f802}{ffff}</source>
+    <target>{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}ジャックフロスト{0000}{f87a}{0000}ヒーホー!{f801}キミにヒントを教えてやるホー{f801}{f802}ヒントは…キミ自身で味わえホー!{f801}{ffff}</source>
+    <target>{f812}冰霜杰克{0000}{f87a}{0000}嘿嚯！{f801}我来给你一点线索嚯ー{f801}{f802}线索就是…你亲身体会一下嚯！{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>行動開始チェック{f801}{f802}{ffff}</source>
+    <target>行動開始チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>HP75%以下{f801}{f802}{ffff}</source>
+    <target>HP75%以下{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>HP50%以下{f801}{f802}{ffff}</source>
+    <target>HP50%以下{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>HP25%以下{f801}{f802}{ffff}</source>
+    <target>HP25%以下{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>行動終了チェック{f801}{f802}{ffff}</source>
+    <target>行動終了チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f812}ジャックフロスト{0000}{f87a}{0000}ヒホホホ…{f801}ヒントなんか教えなきゃよかったホ…{f801}{ffff}</source>
+    <target>{f812}冰霜杰克{0000}{f87a}{0000}嘿嚯嚯嚯…{f801}要是不告诉你线索就好了嚯…{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>{f843}{0000} {f801}退出了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>敵逃走チェック{f801}{f802}{ffff}</source>
+    <target>敵逃走チェック{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>制限ターン内に{f801}敵を全滅させることに失敗した{f801}{f802}{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>没能在限制回合数内{f801}消灭全部敌人{f801}{f802}{f843}{0000} {f801}退出了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>仮の敵 マンセマット{f801}{f802}{ffff}</source>
+    <target>仮の敵 マンセマット{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>制限ターン内に{f801}敵を全滅させることに成功した{f801}{f802}{f843}{0000}は{f801}仮想現実を後にした…{f801}{ffff}</source>
+    <target>在限制回合数内{f801}成功消灭了全部敌人{f801}{f802}{f843}{0000} {f801}离开了模拟战斗…{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>『訓練用悪魔プログラム…展開完了{f801}トレーニングバトル4…ミッション開始』{f801}{f802}{f804}{0500}『敵の攻撃から属性を予測し{f801}1ターンで敵パーティを掃討せよ』{f804}{0000}{f801}{ffff}</source>
+    <target>『训练专用恶魔程序…启动完毕{f801}战斗训练4…任务开始』{f801}{f802}{f804}{0500}『从敌方发动的攻击预测其属性，{f801}在1回合以内击败敌方全体成员』{f804}{0000}{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>テスト{f801}{f802}{ffff}</source>
+    <target>テスト{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>
