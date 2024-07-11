@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>※10月ROM对应版です{f801}{f802}要去哪里?{f801}{ffff}</source>
+    <target>※10月ROM对应版です{f801}{f802}要去哪里?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>去本堂的入口{f801}去外面{f801}{ffff}</source>
+    <target>去本堂的入口{f801}去外面{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>去本堂的入口{f801}去外面{f801}去有长椅的广场{f801}{ffff}</source>
+    <target>去本堂的入口{f801}去外面{f801}去有长椅的广场{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>前往本堂入口{f801}{ffff}</source>
+    <target>前往本堂入口{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>返回大地图{f801}{ffff}</source>
+    <target>返回大地图{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>向有长椅的广场走去{f801}{f802}这里的长椅下面有一条隐藏通道,{f801}从这里可以进入筑地本愿寺内部{f801}{ffff}</source>
+    <target>向有长椅的广场走去{f801}{f802}这里的长椅下面有一条隐藏通道,{f801}从这里可以进入筑地本愿寺内部{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>然而门牢牢地锁住了…{f801}{ffff}</source>
+    <target>然而门牢牢地锁住了…{f801}{ffff}</target>
+  </entry>
+</mbm>

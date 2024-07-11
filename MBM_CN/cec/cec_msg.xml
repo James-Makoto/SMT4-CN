@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>是否要登录{f801}真・女神转生IV的擦肩通信功能?{f801}{ffff}</source>
+    <target>是否要登录{f801}真・女神转生IV的擦肩通信功能?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>使用擦肩通信{f801}需要同意最新的使用条款{f801}{f802}如需使用擦肩通信,{f801}请在系统设置中的『网络设置』⇒{f801}{f802}『其它信息』中选择『确认使用条款』,{f801}对最新的使用条款进行确认{f801}{ffff}</source>
+    <target>使用擦肩通信{f801}需要同意最新的使用条款{f801}{f802}如需使用擦肩通信,{f801}请在系统设置中的『网络设置』⇒{f801}{f802}『其它信息』中选择『确认使用条款』,{f801}对最新的使用条款进行确认{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>主机已达到{f801}擦肩通信的登录上限{f801}{f802}请在系统设置中的通信管理中{f801}{f802}停止其它软件的{f801}擦肩通信功能{f801}{ffff}</source>
+    <target>主机已达到{f801}擦肩通信的登录上限{f801}{f802}请在系统设置中的通信管理中{f801}{f802}停止其它软件的{f801}擦肩通信功能{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>『与其他玩家的擦肩通信』{f801}已受到来自监护人的限制{f801}{f802}无法使用擦肩通信{f801}{ffff}</source>
+    <target>『与其他玩家的擦肩通信』{f801}已受到来自监护人的限制{f801}{f802}无法使用擦肩通信{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>擦肩通信测试{f801}要做什么?{f801}{ffff}</source>
+    <target>擦肩通信测试{f801}要做什么?{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>登录擦肩通信{f801}查看已收到的数据{f801}{ffff}</source>
+    <target>登录擦肩通信{f801}查看已收到的数据{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>没有收到新的数据{f801}{ffff}</source>
+    <target>没有收到新的数据{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>已取消擦肩通信的{f801}登录状态{f801}{ffff}</source>
+    <target>已取消擦肩通信的{f801}登录状态{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>真・女神转生IV的擦肩通信{f801}已登录完毕{f801}{ffff}</source>
+    <target>真・女神转生IV的擦肩通信{f801}已登录完毕{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+</mbm>

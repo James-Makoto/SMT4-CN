@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}巴洛斯{0000}扫描开始{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}扫描开始{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>目前没有遗物的反应…{f801}{ffff}</source>
+    <target>目前没有遗物的反应…{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{0329}{0100}有恶魔结界的反应{f801}要进去吗?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{0329}{0100}有恶魔结界的反应{f801}要进去吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>进去{f801}算了{f801}{ffff}</source>
+    <target>进去{f801}算了{f801}{ffff}</target>
+  </entry>
+</mbm>

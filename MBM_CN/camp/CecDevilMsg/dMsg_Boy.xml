@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}世界果然很大啊,{f801}有好多比我强的家伙!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}世界果然很大啊,{f801}有好多比我强的家伙!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}我帮助了其他武士!{f801}没有我果然是不行的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我帮助了其他武士!{f801}没有我果然是不行的!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}直到变成超级{f873}{0100}为止,{f801}我都要继续修行!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}直到变成超级{f873}{0100}为止,{f801}我都要继续修行!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}虽然身体是变小了,{f801}但变得比以前更强了哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}虽然身体是变小了,{f801}但变得比以前更强了哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}虽说本来没打算变成小孩子啦…{f801}哎无所谓啦!还挺帅的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}虽说本来没打算变成小孩子啦…{f801}哎无所谓啦!还挺帅的!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}很厉害吧!{f801}我和很多仲魔合体了呢!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}很厉害吧!{f801}我和很多仲魔合体了呢!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}是给大哥哥的伴手礼哦!{f801}怎么样,很帅吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是给大哥哥的伴手礼哦!{f801}怎么样,很帅吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}这是给大哥哥的礼物!{f801}是那边很受欢迎的道具哦!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是给大哥哥的礼物!{f801}是那边很受欢迎的道具哦!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}收下吧!{f801}是我的礼物!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}收下吧!{f801}是我的礼物!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

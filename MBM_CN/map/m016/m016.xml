@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>墙上有一处发光的凹陷…{f801}{f802}要将手伸过去试试吗?{f801}{ffff}</source>
+    <target>墙上有一处发光的凹陷…{f801}{f802}要将手伸过去试试吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>………{f801}{f802}不知从何处传来了声音…{f801}{ffff}</source>
+    <target>………{f801}{f802}不知从何处传来了声音…{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}声音{0000}{f87a}{0100}笼中鸟… 笼中鸟…{f801}囚禁在 笼中的…{f801}{ffff}</source>
+    <target>{f812}声音{0000}{f87a}{0100}笼中鸟… 笼中鸟…{f801}囚禁在 笼中的…{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}声音{0000}{f87a}{0100}笼中的 鸟儿啊…{f801}何时 何时 死去呢…{f801}{ffff}</source>
+    <target>{f812}声音{0000}{f87a}{0100}笼中的 鸟儿啊…{f801}何时 何时 死去呢…{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f812}声音{0000}{f87a}{0100}无脸的… 面具下…{f801}是谁呢…{f801}{ffff}</source>
+    <target>{f812}声音{0000}{f87a}{0100}无脸的… 面具下…{f801}是谁呢…{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>………{f801}{f802}什么也没发生…{f801}{ffff}</source>
+    <target>………{f801}{f802}什么也没发生…{f801}{ffff}</target>
+  </entry>
+</mbm>

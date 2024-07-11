@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>电梯上{f801}装有安全锁{f801}{ffff}</source>
+    <target>电梯上{f801}装有安全锁{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{ffff}</source>
+    <target>{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>电梯上{f801}装有安全锁{f801}{f802}要使用钥匙卡吗?{f801}{ffff}</source>
+    <target>电梯上{f801}装有安全锁{f801}{f802}要使用钥匙卡吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>使用{f801}不使用{f801}{ffff}</source>
+    <target>使用{f801}不使用{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f843}{0000}朝着门{f801}使用了2号钥匙卡…{f801}{ffff}</source>
+    <target>{f843}{0000}朝着门{f801}使用了2号钥匙卡…{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>电梯的锁解除了{f801}{ffff}</source>
+    <target>电梯的锁解除了{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{ffff}</source>
+    <target>{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>电梯上{f801}装有安全锁{f801}{ffff}</source>
+    <target>电梯上{f801}装有安全锁{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{831a}{0600}将LOCK方式与全部所持物品{f801}进行比对后,检测出了能够开锁的道具。{f801}{f802}要怎么做?{f801}{f843}{0000}大人。{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{831a}{0600}将LOCK方式与全部所持物品{f801}进行比对后,检测出了能够开锁的道具。{f801}{f802}要怎么做?{f801}{f843}{0000}大人。{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>使用2号钥匙卡{f801}离开{f801}{ffff}</source>
+    <target>使用2号钥匙卡{f801}离开{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f843}{0000}{f801}使用了2号钥匙卡{f801}{ffff}</source>
+    <target>{f843}{0000}{f801}使用了2号钥匙卡{f801}{ffff}</target>
+  </entry>
+</mbm>

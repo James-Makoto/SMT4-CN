@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>眼前是被毁坏的亚修拉像…{f801}{ffff}</source>
+    <target>眼前是被毁坏的亚修拉像…{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}恶魔王路西法{0000}{f87a}{20fe}神之战车败北的消息迟早会传开。{f801}{f802}天使已成乌合之众,不足为惧。{f801}恶魔会从东京逐渐涌来。{f801}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}{f87a}{20fe}神之战车败北的消息迟早会传开。{f801}{f802}天使已成乌合之众,不足为惧。{f801}恶魔会从东京逐渐涌来。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}恶魔王路西法{0000}{f87a}{20fe}…好了,我们共同欣赏{f801}这个虚伪的王国走向末路的模样吧。{f801}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}{f87a}{20fe}…好了,我们共同欣赏{f801}这个虚伪的王国走向末路的模样吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="900">
+    <source>和路西法一同降临到御门国{f801}{ffff}</source>
+    <target>和路西法一同降临到御门国{f801}{ffff}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>请输入文字{f801}{ffff}</source>
+    <target>请输入文字{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>要叫作「{f811}{3200}」吗?{f801}{ffff}</source>
+    <target>要叫作「{f811}{3200}」吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>是{f801}否{f801}{f802}{ffff}</source>
+    <target>是{f801}否{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>要怎么做?{f801}{ffff}</source>
+    <target>要怎么做?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>停止输入{f801}继续输入{f801}返回初始{f801}{f802}{ffff}</source>
+    <target>停止输入{f801}继续输入{f801}返回初始{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>继续输入{f801}返回初始{f801}{f802}{ffff}</source>
+    <target>继续输入{f801}返回初始{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>无法使用这个名字{f801}{ffff}</source>
+    <target>无法使用这个名字{f801}{ffff}</target>
+  </entry>
+</mbm>

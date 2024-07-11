@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>勤奋修行的僧侣身影寥寥无几,{f801}这里显得相当冷清{f801}{f802}要去哪里?{f801}{ffff}</source>
+    <target>勤奋修行的僧侣身影寥寥无几,{f801}这里显得相当冷清{f801}{f802}要去哪里?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>前往筑地本愿寺本院{f801}前往隐藏通道{f801}{ffff}</source>
+    <target>前往筑地本愿寺本院{f801}前往隐藏通道{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>朝着筑地本愿寺的本堂内部前进{f801}{ffff}</source>
+    <target>朝着筑地本愿寺的本堂内部前进{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>跳进通往地下的洞穴{f801}{ffff}</source>
+    <target>跳进通往地下的洞穴{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>朝着通往地上的隐藏通道前进{f801}{ffff}</source>
+    <target>朝着通往地上的隐藏通道前进{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>前往本堂内部{f801}跳进通往地下的洞穴{f801}前往通向地上的隐藏通道{f801}{ffff}</source>
+    <target>前往本堂内部{f801}跳进通往地下的洞穴{f801}前往通向地上的隐藏通道{f801}{ffff}</target>
+  </entry>
+  <entry id="200">
+    <source>众多僧侣在勤勉修炼{f801}{f802}要去哪里?{f801}{ffff}</source>
+    <target>众多僧侣在勤勉修炼{f801}{f802}要去哪里?{f801}{ffff}</target>
+  </entry>
+</mbm>

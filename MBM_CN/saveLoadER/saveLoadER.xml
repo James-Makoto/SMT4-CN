@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>初始化保存数据{f801}{ffff}</source>
+    <target>初始化保存数据{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>正在初始化保存数据{f801}{ffff}</source>
+    <target>正在初始化保存数据{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>保存数据已初始化{f801}{ffff}</source>
+    <target>保存数据已初始化{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>保存数据已损坏{f801}进行初始化{f801}{ffff}</source>
+    <target>保存数据已损坏{f801}进行初始化{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>无法访问保存数据{f801}{ffff}</source>
+    <target>无法访问保存数据{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>无法初始化保存数据{f801}{ffff}</source>
+    <target>无法初始化保存数据{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>保存数据已损坏{f801}已被删除{f801}{ffff}</source>
+    <target>保存数据已损坏{f801}已被删除{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>保存数据已损坏{f801}进行初始化{f801}{ffff}</source>
+    <target>保存数据已损坏{f801}进行初始化{f801}{ffff}</target>
+  </entry>
+</mbm>

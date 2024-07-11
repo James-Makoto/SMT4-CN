@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{f87d}{1000}{f801}通常攻击/{f87d}{0400}属性×{f87d}{0300}次×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>{f87d}{1000}{f801}通常攻击/{f87d}{0400}属性×{f87d}{0300}次×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f87d}{1000}{f801}通常攻击/{f87d}{0400}属性×{f87d}{0300}次×{f87d}{0500}{f801}{f802}{ffff}</source>
+    <target>{f87d}{1000}{f801}通常攻击/{f87d}{0400}属性×{f87d}{0300}次×{f87d}{0500}{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>异常状态耐性/?{f801}通常攻击/?属性×?次×?{f801}{f802}{ffff}</source>
+    <target>异常状态耐性/?{f801}通常攻击/?属性×?次×?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}的武器里积蓄了力量{f801}现在可以直接驱散弱小恶魔{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}的武器里积蓄了力量{f801}现在可以直接驱散弱小恶魔{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

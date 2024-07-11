@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>要去哪里?{f801}{ffff}</source>
+    <target>要去哪里?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}巴洛斯{0000}你打算去哪里?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}你打算去哪里?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>前往{f801}{ffff}</source>
+    <target>前往{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}巴洛斯{0000}那就出发吧。{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}那就出发吧。{f801}{ffff}</target>
+  </entry>
+</mbm>

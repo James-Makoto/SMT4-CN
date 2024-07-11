@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>将覆盖此游戏数据{f801}可以吗?{f801}{ffff}</source>
+    <target>将覆盖此游戏数据{f801}可以吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>保存中 请勿拔出卡带{f801}且不要切断电源{f801}{ffff}</source>
+    <target>保存中 请勿拔出卡带{f801}且不要切断电源{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>保存完毕{f801}{ffff}</source>
+    <target>保存完毕{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>读取中 请勿拔出卡带{f801}且不要切断电源{f801}{ffff}</source>
+    <target>读取中 请勿拔出卡带{f801}且不要切断电源{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>读取完毕{f801}{ffff}</source>
+    <target>读取完毕{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>将进行保存{f801}可以吗?{f801}{ffff}</source>
+    <target>将进行保存{f801}可以吗?{f801}{ffff}</target>
+  </entry>
+</mbm>

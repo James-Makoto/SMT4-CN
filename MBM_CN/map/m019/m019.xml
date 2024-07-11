@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>门没有打开{f801}似乎是用钥匙上了锁{f801}{ffff}</source>
+    <target>门没有打开{f801}似乎是用钥匙上了锁{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>钥匙已经插在了门上{f801}要打开门锁吗?{f801}{ffff}</source>
+    <target>钥匙已经插在了门上{f801}要打开门锁吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>打开门锁{f801}不打开{f801}{ffff}</source>
+    <target>打开门锁{f801}不打开{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>门可以打开了{f801}{ffff}</source>
+    <target>门可以打开了{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>能感到门的另一侧传来{f801}众多盖亚教徒的气息…{f801}{ffff}</source>
+    <target>能感到门的另一侧传来{f801}众多盖亚教徒的气息…{f801}{ffff}</target>
+  </entry>
+</mbm>

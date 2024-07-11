@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>SQFLG_004 ON{f801}{ffff}</source>
+    <target>SQFLG_004 ON{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{821a}{0600}…请提高警惕。{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{821a}{0600}…请提高警惕。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>恶魔正蓄势待发{f801}{ffff}</source>
+    <target>恶魔正蓄势待发{f801}{ffff}</target>
+  </entry>
+</mbm>

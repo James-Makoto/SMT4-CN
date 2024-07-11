@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}恶魔王路西法{0000}面对我这恶魔王{f801}竟道出成为仲魔之戏言…{f801}{f802}来吧,且向我展示你的力量。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}面对我这恶魔王{f801}竟道出成为仲魔之戏言…{f801}{f802}来吧,且向我展示你的力量。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f812}恶魔王路西法{0000}这就是你所求之物?{f801}想要恶魔王就这样放你一命?{f801}{f802}没有这样的道理…{f801}来吧,且向我展示你的力量。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}这就是你所求之物?{f801}想要恶魔王就这样放你一命?{f801}{f802}没有这样的道理…{f801}来吧,且向我展示你的力量。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f812}恶魔王路西法{0000}想与我恶魔王清谈一阵吗,{f801}还真是放肆的家伙啊…{f801}{f802}那么,为此献上相应的代价吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}想与我恶魔王清谈一阵吗,{f801}还真是放肆的家伙啊…{f801}{f802}那么,为此献上相应的代价吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f812}恶魔王路西法{0000}谈天一事,于我真是久违了。{f801}那么,要说些什么好呢…{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}谈天一事,于我真是久违了。{f801}那么,要说些什么好呢…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f812}恶魔王路西法{0000}呵哈哈哈…和恶魔王闲聊吗!{f801}古往今来,能这样想的又有何人!{f801}{f802}我可是一直在等着…{f801}等着你这般人物出现!{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}呵哈哈哈…和恶魔王闲聊吗!{f801}古往今来,能这样想的又有何人!{f801}{f802}我可是一直在等着…{f801}等着你这般人物出现!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f812}恶魔王路西法{0000}我就好好与你聊聊吧…{f801}在此期间,你发起攻击也无妨。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}我就好好与你聊聊吧…{f801}在此期间,你发起攻击也无妨。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f812}恶魔王路西法{0000}向恶魔王乞求慈悲,{f801}可真是痴心妄想的尝试啊…{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}向恶魔王乞求慈悲,{f801}可真是痴心妄想的尝试啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f812}恶魔王路西法{0000}好好收下吧,垂死之人的一线生命光辉…{f801}我恶魔王的慈悲…{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}好好收下吧,垂死之人的一线生命光辉…{f801}我恶魔王的慈悲…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f812}恶魔王路西法{0000}我如今…正在休憩…{f801}慈悲…也好…{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}我如今…正在休憩…{f801}慈悲…也好…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f812}恶魔王路西法{0000}我就再一次赐予你慈悲吧…{f801}看看你能不能侥幸活下去。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}我就再一次赐予你慈悲吧…{f801}看看你能不能侥幸活下去。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f812}恶魔王路西法{0000}竟然想向我索取钱财吗,{f801}…不错,你尽管试试看吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}竟然想向我索取钱财吗,{f801}…不错,你尽管试试看吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f812}恶魔王路西法{0000}这钱,你可要好好捏紧了…{f801}死了也别放手啊。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}这钱,你可要好好捏紧了…{f801}死了也别放手啊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f812}恶魔王路西法{0000}人子啊,我不知你是已跨越生死的境界…{f801}还是在命运的钢丝上踏错了一步…{f801}{f802}…无论如何,在此之后{f801}等待你的只有凄惨的死亡。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}人子啊,我不知你是已跨越生死的境界…{f801}还是在命运的钢丝上踏错了一步…{f801}{f802}…无论如何,在此之后{f801}等待你的只有凄惨的死亡。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f812}恶魔王路西法{0000}呵哈哈哈哈哈…!{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}呵哈哈哈哈哈…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f812}恶魔王路西法{0000}…这就结束了?{f801}你的欲望就这点程度吗?{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…这就结束了?{f801}你的欲望就这点程度吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f812}恶魔王路西法{0000}…已经够了,我厌倦了。{f801}这种东西就给你吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…已经够了,我厌倦了。{f801}这种东西就给你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f812}恶魔王路西法{0000}呵哈哈哈哈…!{f801}真是遗憾啊,到此为止了。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}呵哈哈哈哈…!{f801}真是遗憾啊,到此为止了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f812}恶魔王路西法{0000}想让我交出钱财吗。{f801}…不错,你尽管试试看吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}想让我交出钱财吗。{f801}…不错,你尽管试试看吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f812}恶魔王路西法{0000}所在之处为万魔之宫,所对之敌乃{f801}万魔之王。真是有趣的交易…{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}所在之处为万魔之宫,所对之敌乃{f801}万魔之王。真是有趣的交易…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f812}恶魔王路西法{0000}不错,收下这份赏赐吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}不错,收下这份赏赐吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f812}恶魔王路西法{0000}呵哈哈哈…竟然说交易?{f801}这种小把戏就免了…{f801}{f802}我乃王,随便赐你点什么{f801}小事一桩…!{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}呵哈哈哈…竟然说交易?{f801}这种小把戏就免了…{f801}{f802}我乃王,随便赐你点什么{f801}小事一桩…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f812}恶魔王路西法{0000}我就再赏你一点东西吧。{f801}好好感谢我的恩赐。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}我就再赏你一点东西吧。{f801}好好感谢我的恩赐。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>{f812}恶魔王路西法{0000}…我不想与你多耗,{f801}用钱来一锤定音吧。{f801}{f802}{f804}{0100}{f878}{0100}魔货{f804}{0000},{f801}…如何?{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…我不想与你多耗,{f801}用钱来一锤定音吧。{f801}{f802}{f804}{0100}{f878}{0100}魔货{f804}{0000},{f801}…如何?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>{f812}恶魔王路西法{0000}献上{f804}{0100}{f872}{0100}{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上{f804}{0100}{f872}{0100}{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>{f812}恶魔王路西法{0000}献上{f804}{0100}{f878}{0100}魔货{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上{f804}{0100}{f878}{0100}魔货{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>{f812}恶魔王路西法{0000}献上你{f804}{0100}少许{f804}{0000}的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你{f804}{0100}少许{f804}{0000}的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>{f812}恶魔王路西法{0000}献上你的{f804}{0100}一些{f804}{0000}{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你的{f804}{0100}一些{f804}{0000}{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>{f812}恶魔王路西法{0000}献上你{f804}{0100}相当不少{f804}{0000}的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你{f804}{0100}相当不少{f804}{0000}的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>{f812}恶魔王路西法{0000}献上你{f804}{0100}几近全部{f804}{0000}的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你{f804}{0100}几近全部{f804}{0000}的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>{f812}恶魔王路西法{0000}献上你{f804}{0100}少许{f804}{0000}的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你{f804}{0100}少许{f804}{0000}的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>{f812}恶魔王路西法{0000}献上你的{f804}{0100}一些{f804}{0000}{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你的{f804}{0100}一些{f804}{0000}{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>{f812}恶魔王路西法{0000}献上你{f804}{0100}相当不少{f804}{0000}的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你{f804}{0100}相当不少{f804}{0000}的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>{f812}恶魔王路西法{0000}献上你{f804}{0100}几近全部{f804}{0000}的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你{f804}{0100}几近全部{f804}{0000}的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>{f812}恶魔王路西法{0000}献上你的仲魔…{f801}{f804}{0100}{f873}{0200}的生命{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}献上你的仲魔…{f801}{f804}{0100}{f873}{0200}的生命{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="99">
+    <source>{f812}恶魔王路西法{0000}…把{f804}{0100}那个{f804}{0000}献上来吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…把{f804}{0100}那个{f804}{0000}献上来吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f812}恶魔王路西法{0000}…你明白该献上何物吧?{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…你明白该献上何物吧?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f812}恶魔王路西法{0000}没错,这样便好。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}没错,这样便好。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f812}恶魔王路西法{0000}…无用之徒。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…无用之徒。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>{f812}恶魔王路西法{0000}…唔,差不多了。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…唔,差不多了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f812}恶魔王路西法{0000}这可真是好东西…{f801}在这之上已经一无所求了。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}这可真是好东西…{f801}在这之上已经一无所求了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f812}恶魔王路西法{0000}呵…不肯给吗。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}呵…不肯给吗。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f812}恶魔王路西法{0000}试图对恶魔王吝啬,{f801}可真是不知死活的挑衅啊。{f801}{f802}…迎接你死亡的结局吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}试图对恶魔王吝啬,{f801}可真是不知死活的挑衅啊。{f801}{f802}…迎接你死亡的结局吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>{f812}恶魔王路西法{0000}…已经够了,到此为止了。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…已经够了,到此为止了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>{f812}恶魔王路西法{0000}试图对恶魔王蒙混过关,{f801}可真是不知死活的挑衅啊。{f801}{f802}…迎接你死亡的结局吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}试图对恶魔王蒙混过关,{f801}可真是不知死活的挑衅啊。{f801}{f802}…迎接你死亡的结局吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>{f812}恶魔王路西法{0000}…原来如此,你没有啊。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…原来如此,你没有啊。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f812}恶魔王路西法{0000}连魔石都没有,你还想做什么。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}连魔石都没有,你还想做什么。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f812}恶魔王路西法{0000}…那么,就此打住吧。{f801}我不喜欢没完没了。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}…那么,就此打住吧。{f801}我不喜欢没完没了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>{f812}恶魔王路西法{0000}试图打断恶魔王,{f801}可真是不知死活的挑衅啊。{f801}{f802}…迎接你死亡的结局吧。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}试图打断恶魔王,{f801}可真是不知死活的挑衅啊。{f801}{f802}…迎接你死亡的结局吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>{f812}恶魔王路西法{0000}面对我恶魔王{f801}竟敢出言拒绝到这种地步…{f801}{f802}呵哈哈哈哈…{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}面对我恶魔王{f801}竟敢出言拒绝到这种地步…{f801}{f802}呵哈哈哈哈…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>{f812}恶魔王路西法{0000}哼,你这顺从的态度,{f801}居然对敌人言听计从…{f801}{f802}毫无自我的废物,{f801}竟然好意思出现在恶魔王面前。{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}哼,你这顺从的态度,{f801}居然对敌人言听计从…{f801}{f802}毫无自我的废物,{f801}竟然好意思出现在恶魔王面前。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>{f812}恶魔王路西法{0000}你一无所有,仅凭所谓气概{f801}就敢与我恶魔王对峙?{f801}{f802}呵哈哈哈哈哈哈…{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}你一无所有,仅凭所谓气概{f801}就敢与我恶魔王对峙?{f801}{f802}呵哈哈哈哈哈哈…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>{f812}恶魔王路西法{0000}同样的话,你重复了多少遍…{f801}你难道没有自由意志吗?{f801}{f802}{ffff}</source>
+    <target>{f812}恶魔王路西法{0000}同样的话,你重复了多少遍…{f801}你难道没有自由意志吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

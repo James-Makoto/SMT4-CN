@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}向我这狂暴的雷神伸出手{f801}只会引来雷霆的一击。{f801}{f802}这意味着什么,你不会不知道吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}向我这狂暴的雷神伸出手{f801}只会引来雷霆的一击。{f801}{f802}这意味着什么,你不会不知道吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}乌云的嘶吼已然覆盖天地,{f801}你要如何劝它收回狂怒的雷霆?{f801}{f802}不,为时已晚…!{f801}你只能依靠自己,将其击退。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}乌云的嘶吼已然覆盖天地,{f801}你要如何劝它收回狂怒的雷霆?{f801}{f802}不,为时已晚…!{f801}你只能依靠自己,将其击退。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}与我这狂暴的雷神{f801}你也想闲聊一番吗?{f801}{f802}那你首先{f801}应该献上贡品来安抚雷霆。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}与我这狂暴的雷神{f801}你也想闲聊一番吗?{f801}{f802}那你首先{f801}应该献上贡品来安抚雷霆。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}好吧,那你就试试看,{f801}如何进行雷鸣般的闲谈…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好吧,那你就试试看,{f801}如何进行雷鸣般的闲谈…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}呵哈哈哈…!与你交谈,很是痛快!{f801}我胸中之郁愤,原已累积如山…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵哈哈哈…!与你交谈,很是痛快!{f801}我胸中之郁愤,原已累积如山…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}谈天说地的那种畅快…{f801}果然啊,那是无法忘记的事情。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}谈天说地的那种畅快…{f801}果然啊,那是无法忘记的事情。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}你要向无情的轰雷乞求慈悲?{f801}那就先献上贡品吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你要向无情的轰雷乞求慈悲?{f801}那就先献上贡品吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}从雷神身上偶然也会流露慈悲…{f801}你就好好用身体感受吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}从雷神身上偶然也会流露慈悲…{f801}你就好好用身体感受吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}雷声亦有沉眠之时…{f801}片刻之宁静,是它难得的恩惠…{f801}{f802}你所寻求的慈悲…{f801}给你便是…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}雷声亦有沉眠之时…{f801}片刻之宁静,是它难得的恩惠…{f801}{f802}你所寻求的慈悲…{f801}给你便是…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f871}{0100}雷神的慈悲并非寻常之物。{f801}尔等凡人,一次无法受足。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}雷神的慈悲并非寻常之物。{f801}尔等凡人,一次无法受足。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}小子,你是当真{f801}想向我这狂暴的雷神索取金钱…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小子,你是当真{f801}想向我这狂暴的雷神索取金钱…?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f871}{0100}连对轰雷也能紧抓不放…{f801}贪财之心可谓压倒了一切啊…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}连对轰雷也能紧抓不放…{f801}贪财之心可谓压倒了一切啊…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}将手伸入雷神怀中的愚蠢之人啊,{f801}你被金钱迷了心窍…{f801}{f802}轰雷将击碎你的身心,{f801}连同你那份欲望一起焚烧殆尽…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}将手伸入雷神怀中的愚蠢之人啊,{f801}你被金钱迷了心窍…{f801}{f802}轰雷将击碎你的身心,{f801}连同你那份欲望一起焚烧殆尽…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}呃…呃啊啊啊啊啊…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呃…呃啊啊啊啊啊…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}小子…你在电闪雷鸣的风暴之中{f801}还要向人讨取财物吗…?!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小子…你在电闪雷鸣的风暴之中{f801}还要向人讨取财物吗…?!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}够了,钱这种东西,全部给你又如何!{f801}{f802}没有再等的必要,我要与你战斗,{f801}用这怒雷将你化作焦土…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}够了,钱这种东西,全部给你又如何!{f801}{f802}没有再等的必要,我要与你战斗,{f801}用这怒雷将你化作焦土…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}………呃!{f801}{f802}…刚才的闪电是!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}………呃!{f801}{f802}…刚才的闪电是!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}小子,你是当真{f801}想向我这狂暴的雷神索取金钱…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}小子,你是当真{f801}想向我这狂暴的雷神索取金钱…?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}和雷神进行交易…胆子倒不小。{f801}有趣,我就奉陪看看吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}和雷神进行交易…胆子倒不小。{f801}有趣,我就奉陪看看吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}雷光中显现的这个东西…{f801}你就拿去吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}雷光中显现的这个东西…{f801}你就拿去吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}想看看我珍藏的宝物吗…{f801}呵哈哈哈!给你又如何!{f801}{f802}宛如风暴中的雷霆…{f801}这无可比拟之物,你能接下吗…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}想看看我珍藏的宝物吗…{f801}呵哈哈哈!给你又如何!{f801}{f802}宛如风暴中的雷霆…{f801}这无可比拟之物,你能接下吗…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}…顺便把这个也给你吧。{f801}我用不着这个东西。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…顺便把这个也给你吧。{f801}我用不着这个东西。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>{f871}{0100}…时间宝贵,{f801}不如像闪电一样迅速解决。{f801}{f802}{f804}{0100}{f878}{0100}魔货{f804}{0000},{f801}你意下如何?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…时间宝贵,{f801}不如像闪电一样迅速解决。{f801}{f802}{f804}{0100}{f878}{0100}魔货{f804}{0000},{f801}你意下如何?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>{f871}{0100}就给我{f804}{0100}{f872}{0100}{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}{f872}{0100}{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>{f871}{0100}就给我{f804}{0100}{f878}{0100}魔货{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}{f878}{0100}魔货{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>{f871}{0100}就给我{f804}{0100}少许{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}少许{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>{f871}{0100}就给我{f804}{0100}一部分{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}一部分{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>{f871}{0100}就给我{f804}{0100}一大部分{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}一大部分{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>{f871}{0100}就给我{f804}{0100}几乎全部的{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}几乎全部的{f804}{0000}你的{f801}{f804}{0100}生命力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>{f871}{0100}就给我{f804}{0100}少许{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}少许{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>{f871}{0100}就给我{f804}{0100}一部分{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}一部分{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>{f871}{0100}就给我{f804}{0100}一大部分{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}一大部分{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>{f871}{0100}就给我{f804}{0100}几乎全部的{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就给我{f804}{0100}几乎全部的{f804}{0000}你的{f801}{f804}{0100}精神力{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>{f871}{0100}就把你的仲魔…{f801}{f804}{0100}{f873}{0200}的性命{f804}{0000}献给我吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就把你的仲魔…{f801}{f804}{0100}{f873}{0200}的性命{f804}{0000}献给我吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="99">
+    <source>{f871}{0100}…就给我{f804}{0100}那个{f804}{0000}吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…就给我{f804}{0100}那个{f804}{0000}吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f871}{0100}雷神所求之物…{f801}小子,你能明白吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}雷神所求之物…{f801}小子,你能明白吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}…没错。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…没错。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}…错了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…错了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>{f871}{0100}…好,差不多够了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…好,差不多够了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}呵哈哈哈…真不错!{f801}我的要求,就到这里为止了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵哈哈哈…真不错!{f801}我的要求,就到这里为止了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}是吗,你不愿意…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是吗,你不愿意…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}呵…不愿意交出来啊。{f801}{f802}看来你是{f801}希望品尝雷鸣的滋味。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵…不愿意交出来啊。{f801}{f802}看来你是{f801}希望品尝雷鸣的滋味。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>{f871}{0100}是吗,那就到此为止吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是吗,那就到此为止吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>{f871}{0100}呵…想弄虚作假啊。{f801}{f802}看来你是{f801}希望品尝雷鸣的滋味。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵…想弄虚作假啊。{f801}{f802}看来你是{f801}希望品尝雷鸣的滋味。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>{f871}{0100}是吗,你没有啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是吗,你没有啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f871}{0100}没有魔石的话,我们无从谈起。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没有魔石的话,我们无从谈起。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f871}{0100}…条件提得太多,也就不解风情了。{f801}我的要求,就到此为止了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…条件提得太多,也就不解风情了。{f801}我的要求,就到此为止了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>{f871}{0100}呵…你已经无意再谈了啊。{f801}{f802}看来你是{f801}希望品尝雷鸣的滋味。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呵…你已经无意再谈了啊。{f801}{f802}看来你是{f801}希望品尝雷鸣的滋味。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>{f871}{0100}我开出的条件,你能一一拒绝,{f801}此等坚决气概,可谓不逊于雷霆!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我开出的条件,你能一一拒绝,{f801}此等坚决气概,可谓不逊于雷霆!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>{f871}{0100}…像你这般对人百依百顺,{f801}究竟能有什么出息?{f801}{f802}更别说对国家有什么用处了…{f801}够了,你滚吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…像你这般对人百依百顺,{f801}究竟能有什么出息?{f801}{f802}更别说对国家有什么用处了…{f801}够了,你滚吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>{f871}{0100}原来如此,你身无长物,{f801}所依仗的唯有自己的实力…{f801}{f802}此等坚决气概,可谓不逊于雷霆!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}原来如此,你身无长物,{f801}所依仗的唯有自己的实力…{f801}{f802}此等坚决气概,可谓不逊于雷霆!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>{f871}{0100}同样的话,你重复了太多次…{f801}是生怕我不会厌烦吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}同样的话,你重复了太多次…{f801}是生怕我不会厌烦吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}空中电光一闪,雷霆瞬息已至。{f801}为的是,与主上再度相会…{f801}{f802}走吧,{f843}{0000}。{f801}将你的道路贯彻到底…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}空中电光一闪,雷霆瞬息已至。{f801}为的是,与主上再度相会…{f801}{f802}走吧,{f843}{0000}。{f801}将你的道路贯彻到底…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

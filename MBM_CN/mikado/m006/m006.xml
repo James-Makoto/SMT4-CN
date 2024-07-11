@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>Test{f801}{ffff}</source>
+    <target>Test{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}伊萨卡{0000}{f87a}{0700}{f813}{0100}{0000}{761c}{0600}…嗯?广场上看起来人山人海啊。{f801}莫非那里就是仪式会场…?{f801}{f802}喂,{f843}{0000},{f801}要不要去看看?你觉得呢…?{f801}{ffff}</source>
+    <target>{f812}伊萨卡{0000}{f87a}{0700}{f813}{0100}{0000}{761c}{0600}…嗯?广场上看起来人山人海啊。{f801}莫非那里就是仪式会场…?{f801}{f802}喂,{f843}{0000},{f801}要不要去看看?你觉得呢…?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>去看看{f801}还不是时候{f801}{ffff}</source>
+    <target>去看看{f801}还不是时候{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>要休息吗?{f801}{ffff}</source>
+    <target>要休息吗?{f801}{ffff}</target>
+  </entry>
+</mbm>

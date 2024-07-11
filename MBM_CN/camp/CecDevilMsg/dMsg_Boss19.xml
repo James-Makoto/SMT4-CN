@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}为了将这个世界纳入秩序之中,{f801}我们的旅程仍将继续…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为了将这个世界纳入秩序之中,{f801}我们的旅程仍将继续…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}…下一处黑暗在何方?{f801}我欲即刻前往,将其祓除。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…下一处黑暗在何方?{f801}我欲即刻前往,将其祓除。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}世界得到了更多的祝福,{f801}这是一趟收获颇丰的旅程。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}世界得到了更多的祝福,{f801}这是一趟收获颇丰的旅程。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}来,收下吧。{f801}这份得到了光之祝福的礼物…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}来,收下吧。{f801}这份得到了光之祝福的礼物…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}我在旅途之中{f801}得到了上天授予的这份礼物…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我在旅途之中{f801}得到了上天授予的这份礼物…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}我不在的时候,你依然活了下来。{f801}不错,就用这礼物作为对你的祝福吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我不在的时候,你依然活了下来。{f801}不错,就用这礼物作为对你的祝福吧。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

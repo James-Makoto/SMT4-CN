@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}(假)すれちがい成长メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい成长メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}(假)すれちがい成长メッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい成长メッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}(假)すれちがい成长メッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい成长メッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}(假)すれちがいアイテムメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがいアイテムメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}(假)すれちがいアイテムメッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがいアイテムメッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}(假)すれちがいアイテムメッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがいアイテムメッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

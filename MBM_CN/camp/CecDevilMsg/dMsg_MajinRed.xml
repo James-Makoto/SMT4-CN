@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}之后 他们全部 都丧命了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}之后 他们全部 都丧命了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}助人之事 已经完成…{f801}伴随着 无数死亡…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}助人之事 已经完成…{f801}伴随着 无数死亡…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}活下来的 武士们的 战斗…{f801}这双眼 确实望见了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}活下来的 武士们的 战斗…{f801}这双眼 确实望见了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ2{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ2{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}(假)すれちがい变身メッセージ3{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(假)すれちがい变身メッセージ3{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}死亡 赠予的 这份礼物{f801}或能 守护 你的性命…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死亡 赠予的 这份礼物{f801}或能 守护 你的性命…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}给你吧 生命之礼{f801}它守护过 武士众的 性命{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给你吧 生命之礼{f801}它守护过 武士众的 性命{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}死去了 灭亡了 消逝了{f801}留下的是 这份礼物…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死去了 灭亡了 消逝了{f801}留下的是 这份礼物…{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

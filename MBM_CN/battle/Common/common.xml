@@ -1,0 +1,154 @@
+<mbm>
+  <entry id="0">
+    <source>无法再保护{f801}{f873}{0600}了!{f801}{f802}{ffff}</source>
+    <target>无法再保护{f801}{f873}{0600}了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>逃走了・・・{f801}{f802}{ffff}</source>
+    <target>逃走了・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>无法逃跑!{f801}{f802}{ffff}</source>
+    <target>无法逃跑!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>援军出现了!{f801}{f802}{ffff}</source>
+    <target>援军出现了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>全灭了・・・{f801}{f802}{ffff}</source>
+    <target>全灭了・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>无法从这场战斗中逃脱!{f801}{f802}{ffff}</source>
+    <target>无法从这场战斗中逃脱!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>自动战斗实行中・・・ 按下B键取消 {f801}{f802}{ffff}</source>
+    <target>自动战斗实行中・・・ 按下B键取消 {f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>弱点辅助实行中・・・ 按下B键取消  {f801}{f802}{ffff}</source>
+    <target>弱点辅助实行中・・・ 按下B键取消  {f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>先制攻击 成功!{f801}{f802}{ffff}</source>
+    <target>先制攻击 成功!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f873}{0600}没有头绪{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}没有头绪{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f873}{0600}身不由己!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}身不由己!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f873}{0600}睡着了{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}睡着了{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f873}{0600}无法行动!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}无法行动!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f873}{0600}正在说闲话{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}正在说闲话{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f873}{0600}废话连篇{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}废话连篇{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f873}{0600}仍在说闲话{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}仍在说闲话{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f873}{0600}的运气上升中!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的运气上升中!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>濒危的{f873}{0600}行动次数增加!{f801}{f802}{ffff}</source>
+    <target>濒危的{f873}{0600}行动次数增加!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f873}{0600}的命中・回避率UP!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的命中・回避率UP!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f873}{0600}因风邪而行动迟缓!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}因风邪而行动迟缓!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f873}{0600}中毒了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}中毒了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>剩下的仲魔们仍在竭尽全力・・・{f801}{f802}{ffff}</source>
+    <target>剩下的仲魔们仍在竭尽全力・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f873}{0600}被吹飞了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}被吹飞了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>仲魔被吹飞了!{f801}{f802}{ffff}</source>
+    <target>仲魔被吹飞了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f843}{0000}倒下了!{f801}{f802}{ffff}</source>
+    <target>{f843}{0000}倒下了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f873}{0600}奸笑了・・・{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}奸笑了・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f873}{0600}咬紧了牙关!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}咬紧了牙关!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f873}{0600}通过不屈的斗志复活了!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}通过不屈的斗志复活了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f873}{0600}染上了风邪!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}染上了风邪!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>无效!{f801}{f802}{ffff}</source>
+    <target>无效!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>大家都镇定下来了!{f801}{f802}{ffff}</source>
+    <target>大家都镇定下来了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f873}{0600}的魔法威力魉中!{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}的魔法威力魉中!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>即死效果发动!{f801}{f802}{ffff}</source>
+    <target>即死效果发动!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>大家都奸笑了・・・{f801}{f802}{ffff}</source>
+    <target>大家都奸笑了・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>防护壁无效了!{f801}{f802}{ffff}</source>
+    <target>防护壁无效了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>防护壁反射了攻击!{f801}{f802}{ffff}</source>
+    <target>防护壁反射了攻击!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f873}{0600}被打上了烙印・・・{f801}{f802}{ffff}</source>
+    <target>{f873}{0600}被打上了烙印・・・{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>耐性被穿透了!{f801}{f802}{ffff}</source>
+    <target>耐性被穿透了!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

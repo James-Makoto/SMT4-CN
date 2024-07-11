@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}老子 进行了 美食之旅!{f801}下次 去哪里 老子 又饿了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}老子 进行了 美食之旅!{f801}下次 去哪里 老子 又饿了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}老子 给别人 帮了大忙!{f801}总之 全部 撕碎!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}老子 给别人 帮了大忙!{f801}总之 全部 撕碎!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}老子 要继续 擦肩!{f801}继续 撕碎 世界!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}老子 要继续 擦肩!{f801}继续 撕碎 世界!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}老子是 最强的 野兽!{f801}一切 全部 撕碎!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}老子是 最强的 野兽!{f801}一切 全部 撕碎!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}老子 无差别 合体!{f801}什么 都吃 变成了 野兽!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}老子 无差别 合体!{f801}什么 都吃 变成了 野兽!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}擦肩后 变成了 野兽!{f801}这就是 野性的 法则!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}擦肩后 变成了 野兽!{f801}这就是 野性的 法则!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}老子 带了 礼物!{f801}你吃!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}老子 带了 礼物!{f801}你吃!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}给你 礼物!{f801}那边的 美食 你吃!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给你 礼物!{f801}那边的 美食 你吃!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}礼物 老子 不懂!{f801}能吃 就好!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}礼物 老子 不懂!{f801}能吃 就好!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

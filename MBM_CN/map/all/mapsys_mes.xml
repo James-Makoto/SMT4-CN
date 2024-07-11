@@ -1,0 +1,318 @@
+<mbm>
+  <entry id="100">
+    <source>有电梯{f801}要去哪一层?{f801}{ffff}</source>
+    <target>有电梯{f801}要去哪一层?{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>第2展望台{f801}算了{f801}{ffff}</source>
+    <target>第2展望台{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>B1F{f801}算了{f801}{ffff}</source>
+    <target>B1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>B1F{f801}算了{f801}{ffff}</source>
+    <target>B1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>B1F{f801}算了{f801}{ffff}</source>
+    <target>B1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>B3F{f801}算了{f801}{ffff}</source>
+    <target>B3F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>B2F{f801}算了{f801}{ffff}</source>
+    <target>B2F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>B1F{f801}算了{f801}{ffff}</source>
+    <target>B1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>B3F{f801}算了{f801}{ffff}</source>
+    <target>B3F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>B2F{f801}算了{f801}{ffff}</source>
+    <target>B2F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>33F{f801}算了{f801}{ffff}</source>
+    <target>33F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>54F{f801}算了{f801}{ffff}</source>
+    <target>54F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>43F{f801}算了{f801}{ffff}</source>
+    <target>43F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>33F{f801}算了{f801}{ffff}</source>
+    <target>33F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>54F{f801}算了{f801}{ffff}</source>
+    <target>54F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>43F{f801}算了{f801}{ffff}</source>
+    <target>43F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>B8F{f801}B9F{f801}算了{f801}{ffff}</source>
+    <target>B8F{f801}B9F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>B51F{f801}算了{f801}{ffff}</source>
+    <target>B51F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>B7F{f801}B9F{f801}算了{f801}{ffff}</source>
+    <target>B7F{f801}B9F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>B7F{f801}B8F{f801}算了{f801}{ffff}</source>
+    <target>B7F{f801}B8F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>B51F{f801}算了{f801}{ffff}</source>
+    <target>B51F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>B9F{f801}算了{f801}{ffff}</source>
+    <target>B9F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>B51F{f801}算了{f801}{ffff}</source>
+    <target>B51F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>B51F{f801}算了{f801}{ffff}</source>
+    <target>B51F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>B7F{f801}算了{f801}{ffff}</source>
+    <target>B7F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>电梯{f801}被安全锁锁住了{f801}{ffff}</source>
+    <target>电梯{f801}被安全锁锁住了{f801}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>电梯{f801}被安全锁锁住了{f801}{ffff}</source>
+    <target>电梯{f801}被安全锁锁住了{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>B1F{f801}算了{f801}{ffff}</source>
+    <target>B1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>B2F{f801}算了{f801}{ffff}</source>
+    <target>B2F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>B3F{f801}算了{f801}{ffff}</source>
+    <target>B3F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>B1F{f801}算了{f801}{ffff}</source>
+    <target>B1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>B2F{f801}算了{f801}{ffff}</source>
+    <target>B2F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>B1F{f801}算了{f801}{ffff}</source>
+    <target>B1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>B3F{f801}算了{f801}{ffff}</source>
+    <target>B3F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>2F{f801}算了{f801}{ffff}</source>
+    <target>2F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>电梯{f801}被安全锁锁住了{f801}{ffff}</source>
+    <target>电梯{f801}被安全锁锁住了{f801}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>被安全锁锁住了{f801}{ffff}</source>
+    <target>被安全锁锁住了{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>1F{f801}算了{f801}{ffff}</source>
+    <target>1F{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="600">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{0329}{0100}有恶魔结界的反应{f801}要进去吗?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{0329}{0100}有恶魔结界的反应{f801}要进去吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="601">
+    <source>进去{f801}算了{f801}{ffff}</source>
+    <target>进去{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="602">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{0429}{0100}前方有强力恶魔的反应{f801}要进去吗?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{0429}{0100}前方有强力恶魔的反应{f801}要进去吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="603">
+    <source>进去{f801}算了{f801}{ffff}</source>
+    <target>进去{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="604">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{5aab}{0400}…{f843}{0000}大人 提高警惕{f801}附近有强大恶魔的反应哦{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{5aab}{0400}…{f843}{0000}大人 提高警惕{f801}附近有强大恶魔的反应哦{f801}{ffff}</target>
+  </entry>
+  <entry id="605">
+    <source>前方感觉到有不祥的气息…{f801}要进去吗?{f801}{ffff}</source>
+    <target>前方感觉到有不祥的气息…{f801}要进去吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="606">
+    <source>进去{f801}算了{f801}{ffff}</source>
+    <target>进去{f801}算了{f801}{ffff}</target>
+  </entry>
+  <entry id="900">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}有逃生口呢{f801}{f802}要中断结界的探索{f801}从这里逃出去吗?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}有逃生口呢{f801}{f802}要中断结界的探索{f801}从这里逃出去吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="901">
+    <source>逃出去{f801}不出去{f801}{ffff}</source>
+    <target>逃出去{f801}不出去{f801}{ffff}</target>
+  </entry>
+  <entry id="902">
+    <source>目前没有遗物的反应…{f801}{ffff}</source>
+    <target>目前没有遗物的反应…{f801}{ffff}</target>
+  </entry>
+  <entry id="903">
+    <source>结界解除{f801}能取得遗物了{f801}{f802}{f843}{0000}{f801}获得了{f811}{0000}…{f801}{ffff}</source>
+    <target>结界解除{f801}能取得遗物了{f801}{f802}{f843}{0000}{f801}获得了{f811}{0000}…{f801}{ffff}</target>
+  </entry>
+  <entry id="910">
+    <source>{f811}{0000}{f801}门紧紧地关着…{f801}{ffff}</source>
+    <target>{f811}{0000}{f801}门紧紧地关着…{f801}{ffff}</target>
+  </entry>
+  <entry id="911">
+    <source>门被不可思议的力量关闭着…{f801}{ffff}</source>
+    <target>门被不可思议的力量关闭着…{f801}{ffff}</target>
+  </entry>
+  <entry id="912">
+    <source>这里已经没有东西了{f801}{ffff}</source>
+    <target>这里已经没有东西了{f801}{ffff}</target>
+  </entry>
+  <entry id="913">
+    <source>被恶魔之力封印着…{f801}{ffff}</source>
+    <target>被恶魔之力封印着…{f801}{ffff}</target>
+  </entry>
+  <entry id="920">
+    <source>{f812}巴洛斯{0000}收集齐了要交付的物品了哟{f801}推荐在K的店里交付哟{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}收集齐了要交付的物品了哟{f801}推荐在K的店里交付哟{f801}{ffff}</target>
+  </entry>
+  <entry id="921">
+    <source>{f812}巴洛斯{0000}收集齐了要交付的物品了哟{f801}推荐在人外猎人商会里交付哟{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}收集齐了要交付的物品了哟{f801}推荐在人外猎人商会里交付哟{f801}{ffff}</target>
+  </entry>
+  <entry id="922">
+    <source>{f812}巴洛斯{0000}收集齐了要交付的物品了哟{f801}推荐在指定场所里交付哟{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}收集齐了要交付的物品了哟{f801}推荐在指定场所里交付哟{f801}{ffff}</target>
+  </entry>
+  <entry id="932">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{11a9}{0700}真可惜呢{f801}再试着挑战一次吧{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{11a9}{0700}真可惜呢{f801}再试着挑战一次吧{f801}{ffff}</target>
+  </entry>
+  <entry id="935">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}请稍等一下,{f801}你有其他正在进行的任务,没关系吗?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}请稍等一下,{f801}你有其他正在进行的任务,没关系吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="936">
+    <source>要继续推进主线剧情的话{f801}请放弃挑战任务{f801}或者请解除暂停中的{f801}主线任务{f801}{ffff}</source>
+    <target>要继续推进主线剧情的话{f801}请放弃挑战任务{f801}或者请解除暂停中的{f801}主线任务{f801}{ffff}</target>
+  </entry>
+  <entry id="940">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}呐 你知道吗?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}呐 你知道吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="941">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}呐 你知道吗?{f801}{f802}虽然是被称为{f801}利用假想现实机能进行战斗训练的任务{f801}{f802}可以的话 要我给你详细说明一下吗?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}呐 你知道吗?{f801}{f802}虽然是被称为{f801}利用假想现实机能进行战斗训练的任务{f801}{f802}可以的话 要我给你详细说明一下吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="942">
+    <source>听一下说明{f801}不听说明{f801}{ffff}</source>
+    <target>听一下说明{f801}不听说明{f801}{ffff}</target>
+  </entry>
+  <entry id="943">
+    <source>新的挑战任务{f801}解锁了{f801}{f802}这个挑战任务{f801}包含了各种只需通过战斗{f801}就能进行攻略的任务{f801}{f802}即使失败了也不会有任何惩罚{f801}无论挑战几次都可以{f801}{f802}因为会定期的追加任务{f801}清随意进行挑战吧{f801}{ffff}</source>
+    <target>新的挑战任务{f801}解锁了{f801}{f802}这个挑战任务{f801}包含了各种只需通过战斗{f801}就能进行攻略的任务{f801}{f802}即使失败了也不会有任何惩罚{f801}无论挑战几次都可以{f801}{f802}因为会定期的追加任务{f801}清随意进行挑战吧{f801}{ffff}</target>
+  </entry>
+  <entry id="944">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{17a9}{0700}会登录几个{f801}挑战任务哦{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{17a9}{0700}会登录几个{f801}挑战任务哦{f801}{ffff}</target>
+  </entry>
+  <entry id="945">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}…大概就是这样的感觉{f801}高兴的话就试着接受看看吧{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}…大概就是这样的感觉{f801}高兴的话就试着接受看看吧{f801}{ffff}</target>
+  </entry>
+  <entry id="946">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{19a9}{0700}那么 就不进行说明了呢{f801}{f802}{f813}{0000}{0000}{13a9}{0700}会登录挑战任务{f801}高兴的话就试着接受看看吧{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{19a9}{0700}那么 就不进行说明了呢{f801}{f802}{f813}{0000}{0000}{13a9}{0700}会登录挑战任务{f801}高兴的话就试着接受看看吧{f801}{ffff}</target>
+  </entry>
+  <entry id="947">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{12a9}{0700}呐 听我说啊{f801}有可以在假想现实中完成的任务哦{f801}{f802}{f813}{0000}{0000}{13a9}{0700}会登录挑战任务{f801}高兴的话就试着接受看看吧{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{12a9}{0700}呐 听我说啊{f801}有可以在假想现实中完成的任务哦{f801}{f802}{f813}{0000}{0000}{13a9}{0700}会登录挑战任务{f801}高兴的话就试着接受看看吧{f801}{ffff}</target>
+  </entry>
+  <entry id="950">
+    <source>艾斯托马剑的效果中断了{f801}{ffff}</source>
+    <target>艾斯托马剑的效果中断了{f801}{ffff}</target>
+  </entry>
+  <entry id="951">
+    <source>发现了{f811}{0000}{f801}但是已经拿不动了{f801}{ffff}</source>
+    <target>发现了{f811}{0000}{f801}但是已经拿不动了{f801}{ffff}</target>
+  </entry>
+</mbm>

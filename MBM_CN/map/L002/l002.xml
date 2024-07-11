@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>エリア1に移饕しますか?{f801}{ffff}</source>
+    <target>エリア1に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>エリア2に移饕しますか?{f801}{ffff}</source>
+    <target>エリア2に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>エリア3に移饕しますか?{f801}{ffff}</source>
+    <target>エリア3に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>エリア4に移饕しますか?{f801}{ffff}</source>
+    <target>エリア4に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>エリア5に移饕しますか?{f801}{ffff}</source>
+    <target>エリア5に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>エリア6に移饕しますか?{f801}{ffff}</source>
+    <target>エリア6に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>エリア7に移饕しますか?{f801}{ffff}</source>
+    <target>エリア7に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>エリア8に移饕しますか?{f801}{ffff}</source>
+    <target>エリア8に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>エリア9に移饕しますか?{f801}{ffff}</source>
+    <target>エリア9に移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>要升空吗?{f801}{ffff}</source>
+    <target>要升空吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</source>
+    <target>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</source>
+    <target>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</source>
+    <target>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</source>
+    <target>(スクリプト对应){f801}移饕しますか?{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>小子,像你那样是会死的。{f801}{ffff}</source>
+    <target>小子,像你那样是会死的。{f801}{ffff}</target>
+  </entry>
+</mbm>

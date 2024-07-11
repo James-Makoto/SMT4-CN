@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="23">
+    <source>{f812}Q{0000}{f813}{0000}{0000}{d62e}{0600}噢,您带来了很不错的遗物啊。{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0000}{0000}{d62e}{0600}噢,您带来了很不错的遗物啊。{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f812}Q{0000}加起来应该是这么多。{f801}那么我来为您结账。{f801}{ffff}</source>
+    <target>{f812}Q{0000}加起来应该是这么多。{f801}那么我来为您结账。{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f812}Q{0000}{f813}{0000}{0000}{d02e}{0600}哎呀,这不是武士大人吗。{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0000}{0000}{d02e}{0600}哎呀,这不是武士大人吗。{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f812}Q{0000}{f813}{0000}{0000}{d32e}{0600}您看看还有什么需要…{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0000}{0000}{d32e}{0600}您看看还有什么需要…{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f812}Q{0000}{f813}{0400}{0000}{d22e}{0600}请您路上小心。{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0400}{0000}{d22e}{0600}请您路上小心。{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f812}Q{0000}{f878}{0100}个{f872}{0100}对吧,{f801}一共是{f878}{0200}魔货。{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f878}{0100}个{f872}{0100}对吧,{f801}一共是{f878}{0200}魔货。{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f812}Q{0000}{f878}{0100}个{f872}{0100}对吧,{f801}我可以付您{f878}{0200}魔货。{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f878}{0100}个{f872}{0100}对吧,{f801}我可以付您{f878}{0200}魔货。{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>{f812}Q{0000}{f813}{0000}{0000}{d72e}{0600}多谢光顾。{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0000}{0000}{d72e}{0600}多谢光顾。{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>{f812}Q{0000}您打算现在就换上吗?{f801}{ffff}</source>
+    <target>{f812}Q{0000}您打算现在就换上吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f812}Q{0000}{f813}{0000}{0000}{d52e}{0600}您有什么想卖的吗?{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0000}{0000}{d52e}{0600}您有什么想卖的吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>{f812}Q{0000}{f813}{0000}{0000}{d42e}{0600}今天您有什么需要的?{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0000}{0000}{d42e}{0600}今天您有什么需要的?{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f812}Q{0000}{f813}{0000}{0000}{d12e}{0600}小店今天有优惠活动。{f801}{ffff}</source>
+    <target>{f812}Q{0000}{f813}{0000}{0000}{d12e}{0600}小店今天有优惠活动。{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+</mbm>

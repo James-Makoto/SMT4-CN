@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{f801}{ffff}</source>
+    <target>ダミーメッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}扰乱…东京…治安的…{f801}社会的…渣滓…{f801}{f802}本官…才不会…向你们…{f801}伸出…援手…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}扰乱…东京…治安的…{f801}社会的…渣滓…{f801}{f802}本官…才不会…向你们…{f801}伸出…援手…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}扰乱…东京…治安的…{f801}社会的…渣滓…{f801}{f802}我不会…停战…{f801}我要…处死…你们…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}扰乱…东京…治安的…{f801}社会的…渣滓…{f801}{f802}我不会…停战…{f801}我要…处死…你们…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}你这小子…召唤槽…满了…{f801}这样的话…就无法…收监…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子…召唤槽…满了…{f801}这样的话…就无法…收监…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}本官是…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}接下来…也要…维持治安…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本官是…{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}…{f801}接下来…也要…维持治安…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}但是…你小子…等级…不够啊…{f801}那么就…释放…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}但是…你小子…等级…不够啊…{f801}那么就…释放…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}唔…本官的…同事…{f801}是…你的…仲魔…?{f801}{f802}感谢…你这…市民的…协助…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}唔…本官的…同事…{f801}是…你的…仲魔…?{f801}{f802}感谢…你这…市民的…协助…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}这时…应当…申请支援…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这时…应当…申请支援…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}但是…你小子…召唤槽…满了…{f801}这样的话…不行…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}但是…你小子…召唤槽…满了…{f801}这样的话…不行…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}站住…{f801}请你…跟我们…走一趟…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}站住…{f801}请你…跟我们…走一趟…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}无所谓…{f801}少数精锐…就能完成…职责…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}无所谓…{f801}少数精锐…就能完成…职责…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}那么…{f801}本官就…也和你…一起…行动…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么…{f801}本官就…也和你…一起…行动…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}那么…就用本官的…人脉…{f801}给你…介绍…恶魔…{f801}{f802}不管哪个…都是…重罪犯…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么…就用本官的…人脉…{f801}给你…介绍…恶魔…{f801}{f802}不管哪个…都是…重罪犯…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}接到…报警…到达…现场…{f801}尸体…和犯人…都在哪…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}接到…报警…到达…现场…{f801}尸体…和犯人…都在哪…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}和本官…做交易么…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}和本官…做交易么…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}本官…接下来要…东张西望…{f801}这句话的意思…你…懂吧…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本官…接下来要…东张西望…{f801}这句话的意思…你…懂吧…?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}本官…现在…{f801}正在…睡觉…{f801}{f802}要…逃走…{f801}就趁…现在…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本官…现在…{f801}正在…睡觉…{f801}{f802}要…逃走…{f801}就趁…现在…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}你在…逃亡…既然如此…{f801}给你…一点…回复…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你在…逃亡…既然如此…{f801}给你…一点…回复…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}要和本官…闲聊么…{f801}那么…就需要…贿赂…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}要和本官…闲聊么…{f801}那么…就需要…贿赂…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}那么…闲聊…吧…{f801}不许…泄露…情报…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}那么…闲聊…吧…{f801}不许…泄露…情报…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}咕嘿…咕嘿嘿嘿…!{f801}本官…在职场…十分孤独…!{f801}{f802}哪怕…闲聊…也高兴…!{f801}咕嘿嘿嘿…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}咕嘿…咕嘿嘿嘿…!{f801}本官…在职场…十分孤独…!{f801}{f802}哪怕…闲聊…也高兴…!{f801}咕嘿嘿嘿…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}你这小子…真可疑…!{f801}需要…进一步…审问…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子…真可疑…!{f801}需要…进一步…审问…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}向本官…求饶…么…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}向本官…求饶…么…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}这是…本官的…慈悲…{f801}接下…这个…打起…精神…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这是…本官的…慈悲…{f801}接下…这个…打起…精神…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}本官…正在…小睡…{f801}你这小子…也…休息一下…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本官…正在…小睡…{f801}你这小子…也…休息一下…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f871}{0100}还不够…吗…{f801}那就…再给你…来一次…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}还不够…吗…{f801}那就…再给你…来一次…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}向市民…提供…资金…?{f801}本官…没有…那种权限…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}向市民…提供…资金…?{f801}本官…没有…那种权限…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f871}{0100}…{f801}你这…通…通缉犯…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…{f801}你这…通…通缉犯…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}死刑…!死刑…!死刑刑刑…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}死刑…!死刑…!死刑刑刑…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}咕哦哦哦哦哦…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}咕哦哦哦哦哦…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}快住手…{f801}我还能…放你一马…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}快住手…{f801}我还能…放你一马…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}快…快住手…{f801}这样…我们…商量一下…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}快…快住手…{f801}这样…我们…商量一下…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}咕哦哦哦哦…!{f801}监 狱 关 押 立 刻 执 行 !{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}咕哦哦哦哦…!{f801}监 狱 关 押 立 刻 执 行 !{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}人身…自由…被限制…{f801}提供…资金…的要求…{f801}{f802}这是…案件的…味道…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}人身…自由…被限制…{f801}提供…资金…的要求…{f801}{f802}这是…案件的…味道…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}私下…交易…么…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}私下…交易…么…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}收下…这个…货吧…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}收下…这个…货吧…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}咕嘿嘿嘿嘿…!{f801}正好…这货…可以给你…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}咕嘿嘿嘿嘿…!{f801}正好…这货…可以给你…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}这个货…你也…拿走吧…{f801}做恶事…就做…到底…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个货…你也…拿走吧…{f801}做恶事…就做…到底…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}…我要…这个…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}{f872}{0100}{f804}{0000}…我要…这个…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>{f871}{0100}{f804}{0100}{f878}{0100}魔货{f804}{0000}…给我…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}{f878}{0100}魔货{f804}{0000}…给我…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}一点{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}一点{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}一部分{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}一部分{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}一大部分{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}一大部分{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}绝大部分{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}生命力{f804}{0000}…{f801}给我…{f804}{0100}绝大部分{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}一点{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}一点{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}一部分{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}一部分{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}一大部分{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}一大部分{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}绝大部分{f804}{0000}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…{f804}{0100}精神力{f804}{0000}…{f801}给我…{f804}{0100}绝大部分{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>{f871}{0100}你这小子的…仲魔…{f801}{f804}{0100}{f873}{0200}的命{f804}{0000}…我要了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子的…仲魔…{f801}{f804}{0100}{f873}{0200}的命{f804}{0000}…我要了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="99">
+    <source>{f871}{0100}你小子的…{f804}{0100}那个{f804}{0000}…我…要了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你小子的…{f804}{0100}那个{f804}{0000}…我…要了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f871}{0100}本官…想要…什么…{f801}你这小子…稍微…想想…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本官…想要…什么…{f801}你这小子…稍微…想想…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}正是…如此…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}正是…如此…{f801}你这小子…真是…罪无可赦…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}不是…这个…{f801}你这…社会的…渣滓…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不是…这个…{f801}你这…社会的…渣滓…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>{f871}{0100}很好…有这些…的话…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}很好…有这些…的话…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}这个…很好…!{f801}好到…像犯罪…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这个…很好…!{f801}好到…像犯罪…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}你要反抗…本官么…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你要反抗…本官么…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}你这小子…这么小气…是吧…?{f801}反社会…行为…!{f801}{f802}死刑… 死刑… 死刑刑刑刑…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子…这么小气…是吧…?{f801}反社会…行为…!{f801}{f802}死刑… 死刑… 死刑刑刑刑…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>{f871}{0100}够…了…{f801}我不会…再犹豫…了…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}够…了…{f801}我不会…再犹豫…了…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>{f871}{0100}你这小子…诈骗么…?{f801}反社会…行为…!{f801}{f802}死刑… 死刑… 死刑刑刑刑…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子…诈骗么…?{f801}反社会…行为…!{f801}{f802}死刑… 死刑… 死刑刑刑刑…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>{f871}{0100}没有么…没办法…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没有么…没办法…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f871}{0100}携带…魔石…是义务…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}携带…魔石…是义务…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f871}{0100}要求过多…就是渎职…{f801}到此…为止…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}要求过多…就是渎职…{f801}到此…为止…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>{f871}{0100}你敢…看扁…本官…?{f801}反社会…行为…!{f801}{f802}死刑… 死刑… 死刑刑刑刑…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你敢…看扁…本官…?{f801}反社会…行为…!{f801}{f802}死刑… 死刑… 死刑刑刑刑…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>{f871}{0100}多次…拒绝…{f801}竟然…如此…拒绝渎职…{f801}{f802}真是…正直的…优良市民…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}多次…拒绝…{f801}竟然…如此…拒绝渎职…{f801}{f802}真是…正直的…优良市民…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>{f871}{0100}不管…老子要什么…都给…{f801}向官僚…不断…摇尾巴…{f801}{f802}真是臭狗…看不顺眼…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不管…老子要什么…都给…{f801}向官僚…不断…摇尾巴…{f801}{f802}真是臭狗…看不顺眼…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>{f871}{0100}你这小子…什么都…没有…{f801}真是…贫困阶级…{f801}{f802}本官…很同情…你…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这小子…什么都…没有…{f801}真是…贫困阶级…{f801}{f802}本官…很同情…你…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>{f871}{0100}发生…案件…{f801}立刻…前往…现场…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}发生…案件…{f801}立刻…前往…现场…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}…么…{f801}你那张脸…我…想起来了…{f801}{f802}和…官僚…混熟…{f801}这次…你要…干什么…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…么…{f801}你那张脸…我…想起来了…{f801}{f802}和…官僚…混熟…{f801}这次…你要…干什么…?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}本来…是不能…和庶民…{f801}打交道…真的…{f801}{f802}但…你这小子…特别…{f801}本官也会…协助…任务…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本来…是不能…和庶民…{f801}打交道…真的…{f801}{f802}但…你这小子…特别…{f801}本官也会…协助…任务…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>{f871}{0100}没办法…这次…特别…{f801}{f802}本官…接下来要…东张西望…{f801}这句话的…意思…你懂吧…?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没办法…这次…特别…{f801}{f802}本官…接下来要…东张西望…{f801}这句话的…意思…你懂吧…?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}闲聊…玩忽…职守…{f801}但…你这小子…另当别论…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}闲聊…玩忽…职守…{f801}但…你这小子…另当别论…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}对方…是你的话…无法拒绝…{f801}仅此一次…特别优惠…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}对方…是你的话…无法拒绝…{f801}仅此一次…特别优惠…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}在本官…面前…{f801}不要…做出…愚蠢的举动…{f801}{f802}来…{f801}吃点…好东西…吧…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}在本官…面前…{f801}不要…做出…愚蠢的举动…{f801}{f802}来…{f801}吃点…好东西…吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}交易…货…么…{f801}行吧…如果是…你这小子的话…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交易…货…么…{f801}行吧…如果是…你这小子的话…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>{f871}{0100}全是…同一个…话题啊…{f801}简直像…审问…憧了…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}全是…同一个…话题啊…{f801}简直像…审问…憧了…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}本部…请回答…我发现了…{f801}在逃的…{f843}{0000}…!{f801}{f802}小子…放弃吧…!{f801}你是无法…从本官这里…逃走的…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}本部…请回答…我发现了…{f801}在逃的…{f843}{0000}…!{f801}{f802}小子…放弃吧…!{f801}你是无法…从本官这里…逃走的…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f871}{0100}快…快住手…{f801}杀害…警官…可是重罪…!{f801}{f802}我愿意…帮你做事…{f801}饶我…一命…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}快…快住手…{f801}杀害…警官…可是重罪…!{f801}{f802}我愿意…帮你做事…{f801}饶我…一命…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}当然…没有问题…{f801}我管他…什么…渎职呢…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}当然…没有问题…{f801}我管他…什么…渎职呢…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f871}{0100}殉…职…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}殉…职…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>リザーブ{f801}{ffff}</source>
+    <target>リザーブ{f801}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>{f871}{0100}リザーブ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}リザーブ{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

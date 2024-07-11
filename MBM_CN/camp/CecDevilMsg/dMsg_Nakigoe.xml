@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}呼吓ー!呼吓吓ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼吓ー!呼吓吓ー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}呼吓吓ー!呼吓ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼吓吓ー!呼吓ー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}呼呜呜呜ー!{f801}呼吓ー!呼吓ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼呜呜呜ー!{f801}呼吓ー!呼吓ー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}吓ー!吓ー!{f801}呼吓吓吓ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}吓ー!吓ー!{f801}呼吓吓吓ー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}呼吓吓吓ー!{f801}吓ー!吓ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼吓吓吓ー!{f801}吓ー!吓ー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}吓ー!呼吓吓ー!{f801}吓吓ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}吓ー!呼吓吓ー!{f801}吓吓ー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}呼噢!呼噢!呼噢!…{f801}呼噢呼噢呼噢ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼噢!呼噢!呼噢!…{f801}呼噢呼噢呼噢ー!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}呼噢呼噢呼噢ー!{f801}呼噢!呼噢!呼噢!…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼噢呼噢呼噢ー!{f801}呼噢!呼噢!呼噢!…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}呼噢…!{f801}呼噢呼噢…!呼噢ー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呼噢…!{f801}呼噢呼噢…!呼噢ー!{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

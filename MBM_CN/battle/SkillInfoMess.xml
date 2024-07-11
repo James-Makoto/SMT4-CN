@@ -1,0 +1,366 @@
+<mbm>
+  <entry id="41">
+    <source>全能力 DOWN!{f801}{ffff}</source>
+    <target>全能力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>持有的魔货消失了一部分!{f801}{ffff}</source>
+    <target>持有的魔货消失了一部分!{f801}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>持有的魔货消失了一半!{f801}{ffff}</source>
+    <target>持有的魔货消失了一半!{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>感冒恶化了!{f801}{ffff}</source>
+    <target>感冒恶化了!{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>攻击力 UP!{f801}{ffff}</source>
+    <target>攻击力 UP!{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>命中・回避率 UP!{f801}{ffff}</source>
+    <target>命中・回避率 UP!{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>防御力 UP!{f801}{ffff}</source>
+    <target>防御力 UP!{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>全能力 UP!{f801}{ffff}</source>
+    <target>全能力 UP!{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>能力提升的效果消失了{f801}{ffff}</source>
+    <target>能力提升的效果消失了{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>攻击力 DOWN!{f801}{ffff}</source>
+    <target>攻击力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>命中・回避率 DOWN!{f801}{ffff}</source>
+    <target>命中・回避率 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>防御力 DOWN!{f801}{ffff}</source>
+    <target>防御力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>全能力 DOWN!{f801}{ffff}</source>
+    <target>全能力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>能力下降的效果消失了{f801}{ffff}</source>
+    <target>能力下降的效果消失了{f801}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>所有能力回到了初始状态{f801}{ffff}</source>
+    <target>所有能力回到了初始状态{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>攻击力・防御力 DOWN!{f801}{ffff}</source>
+    <target>攻击力・防御力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>攻击力・命中・回避率 DOWN!{f801}{ffff}</source>
+    <target>攻击力・命中・回避率 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>防御力・命中・回避率 DOWN!{f801}{ffff}</source>
+    <target>防御力・命中・回避率 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>防御力DOWN 攻击力UP!{f801}{ffff}</source>
+    <target>防御力DOWN 攻击力UP!{f801}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>魔法威力暂时提升!{f801}{ffff}</source>
+    <target>魔法威力暂时提升!{f801}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>物理・枪的威力暂时大幅提升!{f801}{ffff}</source>
+    <target>物理・枪的威力暂时大幅提升!{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>魔法威力暂时大幅提升!{f801}{ffff}</source>
+    <target>魔法威力暂时大幅提升!{f801}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>全能力 UP!{f801}{ffff}</source>
+    <target>全能力 UP!{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>最大HP提升!{f801}{ffff}</source>
+    <target>最大HP提升!{f801}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>{f873}{0600}露出了奸笑・・・{f801}{ffff}</source>
+    <target>{f873}{0600}露出了奸笑・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>攻击力 DOWN!{f801}{ffff}</source>
+    <target>攻击力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="201">
+    <source>防御力下降了!{f801}{ffff}</source>
+    <target>防御力下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="202">
+    <source>命中・回避下降了!{f801}{ffff}</source>
+    <target>命中・回避下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="206">
+    <source>攻击力下降了!{f801}{ffff}</source>
+    <target>攻击力下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="207">
+    <source>防御力下降了!{f801}{ffff}</source>
+    <target>防御力下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="211">
+    <source>命中・回避下降了!{f801}{ffff}</source>
+    <target>命中・回避下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="212">
+    <source>攻击力下降了!{f801}{ffff}</source>
+    <target>攻击力下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="216">
+    <source>防御力下降了!{f801}{ffff}</source>
+    <target>防御力下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="217">
+    <source>命中・回避下降了!{f801}{ffff}</source>
+    <target>命中・回避下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="221">
+    <source>攻击力下降了!{f801}{ffff}</source>
+    <target>攻击力下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="223">
+    <source>所有能力下降了!{f801}{ffff}</source>
+    <target>所有能力下降了!{f801}{ffff}</target>
+  </entry>
+  <entry id="226">
+    <source>能力提升的效果消失了!{f801}{ffff}</source>
+    <target>能力提升的效果消失了!{f801}{ffff}</target>
+  </entry>
+  <entry id="233">
+    <source>下一回合附加HP回复效果!{f801}{ffff}</source>
+    <target>下一回合附加HP回复效果!{f801}{ffff}</target>
+  </entry>
+  <entry id="234">
+    <source>状态提升了!{f801}{ffff}</source>
+    <target>状态提升了!{f801}{ffff}</target>
+  </entry>
+  <entry id="235">
+    <source>最大HP上升!{f801}{ffff}</source>
+    <target>最大HP上升!{f801}{ffff}</target>
+  </entry>
+  <entry id="236">
+    <source>暂时不会消耗MP了!{f801}{ffff}</source>
+    <target>暂时不会消耗MP了!{f801}{ffff}</target>
+  </entry>
+  <entry id="237">
+    <source>暂时不会消耗MP了!{f801}{ffff}</source>
+    <target>暂时不会消耗MP了!{f801}{ffff}</target>
+  </entry>
+  <entry id="238">
+    <source>暂时不会受到伤害了!{f801}{ffff}</source>
+    <target>暂时不会受到伤害了!{f801}{ffff}</target>
+  </entry>
+  <entry id="239">
+    <source>暂时不会受到伤害了!{f801}{ffff}</source>
+    <target>暂时不会受到伤害了!{f801}{ffff}</target>
+  </entry>
+  <entry id="240">
+    <source>攻击力暂时大幅强化!{f801}{ffff}</source>
+    <target>攻击力暂时大幅强化!{f801}{ffff}</target>
+  </entry>
+  <entry id="254">
+    <source>全能力 UP!{f801}{ffff}</source>
+    <target>全能力 UP!{f801}{ffff}</target>
+  </entry>
+  <entry id="255">
+    <source>缠绕周身的气质发生了很大变化・・・{f801}{ffff}</source>
+    <target>缠绕周身的气质发生了很大变化・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="256">
+    <source>攻击力 DOWN!{f801}{ffff}</source>
+    <target>攻击力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="264">
+    <source>防御力 DOWN!{f801}{ffff}</source>
+    <target>防御力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="266">
+    <source>仲魔被逼回了召唤槽・・・{f801}{ffff}</source>
+    <target>仲魔被逼回了召唤槽・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="268">
+    <source>命中・回避率 DOWN!{f801}{ffff}</source>
+    <target>命中・回避率 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="269">
+    <source>防御力 DOWN!{f801}{ffff}</source>
+    <target>防御力 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="272">
+    <source>眼前出现了防护壁!{f801}{ffff}</source>
+    <target>眼前出现了防护壁!{f801}{ffff}</target>
+  </entry>
+  <entry id="273">
+    <source>眼前出现了防护壁!{f801}{ffff}</source>
+    <target>眼前出现了防护壁!{f801}{ffff}</target>
+  </entry>
+  <entry id="274">
+    <source>眼前出现了防护壁!{f801}{ffff}</source>
+    <target>眼前出现了防护壁!{f801}{ffff}</target>
+  </entry>
+  <entry id="275">
+    <source>眼前出现了防护壁!{f801}{ffff}</source>
+    <target>眼前出现了防护壁!{f801}{ffff}</target>
+  </entry>
+  <entry id="303">
+    <source>提特拉康的效果消失了!{f801}{ffff}</source>
+    <target>提特拉康的效果消失了!{f801}{ffff}</target>
+  </entry>
+  <entry id="309">
+    <source>玛卡拉康的效果消失了!{f801}{ffff}</source>
+    <target>玛卡拉康的效果消失了!{f801}{ffff}</target>
+  </entry>
+  <entry id="310">
+    <source>{f873}{0600}露出了奸笑・・・{f801}{ffff}</source>
+    <target>{f873}{0600}露出了奸笑・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="318">
+    <source>自己的所有能力提升&amp;对手的所有能力下降!{f801}{ffff}</source>
+    <target>自己的所有能力提升&amp;对手的所有能力下降!{f801}{ffff}</target>
+  </entry>
+  <entry id="319">
+    <source>命中・回避率 DOWN!{f801}{ffff}</source>
+    <target>命中・回避率 DOWN!{f801}{ffff}</target>
+  </entry>
+  <entry id="320">
+    <source>强制使其变成弱点!{f801}{ffff}</source>
+    <target>强制使其变成弱点!{f801}{ffff}</target>
+  </entry>
+  <entry id="321">
+    <source>行动点增加!{f801}{ffff}</source>
+    <target>行动点增加!{f801}{ffff}</target>
+  </entry>
+  <entry id="322">
+    <source>时间倒流・・・{f801}{ffff}</source>
+    <target>时间倒流・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="325">
+    <source>魔法威力暂时大幅提升!{f801}{ffff}</source>
+    <target>魔法威力暂时大幅提升!{f801}{ffff}</target>
+  </entry>
+  <entry id="328">
+    <source>物理・枪的威力暂时大幅提升!{f801}{ffff}</source>
+    <target>物理・枪的威力暂时大幅提升!{f801}{ffff}</target>
+  </entry>
+  <entry id="355">
+    <source>移动大炮开始装填弹药・・・{f801}{ffff}</source>
+    <target>移动大炮开始装填弹药・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="356">
+    <source>移动大炮开始进行炮击!{f801}{ffff}</source>
+    <target>移动大炮开始进行炮击!{f801}{ffff}</target>
+  </entry>
+  <entry id="358">
+    <source>奸笑消失了!{f801}{ffff}</source>
+    <target>奸笑消失了!{f801}{ffff}</target>
+  </entry>
+  <entry id="388">
+    <source>1名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>1名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="389">
+    <source>2名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>2名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="390">
+    <source>3名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>3名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="391">
+    <source>4名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>4名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="392">
+    <source>5名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>5名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="393">
+    <source>6名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>6名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="394">
+    <source>7名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>7名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="395">
+    <source>8名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>8名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="396">
+    <source>9名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>9名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="397">
+    <source>10名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>10名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="398">
+    <source>11名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>11名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="399">
+    <source>12名擦肩恶魔发起了援助攻击!{f801}{ffff}</source>
+    <target>12名擦肩恶魔发起了援助攻击!{f801}{ffff}</target>
+  </entry>
+  <entry id="457">
+    <source>能量填充!{f801}{ffff}</source>
+    <target>能量填充!{f801}{ffff}</target>
+  </entry>
+  <entry id="458">
+    <source>能量减少!{f801}{ffff}</source>
+    <target>能量减少!{f801}{ffff}</target>
+  </entry>
+  <entry id="459">
+    <source>技能使用者即死!{f801}{ffff}</source>
+    <target>技能使用者即死!{f801}{ffff}</target>
+  </entry>
+  <entry id="460">
+    <source>戈尔的身体里涌起了力量!{f801}{ffff}</source>
+    <target>戈尔的身体里涌起了力量!{f801}{ffff}</target>
+  </entry>
+  <entry id="1000">
+    <source>效果发挥至最大!{f801}{ffff}</source>
+    <target>效果发挥至最大!{f801}{ffff}</target>
+  </entry>
+  <entry id="1001">
+    <source>已经无法失去更多魔货了!{f801}{ffff}</source>
+    <target>已经无法失去更多魔货了!{f801}{ffff}</target>
+  </entry>
+  <entry id="1002">
+    <source>已经无法继续吸取了・・・{f801}{ffff}</source>
+    <target>已经无法继续吸取了・・・{f801}{ffff}</target>
+  </entry>
+  <entry id="1003">
+    <source>光壁被中和消失了!{f801}{ffff}</source>
+    <target>光壁被中和消失了!{f801}{ffff}</target>
+  </entry>
+  <entry id="1004">
+    <source>攻击被光壁反射回来了!{f801}{ffff}</source>
+    <target>攻击被光壁反射回来了!{f801}{ffff}</target>
+  </entry>
+  <entry id="1005">
+    <source>HP没有减少・・・{f801}{ffff}</source>
+    <target>HP没有减少・・・{f801}{ffff}</target>
+  </entry>
+</mbm>

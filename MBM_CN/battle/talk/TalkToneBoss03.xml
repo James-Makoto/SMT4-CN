@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>Dummy{f801}{ffff}</source>
+    <target>Dummy{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}是啊…我们曾经是朋友。{f801}是独一无二的挚友。{f801}{f802}但那已经是过去的事了。{f801},你明白的吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}是啊…我们曾经是朋友。{f801}是独一无二的挚友。{f801}{f802}但那已经是过去的事了。{f801},你明白的吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}不要逃…{f801}{f802}别想逃避{f801}我们的命运…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}不要逃…{f801}{f802}别想逃避{f801}我们的命运…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="29">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="34">
+    <source>{f871}{0100}事到如今,你还说闲聊…?{f801}真是个自顾自到了极点的家伙。{f801}{f802}你最好不要浪费我的时间!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}事到如今,你还说闲聊…?{f801}真是个自顾自到了极点的家伙。{f801}{f802}你最好不要浪费我的时间!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="35">
+    <source>赠り物だとー?{f801}どうすっかなー{f801}决まってんだろ{f801}とりあえず…{f801}[何/なに]かよこせ!{f801}{ffff}</source>
+    <target>赠り物だとー?{f801}どうすっかなー{f801}决まってんだろ{f801}とりあえず…{f801}[何/なに]かよこせ!{f801}{ffff}</target>
+  </entry>
+  <entry id="36">
+    <source>{f871}{0100}…闲聊吗。就在不久前,{f801}这对我们来说还是理所应当的事情…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…闲聊吗。就在不久前,{f801}这对我们来说还是理所应当的事情…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="37">
+    <source>たまんねーな!{f801}ヒャハハハ!{f801}いいぜ!{f801}オーケー!{f801}ゴキゲンだぜ!{f801}{ffff}</source>
+    <target>たまんねーな!{f801}ヒャハハハ!{f801}いいぜ!{f801}オーケー!{f801}ゴキゲンだぜ!{f801}{ffff}</target>
+  </entry>
+  <entry id="38">
+    <source>{f871}{0100}难道说,{f843}{0000}{f801}你还想和我再聊些什么吗?{f801}{f802}呜…!我真的很高兴…!{f801}我还以为那已经是过去的事了…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}难道说,{f843}{0000}{f801}你还想和我再聊些什么吗?{f801}{f802}呜…!我真的很高兴…!{f801}我还以为那已经是过去的事了…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="39">
+    <source>赠り物だとー!?{f801}[俺/おれ]たちに!?{f801}くうーっ!{f801}泣けるぜ!{f801}感激だー!{f801}{ffff}</source>
+    <target>赠り物だとー!?{f801}[俺/おれ]たちに!?{f801}くうーっ!{f801}泣けるぜ!{f801}感激だー!{f801}{ffff}</target>
+  </entry>
+  <entry id="40">
+    <source>{f871}{0100}我还有很多话想和你说,{f801}…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我还有很多话想和你说,{f801}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="41">
+    <source>ゴキゲンすぎて!{f801}エクスタシー!{f801}おいおい!{f801}やべーぞ!{f801}どうすんだよ!{f801}{ffff}</source>
+    <target>ゴキゲンすぎて!{f801}エクスタシー!{f801}おいおい!{f801}やべーぞ!{f801}どうすんだよ!{f801}{ffff}</target>
+  </entry>
+  <entry id="42">
+    <source>{f871}{0100}你在向我请求慈悲?{f801}看来武士也真是落魄了啊。{f801}{f802}算了,看在我们友情的份上,{f801}我会考虑考虑的。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你在向我请求慈悲?{f801}看来武士也真是落魄了啊。{f801}{f802}算了,看在我们友情的份上,{f801}我会考虑考虑的。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="43">
+    <source>リスペクトだー?{f801}当然だろうが!{f801}そんなことより!{f801}分かってんだろ?{f801}[何/なに]かよこしな!{f801}{ffff}</source>
+    <target>リスペクトだー?{f801}当然だろうが!{f801}そんなことより!{f801}分かってんだろ?{f801}[何/なに]かよこしな!{f801}{ffff}</target>
+  </entry>
+  <entry id="44">
+    <source>{f871}{0100}收下吧!来自你好友的慈悲…{f801}也是来自恶魔的慈悲!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}收下吧!来自你好友的慈悲…{f801}也是来自恶魔的慈悲!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="45">
+    <source>ナイスな信心だ{f801}オーケー{f801}くれてやるよ!{f801}ありがたいぜー?{f801}ほら[慈悲/じひ]だ!{f801}{ffff}</source>
+    <target>ナイスな信心だ{f801}オーケー{f801}くれてやるよ!{f801}ありがたいぜー?{f801}ほら[慈悲/じひ]だ!{f801}{ffff}</target>
+  </entry>
+  <entry id="46">
+    <source>{f871}{0100}你的好朋友睡得这么舒服,f801}干嘛要叫醒他啊…{f801}{f802}你想要慈悲的话,那就给你吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你的好朋友睡得这么舒服,f801}干嘛要叫醒他啊…{f801}{f802}你想要慈悲的话,那就给你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="47">
+    <source>ZZZ…{f801}ZZZ…{f801}ZZZ…{f801}ZZZ…{f801}あー!?{f801}{ffff}</source>
+    <target>ZZZ…{f801}ZZZ…{f801}ZZZ…{f801}ZZZ…{f801}あー!?{f801}{ffff}</target>
+  </entry>
+  <entry id="48">
+    <source>リスペクトー?{f801}…いいじゃねーか{f801}起こしやがって{f801}感心だな!{f801}ほらよ!{f801}{ffff}</source>
+    <target>リスペクトー?{f801}…いいじゃねーか{f801}起こしやがって{f801}感心だな!{f801}ほらよ!{f801}{ffff}</target>
+  </entry>
+  <entry id="49">
+    <source>{f871}{0100}这感觉真妙…{f801}作为恶魔给人慈悲的感觉…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这感觉真妙…{f801}作为恶魔给人慈悲的感觉…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>この感触は…!{f801}やべーぞ!{f801}キマるぜ!{f801}クセになるぜ!{f801}もう一回だ!{f801}{ffff}</source>
+    <target>この感触は…!{f801}やべーぞ!{f801}キマるぜ!{f801}クセになるぜ!{f801}もう一回だ!{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f871}{0100}提供资金?{f801}你…就那么看重钱吗…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}提供资金?{f801}你…就那么看重钱吗…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>[俺/おれ]たちを…!{f801}恐喝する气か!{f801}どうする…?{f801}とりあえずだ…{f801}や…やめとけ!{f801}{ffff}</source>
+    <target>[俺/おれ]たちを…!{f801}恐喝する气か!{f801}どうする…?{f801}とりあえずだ…{f801}や…やめとけ!{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>{f871}{0100}哼!果然我们这些人{f801}永远都难逃被剥削的命运吗!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哼!果然我们这些人{f801}永远都难逃被剥削的命运吗!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>このくらいで!{f801}勘挣してやる!{f801}ありがたく思え!{f801}感谢しろよ!{f801}…もう许して{f801}{ffff}</source>
+    <target>このくらいで!{f801}勘挣してやる!{f801}ありがたく思え!{f801}感谢しろよ!{f801}…もう许して{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>{f871}{0100}无论怎样都不会满足,{f801}不断地剥削贫民层…{f801}{f802}这些贪得无厌的富裕层{f801}果然是死不足惜!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}无论怎样都不会满足,{f801}不断地剥削贫民层…{f801}{f802}这些贪得无厌的富裕层{f801}果然是死不足惜!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>カネはいいかー!{f801}满足したかー!?{f801}ここまでだ!{f801}ツケは拂えよ!{f801}なあ负け犬!{f801}{ffff}</source>
+    <target>カネはいいかー!{f801}满足したかー!?{f801}ここまでだ!{f801}ツケは拂えよ!{f801}なあ负け犬!{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>{f871}{0100}呃啊啊!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呃啊啊!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>ぬおーっ!{f801}くそー!{f801}ちくしょー!{f801}このヤロー!{f801}[何/なに]をー!{f801}{ffff}</source>
+    <target>ぬおーっ!{f801}くそー!{f801}ちくしょー!{f801}このヤロー!{f801}[何/なに]をー!{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>{f871}{0100}快住手,{f843}{0000}。{f801}你为什么要做这种事…!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}快住手,{f843}{0000}。{f801}你为什么要做这种事…!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>テメー!{f801}やめときな!{f801}そろそろ…{f801}よく[考/かんが]えな!{f801}もういいだろ?{f801}{ffff}</source>
+    <target>テメー!{f801}やめときな!{f801}そろそろ…{f801}よく[考/かんが]えな!{f801}もういいだろ?{f801}{ffff}</target>
+  </entry>
+  <entry id="61">
+    <source>{f871}{0100}混蛋! 我受够了!{f801}你想要钱,那我就给你!{f801}{f802}满意了吗,{f801}有钱的富裕层们!?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}混蛋! 我受够了!{f801}你想要钱,那我就给你!{f801}{f802}满意了吗,{f801}有钱的富裕层们!?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="62">
+    <source>すみませんでした{f801}ごめんなさい{f801}これやるんで{f801}お愿いです{f801}勘挣してください{f801}{ffff}</source>
+    <target>すみませんでした{f801}ごめんなさい{f801}これやるんで{f801}お愿いです{f801}勘挣してください{f801}{ffff}</target>
+  </entry>
+  <entry id="63">
+    <source>{f871}{0100}给我适可而止,该死的富裕层!{f801}要榨取我们到什么程度才肯罢休!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}给我适可而止,该死的富裕层!{f801}要榨取我们到什么程度才肯罢休!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="64">
+    <source>恐喝タイムは…{f801}ここまでだー!{f801}なぜかって?{f801}それはなァ…{f801}キレたからだー!{f801}{ffff}</source>
+    <target>恐喝タイムは…{f801}ここまでだー!{f801}なぜかって?{f801}それはなァ…{f801}キレたからだー!{f801}{ffff}</target>
+  </entry>
+  <entry id="65">
+    <source>{f871}{0100}提供资金?{f801}你…就那么看重钱吗…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}提供资金?{f801}你…就那么看重钱吗…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="66">
+    <source>この野郎!{f801}近づくなー!{f801}その手つき…!{f801}やる气だろ!{f801}分かってんぞ!{f801}{ffff}</source>
+    <target>この野郎!{f801}近づくなー!{f801}その手つき…!{f801}やる气だろ!{f801}分かってんぞ!{f801}{ffff}</target>
+  </entry>
+  <entry id="67">
+    <source>{f871}{0100}你想从恶魔那里得到东西啊,{f801}富裕层的贪婪真是了不起!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你想从恶魔那里得到东西啊,{f801}富裕层的贪婪真是了不起!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="68">
+    <source>取引だとー?{f801}どうするよ?{f801}恶くねーな{f801}とりあえず…{f801}[何/なに]かよこしな!{f801}{ffff}</source>
+    <target>取引だとー?{f801}どうするよ?{f801}恶くねーな{f801}とりあえず…{f801}[何/なに]かよこしな!{f801}{ffff}</target>
+  </entry>
+  <entry id="69">
+    <source>{f871}{0100}好,那你就拿走这个吧,{f801}满足你的欲望!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}好,那你就拿走这个吧,{f801}满足你的欲望!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="70">
+    <source>受け取りな!{f801}コイツでいいか?{f801}ほらよ!{f801}とっておきさ{f801}上物だぜ!{f801}{ffff}</source>
+    <target>受け取りな!{f801}コイツでいいか?{f801}ほらよ!{f801}とっておきさ{f801}上物だぜ!{f801}{ffff}</target>
+  </entry>
+  <entry id="71">
+    <source>{f871}{0100}哈哈哈!富裕层!{f801}你想要我的东西吗?{f801}{f802}拿着,施舍给你!{f801}快叼走吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哈哈哈!富裕层!{f801}你想要我的东西吗?{f801}{f802}拿着,施舍给你!{f801}快叼走吧!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="72">
+    <source>おうおうおう!{f801}今日はビッグだ!{f801}そうだろ?{f801}すげーぜ!{f801}ほーらブツだ!{f801}{ffff}</source>
+    <target>おうおうおう!{f801}今日はビッグだ!{f801}そうだろ?{f801}すげーぜ!{f801}ほーらブツだ!{f801}{ffff}</target>
+  </entry>
+  <entry id="73">
+    <source>{f871}{0100}我把这东西也给你!{f801}如何?你的贪婪满足了吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我把这东西也给你!{f801}如何?你的贪婪满足了吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="74">
+    <source>おっと待ちな!{f801}コイツもだ!{f801}忘れんなよ?{f801}ほらよ!{f801}オマケってな!{f801}{ffff}</source>
+    <target>おっと待ちな!{f801}コイツもだ!{f801}忘れんなよ?{f801}ほらよ!{f801}オマケってな!{f801}{ffff}</target>
+  </entry>
+  <entry id="75">
+    <source>{f871}{0100}我讨厌拐弯抹角,{f801}赶紧做决定!{f801}{f802}{f804}{0100}{f878}{0100}魔货{f804}{0000}!{f801}如何,你付得出来吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我讨厌拐弯抹角,{f801}赶紧做决定!{f801}{f802}{f804}{0100}{f878}{0100}魔货{f804}{0000}!{f801}如何,你付得出来吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="76">
+    <source>速攻キメるぜ!{f801}マッカだよ!{f801}どうだ!{f801}出せるか!{f801}{f878}{0100}!{f801}{ffff}</source>
+    <target>速攻キメるぜ!{f801}マッカだよ!{f801}どうだ!{f801}出せるか!{f801}{f878}{0100}!{f801}{ffff}</target>
+  </entry>
+  <entry id="77">
+    <source>{f871}{0100}把{f804}{0100}{f872}{0100}{f804}{0000}交出来!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}把{f804}{0100}{f872}{0100}{f804}{0000}交出来!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="78">
+    <source>アイテムだ!{f801}{f872}{0100}{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>アイテムだ!{f801}{f872}{0100}{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="79">
+    <source>{f871}{0100}交出{f804}{0100}{f878}{0100}魔货{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}{f878}{0100}魔货{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="80">
+    <source>マッカだ!{f801}{f878}{0100}!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>マッカだ!{f801}{f878}{0100}!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="81">
+    <source>{f871}{0100}交出{f804}{0100}一点{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}一点{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="82">
+    <source>[生命力/せいめいりょく]だ!{f801}[少/すこ]しだけだよ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[生命力/せいめいりょく]だ!{f801}[少/すこ]しだけだよ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="83">
+    <source>{f871}{0100}交出{f804}{0100}一些{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}一些{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="84">
+    <source>[生命力/せいめいりょく]だ!{f801}まあまあだな!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[生命力/せいめいりょく]だ!{f801}まあまあだな!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="85">
+    <source>{f871}{0100}交出{f804}{0100}大量{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}大量{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="86">
+    <source>[生命力/せいめいりょく]だ!{f801}かなりだぜ!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[生命力/せいめいりょく]だ!{f801}かなりだぜ!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="87">
+    <source>{f871}{0100}交出{f804}{0100}巨量的{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}巨量的{f804}{0000}{f801}你的{f804}{0100}生命力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="88">
+    <source>[生命力/せいめいりょく]だ!{f801}ヤバいくらいだ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[生命力/せいめいりょく]だ!{f801}ヤバいくらいだ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="89">
+    <source>{f871}{0100}交出{f804}{0100}一点{f804}{0000}{f801}你的{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}一点{f804}{0000}{f801}你的{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="90">
+    <source>[精神力/せいしんりょく]だ!{f801}[少/すこ]しだけだよ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[精神力/せいしんりょく]だ!{f801}[少/すこ]しだけだよ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="91">
+    <source>{f871}{0100}交出{f804}{0100}一些{f804}{0000}{f801}你的{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}一些{f804}{0000}{f801}你的{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="92">
+    <source>[精神力/せいしんりょく]だ!{f801}まあまあだな!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[精神力/せいしんりょく]だ!{f801}まあまあだな!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="93">
+    <source>{f871}{0100}交出{f804}{0100}大量{f804}{0000}{f801}你的{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}大量{f804}{0000}{f801}你的{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="94">
+    <source>[精神力/せいしんりょく]だ!{f801}かなりだぜ!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[精神力/せいしんりょく]だ!{f801}かなりだぜ!{f801}おうよ!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="95">
+    <source>{f871}{0100}交出{f804}{0100}巨量的{f804}{0000}{f801}你的{f801}{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出{f804}{0100}巨量的{f804}{0000}{f801}你的{f801}{f804}{0100}精神力{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="96">
+    <source>[精神力/せいしんりょく]だ!{f801}ヤバいくらいだ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</source>
+    <target>[精神力/せいしんりょく]だ!{f801}ヤバいくらいだ!{f801}よこしな!{f801}よこせってんだ!{f801}早くしろ!{f801}{ffff}</target>
+  </entry>
+  <entry id="97">
+    <source>{f871}{0100}交出你的仲魔…{f801}{f804}{0100}{f873}{0200}的命来{f804}{0000}!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}交出你的仲魔…{f801}{f804}{0100}{f873}{0200}的命来{f804}{0000}!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="98">
+    <source>仲魔だ!{f801}ツレの命だよ!{f801}くれるよな?{f801}よこしな!{f801}{f873}{0200}{f801}{ffff}</source>
+    <target>仲魔だ!{f801}ツレの命だよ!{f801}くれるよな?{f801}よこしな!{f801}{f873}{0200}{f801}{ffff}</target>
+  </entry>
+  <entry id="99">
+    <source>{f871}{0100}{f804}{0100}那个东西{f804}{0000}!给我{f804}{0100}那个东西{f804}{0000}!{f801}你明白我想要什么!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}{f804}{0100}那个东西{f804}{0000}!给我{f804}{0100}那个东西{f804}{0000}!{f801}你明白我想要什么!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>アレだ!{f801}アレだよ!{f801}よこしな!{f801}よこせってんだ!{f801}分かれよ!{f801}{ffff}</source>
+    <target>アレだ!{f801}アレだよ!{f801}よこしな!{f801}よこせってんだ!{f801}分かれよ!{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f871}{0100}啊…{f801}你说,我究竟想要什么?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}啊…{f801}你说,我究竟想要什么?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>今の[俺/おれ]たち!{f801}[何/なに]が[欲/ほ]しいんだ?{f801}おいおい…!{f801}[何/なに]だと思う?{f801}[何/なに]なんだよ?{f801}{ffff}</source>
+    <target>今の[俺/おれ]たち!{f801}[何/なに]が[欲/ほ]しいんだ?{f801}おいおい…!{f801}[何/なに]だと思う?{f801}[何/なに]なんだよ?{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f871}{0100}你很明白嘛!{f801}那我就高兴地收下了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你很明白嘛!{f801}那我就高兴地收下了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>それだ!{f801}分かってるぜ!{f801}いいぜ!{f801}そういうワケだ!{f801}もらっとくぜ!{f801}{ffff}</source>
+    <target>それだ!{f801}分かってるぜ!{f801}いいぜ!{f801}そういうワケだ!{f801}もらっとくぜ!{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f871}{0100}我对那玩意没有任何兴趣!{f801}你把我当作傻瓜吗?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我对那玩意没有任何兴趣!{f801}你把我当作傻瓜吗?{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>そんなモン!{f801}要らねーよ!{f801}テメーはよ{f801}分かってねーな{f801}ナメてんのか?{f801}{ffff}</source>
+    <target>そんなモン!{f801}要らねーよ!{f801}テメーはよ{f801}分かってねーな{f801}ナメてんのか?{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="114">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{f801}{f802}{ffff}</source>
+    <target>NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="118">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="120">
+    <source>{f871}{0100}干得好!我很满意!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}干得好!我很满意!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="121">
+    <source>いいぜ!{f801}满足だぜ!{f801}ヒャハハハ{f801}よーし{f801}もういいだろ{f801}{ffff}</source>
+    <target>いいぜ!{f801}满足だぜ!{f801}ヒャハハハ{f801}よーし{f801}もういいだろ{f801}{ffff}</target>
+  </entry>
+  <entry id="122">
+    <source>{f871}{0100}哈哈哈!这真是太棒了!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哈哈哈!这真是太棒了!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="123">
+    <source>いいぜー!{f801}ヒャハハハ!{f801}よしよしよし!{f801}ハッハァー!{f801}ぬおー!{f801}{ffff}</source>
+    <target>いいぜー!{f801}ヒャハハハ!{f801}よしよしよし!{f801}ハッハァー!{f801}ぬおー!{f801}{ffff}</target>
+  </entry>
+  <entry id="124">
+    <source>{f871}{0100}…你不把我的话当回事是吗。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…你不把我的话当回事是吗。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="125">
+    <source>ほー{f801}フンッ{f801}いい度胸だ{f801}ちっ{f801}おいおい{f801}{ffff}</source>
+    <target>ほー{f801}フンッ{f801}いい度胸だ{f801}ちっ{f801}おいおい{f801}{ffff}</target>
+  </entry>
+  <entry id="126">
+    <source>{f871}{0100}…你啊,就这么一毛不拔吗?{f801}{f802}你们这些吝啬的富裕层{f801}只配得到这种下场!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…你啊,就这么一毛不拔吗?{f801}{f802}你们这些吝啬的富裕层{f801}只配得到这种下场!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="127">
+    <source>おっとー?{f801}出し惜しみかよ{f801}タブーだぜ!{f801}报いを受けな!{f801}准备はいいか?{f801}{ffff}</source>
+    <target>おっとー?{f801}出し惜しみかよ{f801}タブーだぜ!{f801}报いを受けな!{f801}准备はいいか?{f801}{ffff}</target>
+  </entry>
+  <entry id="128">
+    <source>{f871}{0100}够了,{f843}{0000}。{f801}我不会再向你要求什么了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}够了,{f843}{0000}。{f801}我不会再向你要求什么了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="129">
+    <source>やめだ!{f801}やめだー!{f801}话になんねー!{f801}こんなモン!{f801}やってられっか!{f801}{ffff}</source>
+    <target>やめだ!{f801}やめだー!{f801}话になんねー!{f801}こんなモン!{f801}やってられっか!{f801}{ffff}</target>
+  </entry>
+  <entry id="130">
+    <source>{f871}{0100}你刚才在骗我,是吗?{f801}连好朋友也骗?{f801}{f802}就算做的人是你,{f801}这种事情我也不能原谅…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你刚才在骗我,是吗?{f801}连好朋友也骗?{f801}{f802}就算做的人是你,{f801}这种事情我也不能原谅…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="131">
+    <source>おっとー?{f801}ごまかしかよ{f801}タブーだぜ!{f801}报いを受けな!{f801}准备はいいか?{f801}{ffff}</source>
+    <target>おっとー?{f801}ごまかしかよ{f801}タブーだぜ!{f801}报いを受けな!{f801}准备はいいか?{f801}{ffff}</target>
+  </entry>
+  <entry id="132">
+    <source>{f871}{0100}作为一个武士,{f801}你还真是意外地囊中羞涩啊…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}作为一个武士,{f801}你还真是意外地囊中羞涩啊…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="133">
+    <source>[何/なに]だよ{f801}[持/も]ってねーとか!{f801}どんだけだよ{f801}まったくよー{f801}シケてんなー{f801}{ffff}</source>
+    <target>[何/なに]だよ{f801}[持/も]ってねーとか!{f801}どんだけだよ{f801}まったくよー{f801}シケてんなー{f801}{ffff}</target>
+  </entry>
+  <entry id="134">
+    <source>{f871}{0100}没有魔石,{f801}那我们的对话也无从开始。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}没有魔石,{f801}那我们的对话也无从开始。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="136">
+    <source>{f871}{0100}…行吧,这样差不多就够了。{f801}{f802}我可不像那些富裕层,{f801}我没那么贪婪。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…行吧,这样差不多就够了。{f801}{f802}我可不像那些富裕层,{f801}我没那么贪婪。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="137">
+    <source>分かったよ!{f801}しつこくてもなー{f801}アレだからな!{f801}まあいいだろ{f801}これくらいだ!{f801}{ffff}</source>
+    <target>分かったよ!{f801}しつこくてもなー{f801}アレだからな!{f801}まあいいだろ{f801}これくらいだ!{f801}{ffff}</target>
+  </entry>
+  <entry id="138">
+    <source>{f871}{0100}你就这么{f801}不想给我?{f801}{f802}不要以为我是个贫民层{f801}就看不起我!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你就这么{f801}不想给我?{f801}{f802}不要以为我是个贫民层{f801}就看不起我!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="139">
+    <source>[何/なに]だテメー?{f801}气に入らねーか!{f801}贡ぎ物タイムが!{f801}やめだー!{f801}シメてやるよ!{f801}{ffff}</source>
+    <target>[何/なに]だテメー?{f801}气に入らねーか!{f801}贡ぎ物タイムが!{f801}やめだー!{f801}シメてやるよ!{f801}{ffff}</target>
+  </entry>
+  <entry id="140">
+    <source>{f871}{0100}你这么固执地说不想给{f801}简直都叫我佩服了。{f801}{f802}行了,我无话可说,{f801}你就当我已经满意了吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你这么固执地说不想给{f801}简直都叫我佩服了。{f801}{f802}行了,我无话可说,{f801}你就当我已经满意了吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="141">
+    <source>どんだけだよ!{f801}拒否しすぎだ!{f801}伟业だぜ!{f801}もういい!{f801}满足ってコトで!{f801}{ffff}</source>
+    <target>どんだけだよ!{f801}拒否しすぎだ!{f801}伟业だぜ!{f801}もういい!{f801}满足ってコトで!{f801}{ffff}</target>
+  </entry>
+  <entry id="142">
+    <source>{f871}{0100}…你啊,怎么一直点头啊,{f801}我说什么就是什么。{f801}{f802}你就没有一点武士的骄傲吗!{f801}真是个懦夫!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}…你啊,怎么一直点头啊,{f801}我说什么就是什么。{f801}{f802}你就没有一点武士的骄傲吗!{f801}真是个懦夫!{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="143">
+    <source>从うばっかだな{f801}[何/なに]でもかんでも{f801}ホイホイ渡して{f801}意地はねーのか?{f801}腰拔けヤローが{f801}{ffff}</source>
+    <target>从うばっかだな{f801}[何/なに]でもかんでも{f801}ホイホイ渡して{f801}意地はねーのか?{f801}腰拔けヤローが{f801}{ffff}</target>
+  </entry>
+  <entry id="144">
+    <source>{f871}{0100}你真的什么都没有啊…{f801}武士的生活就是这样的吗?{f801}{f802}作为一个贫民层,我也很同情你啊。{f801}好了,就当我已经满意了吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你真的什么都没有啊…{f801}武士的生活就是这样的吗?{f801}{f802}作为一个贫民层,我也很同情你啊。{f801}好了,就当我已经满意了吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="145">
+    <source>贫穷だなー{f801}同情するぜ{f801}[持/も]ってねーな{f801}初めてだぜ{f801}满足ってコトでな{f801}{ffff}</source>
+    <target>贫穷だなー{f801}同情するぜ{f801}[持/も]ってねーな{f801}初めてだぜ{f801}满足ってコトでな{f801}{ffff}</target>
+  </entry>
+  <entry id="146">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="148">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="149">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="150">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="151">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="152">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="153">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="154">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="155">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="156">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="157">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="158">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="159">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="160">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="161">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="162">
+    <source>{f871}{0100}你知道你是第几次讲出这话了吗?{f801}我已经听憧了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你知道你是第几次讲出这话了吗?{f801}我已经听憧了。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="163">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="164">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="165">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="166">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="167">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="168">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="169">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="170">
+    <source>NOT USED{f801}{ffff}</source>
+    <target>NOT USED{f801}{ffff}</target>
+  </entry>
+  <entry id="171">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="172">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="173">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="174">
+    <source>{f871}{0100}NOT USED{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}NOT USED{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>

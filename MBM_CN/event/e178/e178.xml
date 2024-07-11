@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{51b7}{0200}{f843}{0000}大人,请小心。{f801}附近有强力恶魔的反应。{f801}{f802}{f813}{0000}{0000}{52b7}{0200}就是之前那个让您{f801}吃了点苦头的恶魔哦。{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{51b7}{0200}{f843}{0000}大人,请小心。{f801}附近有强力恶魔的反应。{f801}{f802}{f813}{0000}{0000}{52b7}{0200}就是之前那个让您{f801}吃了点苦头的恶魔哦。{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{53b7}{0200}要报仇吗?还是撤退?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{53b7}{0200}要报仇吗?还是撤退?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>报仇{f801}撤退{f801}{ffff}</source>
+    <target>报仇{f801}撤退{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{54b7}{0200}OK,要小心哦。{f801}祝您好运。{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{54b7}{0200}OK,要小心哦。{f801}祝您好运。{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{55b7}{0200}OK,听你安排。{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{55b7}{0200}OK,听你安排。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>恶魔化为了岩山…{f801}{ffff}</source>
+    <target>恶魔化为了岩山…{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>黄泉的秽土{f801}在手中发出了耀眼的光{f801}{ffff}</source>
+    <target>黄泉的秽土{f801}在手中发出了耀眼的光{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f812}声音{0000}{f87a}{0200}{f813}{0100}{0000}{a837}{0700}八十祸津日〜{f801}{ffff}</source>
+    <target>{f812}声音{0000}{f87a}{0200}{f813}{0100}{0000}{a837}{0700}八十祸津日〜{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>眼前的岩山上{f801}浮现出了文字…{f801}{ffff}</source>
+    <target>眼前的岩山上{f801}浮现出了文字…{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>岩山上面写着这样的文字…{f801}{f802}『必杀』『神灵国防兵器』{f801}『信物』『主人』{f801}{ffff}</source>
+    <target>岩山上面写着这样的文字…{f801}{f802}『必杀』『神灵国防兵器』{f801}『信物』『主人』{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f812}八十祸津日神{0000}{f87a}{0200}{f813}{0100}{0000}{aa37}{0700}八十祸津日〜{f801}{ffff}</source>
+    <target>{f812}八十祸津日神{0000}{f87a}{0200}{f813}{0100}{0000}{aa37}{0700}八十祸津日〜{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>岩山上再次浮现出了文字…{f801}{ffff}</source>
+    <target>岩山上再次浮现出了文字…{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>岩山上面写着这样的文字…{f801}{f802}『请多关照』{f801}{ffff}</source>
+    <target>岩山上面写着这样的文字…{f801}{f802}『请多关照』{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f804}{0500}{f874}{8500}${f842}{8500}{f804}{0000}的{f801}恶魔合体现已开放{f801}{ffff}</source>
+    <target>{f804}{0500}{f874}{8500}${f842}{8500}{f804}{0000}的{f801}恶魔合体现已开放{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>八十祸津日神已经不在了…{f801}{ffff}</source>
+    <target>八十祸津日神已经不在了…{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f812}声音{0000}{f87a}{7bff}{f813}{0100}{0000}{a837}{0700}八十祸津日〜{f801}{ffff}</source>
+    <target>{f812}声音{0000}{f87a}{7bff}{f813}{0100}{0000}{a837}{0700}八十祸津日〜{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>由八十祸津日神化作的岩山{f801}静静地镇坐在你的眼前…{f801}{ffff}</source>
+    <target>由八十祸津日神化作的岩山{f801}静静地镇坐在你的眼前…{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>从眼前的岩山传来了声音…{f801}{ffff}</source>
+    <target>从眼前的岩山传来了声音…{f801}{ffff}</target>
+  </entry>
+  <entry id="203">
+    <source>{f812}八十祸津日神{0000}{f87a}{d300}{f813}{0100}{0000}{ab37}{0700}八十祸津日〜{f801}{ffff}</source>
+    <target>{f812}八十祸津日神{0000}{f87a}{d300}{f813}{0100}{0000}{ab37}{0700}八十祸津日〜{f801}{ffff}</target>
+  </entry>
+</mbm>

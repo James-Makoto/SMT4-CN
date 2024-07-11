@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>在外墙的缝隙里{f801}发现了巨大的鸟巢…{f801}{ffff}</source>
+    <target>在外墙的缝隙里{f801}发现了巨大的鸟巢…{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>要去鸟巢里{f801}找蛋吗?{f801}{ffff}</source>
+    <target>要去鸟巢里{f801}找蛋吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>去{f801}不去{f801}{ffff}</source>
+    <target>去{f801}不去{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f843}{0000}抱着巨大的鸟蛋{f801}回到了展望台{f801}{f802}{f843}{0000}{f801}得到了象鸟的蛋{f801}{ffff}</source>
+    <target>{f843}{0000}抱着巨大的鸟蛋{f801}回到了展望台{f801}{f802}{f843}{0000}{f801}得到了象鸟的蛋{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f843}{0000}{f801}放弃了找蛋{f801}{ffff}</source>
+    <target>{f843}{0000}{f801}放弃了找蛋{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>未使用メッセージ{f801}{ffff}</source>
+    <target>未使用メッセージ{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>从缝隙中出来的时候{f801}一只恶魔朝这边飞来…{f801}{ffff}</source>
+    <target>从缝隙中出来的时候{f801}一只恶魔朝这边飞来…{f801}{ffff}</target>
+  </entry>
+</mbm>

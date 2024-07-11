@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>请选择名片颜色。{f801}要使用白色名片还是黑色名片?{f801}{ffff}</source>
+    <target>请选择名片颜色。{f801}要使用白色名片还是黑色名片?{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>白色名片{f801}黑色名片{f801}{ffff}</source>
+    <target>白色名片{f801}黑色名片{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>要为名片附加仲魔吗?{f801}{ffff}</source>
+    <target>要为名片附加仲魔吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>要{f801}不要{f801}{ffff}</source>
+    <target>要{f801}不要{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>名片制作完成{f801}其内容将发送给擦肩玩家{f801}{ffff}</source>
+    <target>名片制作完成{f801}其内容将发送给擦肩玩家{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>这个仲魔无法附加{f801}{ffff}</source>
+    <target>这个仲魔无法附加{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>要附加该仲魔吗?{f801}{ffff}</source>
+    <target>要附加该仲魔吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>没有可以附加的仲魔{f801}名片将以当前状态发送{f801}{ffff}</source>
+    <target>没有可以附加的仲魔{f801}名片将以当前状态发送{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>如果要附加已召唤出的仲魔{f801}该仲魔会离开编队{f801}{f802}要附加该仲魔吗?{f801}{ffff}</source>
+    <target>如果要附加已召唤出的仲魔{f801}该仲魔会离开编队{f801}{f802}要附加该仲魔吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>已与擦肩玩家取得联系{f801}请选择要使用的留言{f801}{ffff}</source>
+    <target>已与擦肩玩家取得联系{f801}请选择要使用的留言{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>确定要这样留言吗?{f801}{ffff}</source>
+    <target>确定要这样留言吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{ffff}</source>
+    <target>{ffff}</target>
+  </entry>
+</mbm>

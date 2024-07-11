@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>Test{f801}{ffff}</source>
+    <target>Test{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>是{f801}否{f801}{ffff}</source>
+    <target>是{f801}否{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>要休息吗?{f801}{ffff}</source>
+    <target>要休息吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}现在要去观看公开处刑吗,{f801}{f843}{0000}大人?{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0100}{0000}{851a}{0600}现在要去观看公开处刑吗,{f801}{f843}{0000}大人?{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>去{f801}不去{f801}{ffff}</source>
+    <target>去{f801}不去{f801}{ffff}</target>
+  </entry>
+</mbm>

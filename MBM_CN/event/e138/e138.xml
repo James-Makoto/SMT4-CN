@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>眼前横卧着一尊巨大的女神像…{f801}{ffff}</source>
+    <target>眼前横卧着一尊巨大的女神像…{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f812}约纳坦{0000}{f87a}{0300}…我们在等你。{f801}你也没事真是太好了。{f801}{ffff}</source>
+    <target>{f812}约纳坦{0000}{f87a}{0300}…我们在等你。{f801}你也没事真是太好了。{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f812}约纳坦{0000}{f87a}{0300}这下就全员到齐了。{f801}{ffff}</source>
+    <target>{f812}约纳坦{0000}{f87a}{0300}这下就全员到齐了。{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f812}沃尔特{0000}{f87a}{0400}…哟,你迟到啦。{f801}{ffff}</source>
+    <target>{f812}沃尔特{0000}{f87a}{0400}…哟,你迟到啦。{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f812}沃尔特{0000}{f87a}{0400}最后那个女的还挺厉害,{f801}让我好好享受了一把。{f801}{ffff}</source>
+    <target>{f812}沃尔特{0000}{f87a}{0400}最后那个女的还挺厉害,{f801}让我好好享受了一把。{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f812}伊莎白{0000}{f87a}{0500}…你来了啊。{f801}{ffff}</source>
+    <target>{f812}伊莎白{0000}{f87a}{0500}…你来了啊。{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f812}伊莎白{0000}{f87a}{0500}我们并不担心,{f801}毕竟你可是{f843}{0000}啊。{f801}{ffff}</source>
+    <target>{f812}伊莎白{0000}{f87a}{0500}我们并不担心,{f801}毕竟你可是{f843}{0000}啊。{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f812}盖亚教的僧侣{0000}{f87a}{3500}…现在测验结束,{f801}你们的那支蜡烛已经不需要了。{f801}{ffff}</source>
+    <target>{f812}盖亚教的僧侣{0000}{f87a}{3500}…现在测验结束,{f801}你们的那支蜡烛已经不需要了。{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f843}{0000}一行人{f801}将蜡烛还给了盖亚教的僧侣{f801}{ffff}</source>
+    <target>{f843}{0000}一行人{f801}将蜡烛还给了盖亚教的僧侣{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f812}盖亚教的僧侣{0000}{f87a}{3500}你们通过了测验,{f801}确实有不错的本事。{f801}{f802}…不过,若没有这种程度的力量,{f801}是不可能接近百合子大人的。{f801}{ffff}</source>
+    <target>{f812}盖亚教的僧侣{0000}{f87a}{3500}你们通过了测验,{f801}确实有不错的本事。{f801}{f802}…不过,若没有这种程度的力量,{f801}是不可能接近百合子大人的。{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f812}盖亚教的僧侣{0000}{f87a}{3500}…是田山叫你们来的吧…?{f801}{ffff}</source>
+    <target>{f812}盖亚教的僧侣{0000}{f87a}{3500}…是田山叫你们来的吧…?{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f812}伊莎白{0000}{f87a}{0500}{f87b}{0500}{0700}{0100}{0100}你说什么…?{f801}{ffff}</source>
+    <target>{f812}伊莎白{0000}{f87a}{0500}{f87b}{0500}{0700}{0100}{0100}你说什么…?{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>地板突然打开了{f801}{ffff}</source>
+    <target>地板突然打开了{f801}{ffff}</target>
+  </entry>
+</mbm>

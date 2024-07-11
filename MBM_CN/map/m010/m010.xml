@@ -1,0 +1,162 @@
+<mbm>
+  <entry id="0">
+    <source>『诸位武士奋勇厮杀 乃我国之骄傲{f801}今日休息一天 望诸位养精蓄锐』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『诸位武士奋勇厮杀 乃我国之骄傲{f801}今日休息一天 望诸位养精蓄锐』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>『向英勇的武士致以赞佩{f801}向志未尽而身先死的同志致以哀悼』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『向英勇的武士致以赞佩{f801}向志未尽而身先死的同志致以哀悼』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>『注意 恶魔出没』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『注意 恶魔出没』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>『出发吧 诸位武士』{f801}{f802}『无数次走下这阶梯 而后活着回返之人{f801}其勇者之名方可传响后世』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『出发吧 诸位武士』{f801}{f802}『无数次走下这阶梯 而后活着回返之人{f801}其勇者之名方可传响后世』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>『新武士的心得』{f801}{f802}『其一 时常确认自己的护手』{f801}{f802}『其二 注意自己的剩余体力{f801}避免被恶魔一击毙命』{f801}{f802}『其三 能持有的道具存在个数上限{f801}活着尽情使用 胜过带进墓地』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『新武士的心得』{f801}{f802}『其一 时常确认自己的护手』{f801}{f802}『其二 注意自己的剩余体力{f801}避免被恶魔一击毙命』{f801}{f802}『其三 能持有的道具存在个数上限{f801}活着尽情使用 胜过带进墓地』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>『注意脚下』{f801}{f802}『有报告称发现了新的行进路线』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『注意脚下』{f801}{f802}『有报告称发现了新的行进路线』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>『此门仅限{f801}获得钥匙的武士通行』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『此门仅限{f801}获得钥匙的武士通行』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>『注意上方』{f801}{f802}『有报告称发现了新的行进路线』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『注意上方』{f801}{f802}『有报告称发现了新的行进路线』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>『时刻留神…避免在熟悉的战斗中受伤』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『时刻留神…避免在熟悉的战斗中受伤』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>『废弃物品保管处 管理者:霍普』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『废弃物品保管处 管理者:霍普』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>『道路是开辟出来的』{f801}{f802}『被墙壁挡住去路 迷惘之时{f801}就用墙壁做锻炼的对手吧!』{f801}{f802}『或许能由此发现新的道路』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『道路是开辟出来的』{f801}{f802}『被墙壁挡住去路 迷惘之时{f801}就用墙壁做锻炼的对手吧!』{f801}{f802}『或许能由此发现新的道路』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>『注意 前方有毒』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『注意 前方有毒』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>『中毒的应急处理』{f801}{f802}『对中毒者{f801}应使用解毒的乳液』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『中毒的应急处理』{f801}{f802}『对中毒者{f801}应使用解毒的乳液』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>『发现遗物后{f801}请尽快送往Q的锻造铺或B的药房』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『发现遗物后{f801}请尽快送往Q的锻造铺或B的药房』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>『小心坠落』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『小心坠落』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>『禁止通行』{f801}{f802}『此桥的对岸乃禁忌之地{f801}武士应遵守教义』{f801}{f802}…上面这样写道{f801}{ffff}</source>
+    <target>『禁止通行』{f801}{f802}『此桥的对岸乃禁忌之地{f801}武士应遵守教义』{f801}{f802}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>『前方大门 严禁打开』{f801}…上面这样写道{f801}{ffff}</source>
+    <target>『前方大门 严禁打开』{f801}…上面这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>『从此处开始为岩盘内』{f801}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『从此处开始为岩盘内』{f801}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>『井下禁烟』{f801}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『井下禁烟』{f801}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>『此处往上 可能与天使进入遭遇战{f801}请勿靠近』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『此处往上 可能与天使进入遭遇战{f801}请勿靠近』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>『请看 最高点已近在眼前{f801}珍爱生命 注意施工安全』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『请看 最高点已近在眼前{f801}珍爱生命 注意施工安全』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>『不要放弃{f801}想想那晴空吧』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『不要放弃{f801}想想那晴空吧』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>『从此处开始为天盖内部{f801}小心塌落 为了我们的未来』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『从此处开始为天盖内部{f801}小心塌落 为了我们的未来』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>『高空作业{f801}必须系好安全带』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『高空作业{f801}必须系好安全带』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>『一时的松懈{f801}是事故之始』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</source>
+    <target>『一时的松懈{f801}是事故之始』{f801}{f802}…上面用魔法语言这样写道{f801}{ffff}</target>
+  </entry>
+  <entry id="30">
+    <source>是人类模样的石像{f801}{ffff}</source>
+    <target>是人类模样的石像{f801}{ffff}</target>
+  </entry>
+  <entry id="31">
+    <source>是人类模样的石像{f801}{ffff}</source>
+    <target>是人类模样的石像{f801}{ffff}</target>
+  </entry>
+  <entry id="32">
+    <source>是人类模样的石像{f801}{ffff}</source>
+    <target>是人类模样的石像{f801}{ffff}</target>
+  </entry>
+  <entry id="33">
+    <source>是人类模样的石像{f801}{ffff}</source>
+    <target>是人类模样的石像{f801}{ffff}</target>
+  </entry>
+  <entry id="50">
+    <source>{f812}武士{0000}{f813}{0100}{0000}{6226}{0600}噢,你是新来的吧?{f801}{f802}你要来这里还太早了。{f801}这里很危险,快点离开。{f801}{ffff}</source>
+    <target>{f812}武士{0000}{f813}{0100}{0000}{6226}{0600}噢,你是新来的吧?{f801}{f802}你要来这里还太早了。{f801}这里很危险,快点离开。{f801}{ffff}</target>
+  </entry>
+  <entry id="51">
+    <source>{f812}武士{0000}{f813}{0100}{0000}{6226}{0600}嗯?你没有带照明器具啊。{f801}{f802}你要来这里还太早了。{f801}这里很危险,快点离开。{f801}{ffff}</source>
+    <target>{f812}武士{0000}{f813}{0100}{0000}{6226}{0600}嗯?你没有带照明器具啊。{f801}{f802}你要来这里还太早了。{f801}这里很危险,快点离开。{f801}{ffff}</target>
+  </entry>
+  <entry id="52">
+    <source>{f812}武士{0000}你真有干劲啊,新来的贫民层兄弟。{f801}{ffff}</source>
+    <target>{f812}武士{0000}你真有干劲啊,新来的贫民层兄弟。{f801}{ffff}</target>
+  </entry>
+  <entry id="53">
+    <source>门上锁了…{f801}{ffff}</source>
+    <target>门上锁了…{f801}{ffff}</target>
+  </entry>
+  <entry id="54">
+    <source>要使用奈落的钥匙吗?{f801}{ffff}</source>
+    <target>要使用奈落的钥匙吗?{f801}{ffff}</target>
+  </entry>
+  <entry id="55">
+    <source>使用{f801}不使用{f801}{ffff}</source>
+    <target>使用{f801}不使用{f801}{ffff}</target>
+  </entry>
+  <entry id="56">
+    <source>门打开了{f801}{ffff}</source>
+    <target>门打开了{f801}{ffff}</target>
+  </entry>
+  <entry id="57">
+    <source>按{f814}{0000}{1500}即可向下看{f801}{ffff}</source>
+    <target>按{f814}{0000}{1500}即可向下看{f801}{ffff}</target>
+  </entry>
+  <entry id="58">
+    <source>按{f814}{0000}{1400}即可向上看{f801}{ffff}</source>
+    <target>按{f814}{0000}{1400}即可向上看{f801}{ffff}</target>
+  </entry>
+  <entry id="59">
+    <source>按{f814}{0000}{0300}即可打开菜单{f801}{ffff}</source>
+    <target>按{f814}{0000}{0300}即可打开菜单{f801}{ffff}</target>
+  </entry>
+  <entry id="60">
+    <source>对于墙壁,从特定的一侧按{f814}{0000}{0200}进行攻击{f801}即可将其破坏{f801}{ffff}</source>
+    <target>对于墙壁,从特定的一侧按{f814}{0000}{0200}进行攻击{f801}即可将其破坏{f801}{ffff}</target>
+  </entry>
+</mbm>
