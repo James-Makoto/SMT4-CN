@@ -1381,7 +1381,7 @@
   </entry>
   <entry id="353">
     <source>{f871}{0100}因为你很有活力{f801}因为你很好闻{f801}{f873}{0100}因为你是{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}因为你很有活力{f801}因为你很好闻{f801}{f873}{0100}因为你是{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}因为你很有活力{f801}因为你很好闻{f801}因为你是{f873}{0100}{f801}{f802}{ffff}</target>
   </entry>
   <entry id="354">
     <source>Not Used{f801}{f802}{ffff}</source>
