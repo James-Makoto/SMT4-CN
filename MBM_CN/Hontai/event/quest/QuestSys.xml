@@ -1,7 +1,7 @@
 <mbm>
   <entry id="0">
     <source>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</source>
-    <target>已接取任务{f811}{2800}「{f801}」{f801}{ffff}</target>
+    <target>已接取任务{f801}「{f811}{2800}」{f801}{ffff}</target>
   </entry>
   <entry id="1">
     <source>「{f811}{2800}」{f801}を达成しました!{f801}{ffff}</source>
@@ -9,7 +9,7 @@
   </entry>
   <entry id="2">
     <source>「{f811}{2800}」{f801}をギブアップしました{f801}{ffff}</source>
-    <target>已放弃任务{f811}{2800}「{f801}」{f801}{ffff}</target>
+    <target>已放弃任务{f801}「{f811}{2800}」{f801}{ffff}</target>
   </entry>
   <entry id="3">
     <source>{f873}{0100}、残り{f878}{0100}体です{f801}{ffff}</source>
@@ -37,7 +37,7 @@
   </entry>
   <entry id="9">
     <source>{f872}{0100}を{f878}{0100}个渡しますか?{f801}{ffff}</source>
-    <target>要交出{f872}{0100}个{f878}{0100}吗？{f801}{ffff}</target>
+    <target>要交出{f878}{0100}个{f872}{0100}吗？{f801}{ffff}</target>
   </entry>
   <entry id="10">
     <source>{f873}{0100}を渡しますか?{f801}{ffff}</source>
@@ -137,11 +137,11 @@
   </entry>
   <entry id="34">
     <source>「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</source>
-    <target>要接取任务{f811}{2800}「{f801}」吗？{f801}{ffff}</target>
+    <target>要接取任务{f801}「{f811}{2800}」吗？{f801}{ffff}</target>
   </entry>
   <entry id="35">
     <source>「{f811}{2800}」{f801}をギブアップしますか?{f801}{ffff}</source>
-    <target>要放弃任务{f811}{2800}「{f801}」吗？{f801}{ffff}</target>
+    <target>要放弃任务{f801}「{f811}{2800}」吗？{f801}{ffff}</target>
   </entry>
   <entry id="36">
     <source>受注中のクエストをギブアップして{f801}このクエストを受注しますか?{f801}{ffff}</source>
@@ -149,7 +149,7 @@
   </entry>
   <entry id="37">
     <source>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</source>
-    <target>已接取任务{f811}{2800}「{f801}」{f801}{ffff}</target>
+    <target>已接取任务{f801}「{f811}{2800}」{f801}{ffff}</target>
   </entry>
   <entry id="38">
     <source>このクエストは现在受注できません{f801}{ffff}</source>
