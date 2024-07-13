@@ -1,0 +1,142 @@
+<mbm>
+  <entry id="0">
+    <source>黒板を見る{f801}会話する{f801}納品する{f801}{ffff}</source>
+    <target>查看黑板{f801}对话{f801}交纳物品{f801}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>納品する{f801}やめる{f801}{ffff}</source>
+    <target>交纳{f801}放弃{f801}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f812}K{0000}{f87a}{1600}{f878}{0100}マッカになるがいいかい?{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f878}{0100}魔货，没问题吧？{f801}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>回復する{f801}やっぱりやめる{f801}{ffff}</source>
+    <target>回复{f801}还是算了{f801}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{122e}{0600}おう なんか持ってきてくれたのかい?{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{122e}{0600}噢，你拿了些什么来？{f801}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{082e}{0600}おぅ 新人くん{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{082e}{0600}噢，新生。{f801}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{0c2e}{0600}他に用はあるかい?{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{0c2e}{0600}还有什么事吗？{f801}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0400}{0000}{092e}{0600}また来いよ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0400}{0000}{092e}{0600}下次再来啊。{f801}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f812}K{0000}{f87a}{1600}了解だ{f801}その依頼で必要なブツは…{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}明白了。{f801}关于这个委托，需要的是…{f801}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f812}K{0000}{f87a}{1600}{f872}{0100}を{f878}{0100}個だな{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f872}{0100}个{f878}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f812}K{0000}{f87a}{1600}{f872}{0100}だな{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f872}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f812}K{0000}{f87a}{1600}じゃあ {f872}{0100}を{f878}{0100}個{f801}預かるぞ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}那么，这{f872}{0100}个{f878}{0100} {f801}我就代为收下了。{f801}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f812}K{0000}{f87a}{1600}じゃあ {f872}{0100}を預かるぞ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}那么，这{f872}{0100}我就代为收下了。{f801}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{0a2e}{0600}たしかに受け取ったぜ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{0a2e}{0600}好，我收到了。{f801}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{0b2e}{0600}…無いのかよ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{0b2e}{0600}…你并没有啊。{f801}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f843}{0000}は黒板を見た{f801}黒板にはランキングが表示されている…{f801}{ffff}</source>
+    <target>{f843}{0000}看向黑板{f801}黑板上展示着排名榜…{f801}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{08a9}{0700}新しいクエストを発見{f801}リストに登録しておくわね{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{08a9}{0700}发现新的任务，{f801}我将它们登记进护手了哦。{f801}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>クエストがガントレットに追加された{f801}{ffff}</source>
+    <target>护手里添加了新的任务{f801}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{07a9}{0700}…確認したけど{f801}目新しいクエストは無いみたい{f801}{ffff}</source>
+    <target>{f812}巴洛斯{0000}{f87a}{0200}{f813}{0000}{0000}{07a9}{0700}…我进行了确认，{f801}似乎没有新的任务。{f801}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f843}{0000}は まだ{f801}ランクインできる実力ではないようだ{f801}{ffff}</source>
+    <target>{f843}{0000}的实力{f801}似乎尚不足以进入排名榜{f801}{ffff}</target>
+  </entry>
+  <entry id="25">
+    <source>今回 {f843}{0000}は{f801}ランク外のようだ{f801}{ffff}</source>
+    <target>当前{f843}{0000} {f801}似乎位于排名榜之外{f801}{ffff}</target>
+  </entry>
+  <entry id="26">
+    <source>{f812}K{0000}{f87a}{1600}おいおい 回復できないぞ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}喂，我没法给你回复。{f801}{ffff}</target>
+  </entry>
+  <entry id="27">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0000}{0000}{61ea}{0000}おう 光の戦士様{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0000}{0000}{61ea}{0000}噢，光之战士大人。{f801}{ffff}</target>
+  </entry>
+  <entry id="28">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0000}{0000}{61ea}{0000}おう いらっしゃい{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0000}{0000}{61ea}{0000}噢，欢迎。{f801}{ffff}</target>
+  </entry>
+  <entry id="100">
+    <source>納品する{f801}やめる{f801}{ffff}</source>
+    <target>交纳{f801}放弃{f801}{ffff}</target>
+  </entry>
+  <entry id="101">
+    <source>{f812}K{0000}{f87a}{1600}了解した{f801}その依頼で必要なブツは…{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}明白了。{f801}关于这个委托，需要的是…{f801}{ffff}</target>
+  </entry>
+  <entry id="102">
+    <source>{f812}K{0000}{f87a}{1600}{f872}{0100}を{f878}{0100}個だな{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f872}{0100}个{f878}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="103">
+    <source>{f812}K{0000}{f87a}{1600}{f873}{0100}だな{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f873}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="104">
+    <source>{f812}K{0000}{f87a}{1600}{f872}{0100}だな{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f872}{0100}。{f801}{ffff}</target>
+  </entry>
+  <entry id="105">
+    <source>{f812}K{0000}{f87a}{1600}じゃあ {f872}{0100}を{f878}{0100}個{f801}預かるぞ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}那么，这{f872}{0100}个{f878}{0100} {f801}我就代为收下了。{f801}{ffff}</target>
+  </entry>
+  <entry id="106">
+    <source>{f812}K{0000}{f87a}{1600}じゃあ {f873}{0100}を預かるぞ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}那么，这{f873}{0100}我就代为收下了。{f801}{ffff}</target>
+  </entry>
+  <entry id="107">
+    <source>{f812}K{0000}{f87a}{1600}じゃあ {f872}{0100}を預かるぞ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}那么，这{f872}{0100}我就代为收下了。{f801}{ffff}</target>
+  </entry>
+  <entry id="108">
+    <source>現在 納品が可能な{f801}クエストはありません{f801}{ffff}</source>
+    <target>现在没有{f801}可以进行交纳的任务{f801}{ffff}</target>
+  </entry>
+  <entry id="109">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{1d2e}{0600}{f873}{0100}だが{f801}DDSに登録されているな{f801}{f802}登録を解除してからもう1度来てくれ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{1d2e}{0600}{f873}{0100}的话，{f801}现在正登录在DDS上。{f801}{f802}解除登录之后，再来找我吧。{f801}{ffff}</target>
+  </entry>
+  <entry id="110">
+    <source>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{1d2e}{0600}{f873}{0100}だが{f801}いまは迷子になってるようだな{f801}{f802}保護してからもう1度来てくれ{f801}{ffff}</source>
+    <target>{f812}K{0000}{f87a}{1600}{f813}{0100}{0000}{1d2e}{0600}{f873}{0100}的话，{f801}现在似乎正处于迷失状态。{f801}{f802}将它找回来之后，再来找我吧。{f801}{ffff}</target>
+  </entry>
+</mbm>
