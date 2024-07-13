@@ -1957,7 +1957,7 @@
   </entry>
   <entry id="503">
     <source>{f871}{0100}我是{f843}{0000}{f801}{f873}{0100}我是{f801}不回答{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}我是{f843}{0000}{f801}{f873}{0100}我是{f801}不回答{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}我是{f843}{0000}{f801}我是{f873}{0100}{f801}不回答{f801}{f802}{ffff}</target>
   </entry>
   <entry id="504">
     <source>Not Used{f801}{f802}{ffff}</source>
