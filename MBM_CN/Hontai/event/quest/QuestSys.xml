@@ -21,11 +21,11 @@
   </entry>
   <entry id="5">
     <source>同行者が离脱しました{f801}{ffff}</source>
-    <target>同行者脱离了队哟{f801}{ffff}</target>
+    <target>同行者脱离了队友{f801}{ffff}</target>
   </entry>
   <entry id="6">
     <source>同行者が一时的に离脱しました{f801}{ffff}</source>
-    <target>同行者暂时脱离了队哟{f801}{ffff}</target>
+    <target>同行者暂时脱离了队友{f801}{ffff}</target>
   </entry>
   <entry id="7">
     <source>再び 仲间と共に往くことにした{f801}{ffff}</source>

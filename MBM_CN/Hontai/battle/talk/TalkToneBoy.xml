@@ -2288,8 +2288,8 @@
     <target>Reserve{f801}{ffff}</target>
   </entry>
   <entry id="589">
-    <source>{f871}{0100}别、别拿我来试!{f801}拿其他恶魔来试吧!{f801}{f802}我就加入你的队哟吧,{f801}我会见证大哥哥的强大的!{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}别、别拿我来试!{f801}拿其他恶魔来试吧!{f801}{f802}我就加入你的队哟吧,{f801}我会见证大哥哥的强大的!{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}别、别拿我来试!{f801}拿其他恶魔来试吧!{f801}{f802}我就加入你的队友吧,{f801}我会见证大哥哥的强大的!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}别、别拿我来试!{f801}拿其他恶魔来试吧!{f801}{f802}我就加入你的队友吧,{f801}我会见证大哥哥的强大的!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="590">
     <source>Reserve{f801}{ffff}</source>
@@ -2364,8 +2364,8 @@
     <target>Not Used{f801}{ffff}</target>
   </entry>
   <entry id="609">
-    <source>{f871}{0100}我明明在为加入你的队哟倒计时呢…{f801}还是算了吧。{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}我明明在为加入你的队哟倒计时呢…{f801}还是算了吧。{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}我明明在为加入你的队友倒计时呢…{f801}还是算了吧。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我明明在为加入你的队友倒计时呢…{f801}还是算了吧。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="610">
     <source>Reserve{f801}{ffff}</source>
