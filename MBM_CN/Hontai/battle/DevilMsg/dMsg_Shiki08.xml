@@ -1,0 +1,102 @@
+<mbm>
+  <entry id="0">
+    <source>{f871}{0100}この力が{f801}新たな秩序をもたらすであろう…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这份力量{f801}会带来新的秩序吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="1">
+    <source>{f871}{0100}見よ 秩序が生み出せし{f801}この新たなる技を{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}看啊，秩序所孕育的{f801}这项全新之技。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="2">
+    <source>{f871}{0100}栄光の力よ ここに来たれ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}荣光啊，力量啊，降临此处吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="3">
+    <source>{f871}{0100}(仮)スキルコンプリート時メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキルコンプリート時メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="4">
+    <source>{f871}{0100}スキルを持ち切れぬか…{f801}我が手よりこぼれ落ちるは 何か?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}技能已经无法再多了…{f801}从我手中零落的会是哪一个？{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="5">
+    <source>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}をこの手に包み{f801}{f804}{0500}{f877}{0200}{f804}{0000}に変えてくれよう…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}我要用此手覆盖{f804}{0500}{F877,1}{f804}{0000}，{f801}将其变为{f804}{0500}{F877,2}{f804}{0000}…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="6">
+    <source>{f871}{0100}(仮)スキル変化選択(ルーレット){f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化選択(ルーレット){f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="7">
+    <source>{f871}{0100}秩序のもとに また生まれよ…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}在秩序的身侧再度诞生吧…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="8">
+    <source>{f871}{0100}この手 あえて引くべきか…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为何非要拉住我的手…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="9">
+    <source>{f871}{0100}(仮)スキル変化完了メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)スキル変化完了メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="10">
+    <source>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異選択メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="11">
+    <source>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異OKメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="12">
+    <source>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異NGメッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="13">
+    <source>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異完了メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="14">
+    <source>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}(仮)変異レベル未達メッセージ{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="15">
+    <source>{f871}{0100}この{f804}{0500}{f872}{0100}{f804}{0000}で{f801}更なる秩序をもたらすがよい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}就用这{f804}{0500}{f872}{0100}{f804}{0000}{f801}带来更进一步的秩序吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="16">
+    <source>{f871}{0100}汝の献身に報いるため{f801}この{f804}{0500}{f872}{0100}{f804}{0000}を授けよう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}为了回报你的献身，{f801}这{f804}{0500}{f872}{0100}{f804}{0000}就奖给你吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="17">
+    <source>{f871}{0100}この{f804}{0500}{f872}{0100}{f804}{0000}をもって{f801}汝への祝福としよう{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}这{f804}{0500}{f872}{0100}{f804}{0000}{f801}是对你的祝福。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="18">
+    <source>{f871}{0100}高き天の彼方より響く声…{f801}今こそ聞くがよい{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}高天之上回响的声音…{f801}好好聆听吧。{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="19">
+    <source>{f871}{0100}天の呼び声 しかと聞いたか?{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}天空的呼唤…你听见了吗？{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="20">
+    <source>{f871}{0100}我を呼ぶは汝か?{f801}悠久の秩序を切望せし人の子よ…{f801}{f802}我が名は {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}ここより創世を始めよう…{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}渴望悠久秩序的人之子啊…{f801}将我唤来的就是你吗？{f801}{f802}我名为{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}就让创世从此刻开始…{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="21">
+    <source>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}允许技能变异{f801}阻止{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="22">
+    <source>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</source>
+    <target>允许恶魔升级{f801}阻止{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="23">
+    <source>これでいい{f801}考え直す{f801}{f802}{ffff}</source>
+    <target>已经可以了{f801}再考虑一下{f801}{f802}{ffff}</target>
+  </entry>
+  <entry id="24">
+    <source>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</source>
+    <target>{f812}米多{0000}{f87a}{0100}…合体出错了，{f801}似乎生成了和预想中不一样的恶魔啊。{f801}{f802}{ffff}</target>
+  </entry>
+</mbm>
