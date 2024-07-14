@@ -1964,8 +1964,8 @@
     <target>Not Used{f801}{f802}{ffff}</target>
   </entry>
   <entry id="505">
-    <source>{f871}{0100}校!太可怕了。{f801}{f802}好在我还很年轻,不是老头子。{f801}暂且放心一点了。{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}校!太可怕了。{f801}{f802}好在我还很年轻,不是老头子。{f801}暂且放心一点了。{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}咿!太可怕了。{f801}{f802}好在我还很年轻,不是老头子。{f801}暂且放心一点了。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}咿!太可怕了。{f801}{f802}好在我还很年轻,不是老头子。{f801}暂且放心一点了。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="506">
     <source>Reserve{f801}{ffff}</source>

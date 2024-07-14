@@ -244,8 +244,8 @@
     <target>干什么!你…对恶魔做这种事情…!很不正常啊!{ffff}</target>
   </entry>
   <entry id="61">
-    <source>{f871}{0100}唔校!{f801}我扛不住了!{f801}{f802}给你这个可以了吧!{f801}快停手吧!{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}唔校!{f801}我扛不住了!{f801}{f802}给你这个可以了吧!{f801}快停手吧!{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}唔咿!{f801}我扛不住了!{f801}{f802}给你这个可以了吧!{f801}快停手吧!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}唔咿!{f801}我扛不住了!{f801}{f802}给你这个可以了吧!{f801}快停手吧!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="62">
     <source>呃啊!我受不了了!给你这个!停手吧!{ffff}</source>
@@ -2332,8 +2332,8 @@
     <target>NOT USED{f801}{ffff}</target>
   </entry>
   <entry id="601">
-    <source>{f871}{0100}校〜!你是打算杀了我吗!{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}校〜!你是打算杀了我吗!{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}咿〜!你是打算杀了我吗!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}咿〜!你是打算杀了我吗!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="602">
     <source>リザーブ{f801}{ffff}</source>
