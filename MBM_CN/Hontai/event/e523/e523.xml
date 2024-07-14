@@ -8,7 +8,7 @@
     <target>有什么东西掉在了地板上{f801}{ffff}</target>
   </entry>
   <entry id="2">
-    <source>を手に入れた{f841}{2300}{f801}{ffff}</source>
+    <source>{f841}{2300}を手に入れた{f801}{ffff}</source>
     <target>得到了{f841}{2300}{f801}{ffff}</target>
   </entry>
   <entry id="3">
