@@ -101,7 +101,7 @@
   </entry>
   <entry id="25">
     <source>使用IDカードLV1{f801}离开{f801}{ffff}</source>
-    <target>使用IDカードLV1{f801}离开{f801}{ffff}</target>
+    <target>使用ID卡LV1{f801}离开{f801}{ffff}</target>
   </entry>
   <entry id="26">
     <source>{f843}{0000}从怀里{f801}取出ID卡LV1{f801}{ffff}</source>
