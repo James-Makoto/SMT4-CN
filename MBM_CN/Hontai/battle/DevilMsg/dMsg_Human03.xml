@@ -85,18 +85,18 @@
   </entry>
   <entry id="21">
     <source>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}スキルを変異させる{f801}やめておく{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}允许技能变异{f801}阻止{f801}{f802}{ffff}</target>
   </entry>
   <entry id="22">
     <source>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</source>
-    <target>悪魔をハイレベルアップさせる{f801}やめておく{f801}{f802}{ffff}</target>
+    <target>允许恶魔升级{f801}阻止{f801}{f802}{ffff}</target>
   </entry>
   <entry id="23">
     <source>これでいい{f801}考え直す{f801}{f802}{ffff}</source>
-    <target>これでいい{f801}考え直す{f801}{f802}{ffff}</target>
+    <target>已经可以了{f801}再考虑一下{f801}{f802}{ffff}</target>
   </entry>
   <entry id="24">
     <source>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</source>
-    <target>{f812}ミドー{0000}{f87a}{0100}…合体エラーが発生して{f801}予定と異なる悪魔ができたようだな{f801}{f802}{ffff}</target>
+    <target>{f812}米多{0000}{f87a}{0100}…合体出错了，{f801}似乎生成了和预想中不一样的恶魔啊。{f801}{f802}{ffff}</target>
   </entry>
 </mbm>

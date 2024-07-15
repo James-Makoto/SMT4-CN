@@ -1801,11 +1801,11 @@
   </entry>
   <entry id="451">
     <source>战斗胜利时 自己的HP小回复{f801}效果/胜利の小息吹よりも大{f801}{ffff}</source>
-    <target>战斗胜利时 自己的HP小回复{f801}效果/胜利の小息吹よりも大{f801}{ffff}</target>
+    <target>战斗胜利时 自己的HP小回复{f801}效果/比胜利微气息要大{f801}{ffff}</target>
   </entry>
   <entry id="452">
     <source>战斗胜利时 自己的MP小回复{f801}效果/胜利の小チャクラよりも大{f801}{ffff}</source>
-    <target>战斗胜利时 自己的MP小回复{f801}效果/胜利の小チャクラよりも大{f801}{ffff}</target>
+    <target>战斗胜利时 自己的MP小回复{f801}效果/比胜利小脉轮要大{f801}{ffff}</target>
   </entry>
   <entry id="453">
     <source>战斗胜利时 自己的HP・MP完全回复{f801}{ffff}</source>
