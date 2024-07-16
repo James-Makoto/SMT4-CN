@@ -1225,7 +1225,7 @@
   </entry>
   <entry id="307">
     <source>「烙印」を含む附加随机异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>「烙印」を含む附加随机异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>「烙印」附加随机异常状态{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="308">
     <source>以{f87d}{0e00}属性进行1次大威力攻击{f801}对象/{f87d}{0f00} 附加/贯通效果{f801}{ffff}</source>
