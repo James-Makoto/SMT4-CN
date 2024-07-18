@@ -33,7 +33,7 @@
   </entry>
   <entry id="8">
     <source>{f871}{0100}冒険するのは お嫌いかしら?{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}你不喜欢冒险吗？{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}你不喜欢冒险吗?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="9">
     <source>{f871}{0100}{f804}{0500}{f877}{0100}{f804}{0000}よ{f801}まあ 素敵なスキルだこと{f801}{f802}{ffff}</source>
@@ -41,11 +41,11 @@
   </entry>
   <entry id="10">
     <source>{f871}{0100}体が熱いわ…!{f801}もうダメ 変身してもいいかしら?{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}我的身体好热…！{f801}不行了，我可以变身吗？{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}我的身体好热…!{f801}不行了，我可以变身吗?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="11">
     <source>{f871}{0100}素敵に変身できるかしら…?{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}会不会变成无比美妙的样子呢…？{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}会不会变成无比美妙的样子呢…?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="12">
     <source>{f871}{0100}ほら見なさい{f801}熱が冷めちゃったじゃない…{f801}{f802}{ffff}</source>
@@ -53,7 +53,7 @@
   </entry>
   <entry id="13">
     <source>{f871}{0100}…どう 見違えたでしょう?{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}…怎么样，不敢相信自己的眼睛对吧？{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}…怎么样，不敢相信自己的眼睛对吧?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="14">
     <source>{f871}{0100}少しだけ 体が熱いの…{f801}そのうち{f804}{0500}変身{f804}{0000}してしまうかのように…{f801}{f802}{ffff}</source>
@@ -77,7 +77,7 @@
   </entry>
   <entry id="19">
     <source>{f871}{0100}もう終わり? あなたって早いのね…{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}结束了吗？你还真快啊…{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}结束了吗?你还真快啊…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="20">
     <source>{f871}{0100}私は{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}よろしくお願いするわね{f801}{f802}{ffff}</source>

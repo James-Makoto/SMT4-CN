@@ -29,7 +29,7 @@
   </entry>
   <entry id="7">
     <source>{f871}{0100}いざ 変化…ッ{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}来吧，变化…！{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}来吧，变化…!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="8">
     <source>{f871}{0100}今はまだ その時にあらずか…{f801}{f802}{ffff}</source>
@@ -77,7 +77,7 @@
   </entry>
   <entry id="19">
     <source>{f871}{0100}力の極意 しかと刻み込んだか?{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}你掌握这力量之秘诀了吗？{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}你掌握这力量之秘诀了吗?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="20">
     <source>{f871}{0100}国を憂えて幾星霜…{f801}必殺の霊的国防兵器 ここに見参{f801}{f802}{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}御国のために いざ往かん{f801}{f802}{ffff}</source>

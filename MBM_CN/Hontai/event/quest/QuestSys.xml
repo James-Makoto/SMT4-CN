@@ -5,7 +5,7 @@
   </entry>
   <entry id="1">
     <source>「{f811}{2800}」{f801}を达成しました!{f801}{ffff}</source>
-    <target>任务「{f811}{2800}」{f801}已完成！{f801}{ffff}</target>
+    <target>任务「{f811}{2800}」{f801}已完成!{f801}{ffff}</target>
   </entry>
   <entry id="2">
     <source>「{f811}{2800}」{f801}をギブアップしました{f801}{ffff}</source>
@@ -33,15 +33,15 @@
   </entry>
   <entry id="8">
     <source>{f872}{0100}を渡しますか?{f801}{ffff}</source>
-    <target>要交出{f872}{0100}吗？{f801}{ffff}</target>
+    <target>要交出{f872}{0100}吗?{f801}{ffff}</target>
   </entry>
   <entry id="9">
     <source>{f872}{0100}を{f878}{0100}个渡しますか?{f801}{ffff}</source>
-    <target>要交出{f878}{0100}个{f872}{0100}吗？{f801}{ffff}</target>
+    <target>要交出{f878}{0100}个{f872}{0100}吗?{f801}{ffff}</target>
   </entry>
   <entry id="10">
     <source>{f873}{0100}を渡しますか?{f801}{ffff}</source>
-    <target>要交出{f873}{0100}吗？{f801}{ffff}</target>
+    <target>要交出{f873}{0100}吗?{f801}{ffff}</target>
   </entry>
   <entry id="11">
     <source>はい{f801}いいえ{f801}{ffff}</source>
@@ -53,7 +53,7 @@
   </entry>
   <entry id="13">
     <source>{f811}{2800}は明晰状态になった!{f801}{ffff}</source>
-    <target>{f811}{2800}恢复了清醒！{f801}{ffff}</target>
+    <target>{f811}{2800}恢复了清醒!{f801}{ffff}</target>
   </entry>
   <entry id="14">
     <source>{f843}{0000}は回复した{f801}{ffff}</source>
@@ -69,7 +69,7 @@
   </entry>
   <entry id="17">
     <source>???{f801}{ffff}</source>
-    <target>？？？{f801}{ffff}</target>
+    <target>???{f801}{ffff}</target>
   </entry>
   <entry id="18">
     <source>{f872}{0100}×{f878}{0100}{f801}を纳品する{f801}{ffff}</source>
@@ -137,15 +137,15 @@
   </entry>
   <entry id="34">
     <source>「{f811}{2800}」{f801}を受注しますか?{f801}{ffff}</source>
-    <target>要接取任务{f801}「{f811}{2800}」吗？{f801}{ffff}</target>
+    <target>要接取任务{f801}「{f811}{2800}」吗?{f801}{ffff}</target>
   </entry>
   <entry id="35">
     <source>「{f811}{2800}」{f801}をギブアップしますか?{f801}{ffff}</source>
-    <target>要放弃任务{f801}「{f811}{2800}」吗？{f801}{ffff}</target>
+    <target>要放弃任务{f801}「{f811}{2800}」吗?{f801}{ffff}</target>
   </entry>
   <entry id="36">
     <source>受注中のクエストをギブアップして{f801}このクエストを受注しますか?{f801}{ffff}</source>
-    <target>要放弃进行中的任务，{f801}接取这个任务吗？{f801}{ffff}</target>
+    <target>要放弃进行中的任务，{f801}接取这个任务吗?{f801}{ffff}</target>
   </entry>
   <entry id="37">
     <source>「{f811}{2800}」{f801}を受注しました{f801}{ffff}</source>
@@ -161,7 +161,7 @@
   </entry>
   <entry id="40">
     <source>{f812}巴洛斯{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}このクエスト いまのレベルでは危险よ{f801}それでも挑战する?{f801}{ffff}</source>
-    <target>{f812}巴洛斯{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}这个任务对你目前的等级来说还很危险，{f801}确定要挑战吗？{f801}{ffff}</target>
+    <target>{f812}巴洛斯{0000}{f87a}{0100}{f813}{0100}{0000}{851a}{0600}这个任务对你目前的等级来说还很危险，{f801}确定要挑战吗?{f801}{ffff}</target>
   </entry>
   <entry id="41">
     <source>デーモンDNAが{f878}{0100}个以上の仲魔を连れてくる{f801}{ffff}</source>
@@ -201,7 +201,7 @@
   </entry>
   <entry id="50">
     <source>このクエストを受注すると{f801}バトルへ移行します よろしいですか?{f801}{ffff}</source>
-    <target>接取这个任务后{f801}会直接进入战斗 可以吗？{f801}{ffff}</target>
+    <target>接取这个任务后{f801}会直接进入战斗 可以吗?{f801}{ffff}</target>
   </entry>
   <entry id="51">
     <source>このクエストは达成济みです{f801}{ffff}</source>
@@ -229,7 +229,7 @@
   </entry>
   <entry id="57">
     <source>このクエストを受注すると{f801}别の场所へ移行します よろしいですか?{f801}{ffff}</source>
-    <target>接取这个任务后{f801}会移动至其它场所 可以吗？{f801}{ffff}</target>
+    <target>接取这个任务后{f801}会移动至其它场所 可以吗?{f801}{ffff}</target>
   </entry>
   <entry id="58">
     <source>{f843}{0000}は{f801}要求物を纳品した{f801}{ffff}</source>
@@ -241,7 +241,7 @@
   </entry>
   <entry id="60">
     <source>ギブアップすると受注前の{f801}场所へ戻ります よろしいですか?{f801}{ffff}</source>
-    <target>放弃任务后{f801}会回到接取前的场所 可以吗？{f801}{ffff}</target>
+    <target>放弃任务后{f801}会回到接取前的场所 可以吗?{f801}{ffff}</target>
   </entry>
   <entry id="61">
     <source>受注中のクエストデータが见つかりません{f801}クエストをキャンセルします{f801}{ffff}</source>
@@ -257,7 +257,7 @@
   </entry>
   <entry id="64">
     <source>このクエストを受注すると{f801}别の场所へ移行します よろしいですか?{f801}{ffff}</source>
-    <target>接取这个任务后{f801}会移动至其它场所 可以吗？{f801}{ffff}</target>
+    <target>接取这个任务后{f801}会移动至其它场所 可以吗?{f801}{ffff}</target>
   </entry>
   <entry id="65">
     <source>元の场所に戻り{f801}クエストをキャンセルしました{f801}{ffff}</source>

@@ -77,7 +77,7 @@
   </entry>
   <entry id="19">
     <source>{f871}{0100}どうだ 存分に染まったか?{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}如何，浸染够了吗？{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}如何，浸染够了吗?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="20">
     <source>{f871}{0100}我は{f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}よろしく頼むぞ{f801}{f802}{ffff}</source>
