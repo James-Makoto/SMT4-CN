@@ -1,7 +1,7 @@
 <mbm>
   <entry id="0">
     <source>これ以上{f801} {f873}{0600}を守ることができない!{f801}{f802}{ffff}</source>
-    <target>无法继续保护{f801}{f873}{0600}了!{f801}{f802}{ffff}</target>
+    <target>无法继续保护{f801}{f873}{0600}了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="1">
     <source>逃げ出した・・・{f801}{f802}{ffff}</source>
@@ -9,11 +9,11 @@
   </entry>
   <entry id="2">
     <source>逃げられない!{f801}{f802}{ffff}</source>
-    <target>无法逃跑!{f801}{f802}{ffff}</target>
+    <target>无法逃跑！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="3">
     <source>新手が現れた!{f801}{f802}{ffff}</source>
-    <target>援军出现了!{f801}{f802}{ffff}</target>
+    <target>援军出现了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="4">
     <source>全滅した・・・{f801}{f802}{ffff}</source>
@@ -21,7 +21,7 @@
   </entry>
   <entry id="5">
     <source>このバトルは逃げられない!{f801}{f802}{ffff}</source>
-    <target>这场战斗无法逃跑!{f801}{f802}{ffff}</target>
+    <target>这场战斗无法逃跑！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="6">
     <source>オートバトル実行中・・・ Bボタンでキャンセル {f801}{f802}{ffff}</source>
@@ -33,7 +33,7 @@
   </entry>
   <entry id="8">
     <source>先制攻撃 成功!{f801}{f802}{ffff}</source>
-    <target>先制攻击 成功!{f801}{f802}{ffff}</target>
+    <target>先制攻击 成功！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="9">
     <source>{f873}{0600}はぼーっとしている{f801}{f802}{ffff}</source>
@@ -41,7 +41,7 @@
   </entry>
   <entry id="10">
     <source>{f873}{0600}は自分が制御できない!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}无法控制自己!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}无法控制自己！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="11">
     <source>{f873}{0600}は眠っている{f801}{f802}{ffff}</source>
@@ -49,7 +49,7 @@
   </entry>
   <entry id="12">
     <source>{f873}{0600}は身動きが取れない!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}无法动弹!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}无法动弹！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="13">
     <source>{f873}{0600}はムダ話をしている{f801}{f802}{ffff}</source>
@@ -65,23 +65,23 @@
   </entry>
   <entry id="16">
     <source>{f873}{0600}は運気上昇中!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}的运气提升!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}的运气提升！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="17">
     <source>{f873}{0600}はピンチに行動回数増加!{f801}{f802}{ffff}</source>
-    <target>面临危机的{f873}{0600}行动次数増加!{f801}{f802}{ffff}</target>
+    <target>面临危机的{f873}{0600}行动次数増加！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="18">
     <source>{f873}{0600}は冴えて命中・回避率アップ!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}的命中・回避率UP!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}的命中・回避率UP！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="19">
     <source>{f873}{0600}は風邪で動きが鈍っている!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}因感冒而行动迟缓!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}因感冒而行动迟缓！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="20">
     <source>{f873}{0600}は毒に侵されている!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}中毒了!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}中毒了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="21">
     <source>残された仲魔は一生懸命がんばっている・・・{f801}{f802}{ffff}</source>
@@ -89,15 +89,15 @@
   </entry>
   <entry id="22">
     <source>{f873}{0600}はどこかへ吹き飛ばされた!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}被吹飞到别处去了!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}被吹飞到别处去了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="23">
     <source>仲魔は吹き飛ばされた!{f801}{f802}{ffff}</source>
-    <target>仲魔被吹飞了!{f801}{f802}{ffff}</target>
+    <target>仲魔被吹飞了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="24">
     <source>{f843}{0000}は倒れた!{f801}{f802}{ffff}</source>
-    <target>{f843}{0000}倒下了!{f801}{f802}{ffff}</target>
+    <target>{f843}{0000}倒下了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="25">
     <source>{f873}{0600}はニヤリと笑った・・・{f801}{f802}{ffff}</source>
@@ -105,31 +105,31 @@
   </entry>
   <entry id="26">
     <source>{f873}{0600}は食いしばった!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}咬牙强忍了下来!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}咬牙强忍了下来！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="27">
     <source>{f873}{0600}は不屈の闘志で復活した!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}通过不屈的斗志复活了!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}通过不屈的斗志复活了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="28">
     <source>{f873}{0600}に風邪が伝染した!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}染上了感冒!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}染上了感冒！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="29">
     <source>効果が無かった!{f801}{f802}{ffff}</source>
-    <target>效果消失了!{f801}{f802}{ffff}</target>
+    <target>效果消失了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="30">
     <source>みんなの心に余裕が生まれた!{f801}{f802}{ffff}</source>
-    <target>大家都镇定了下来!{f801}{f802}{ffff}</target>
+    <target>大家都镇定了下来！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="31">
     <source>{f873}{0600}は魔法威力が上昇中!{f801}{f802}{ffff}</source>
-    <target>{f873}{0600}的魔法威力提升!{f801}{f802}{ffff}</target>
+    <target>{f873}{0600}的魔法威力提升！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="32">
     <source>即死効果が発動した!{f801}{f802}{ffff}</source>
-    <target>即死效果发动!{f801}{f802}{ffff}</target>
+    <target>即死效果发动！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="33">
     <source>みんな ニヤリと笑った・・・{f801}{f802}{ffff}</source>
@@ -137,11 +137,11 @@
   </entry>
   <entry id="34">
     <source>守護壁が中和されて消えた!{f801}{f802}{ffff}</source>
-    <target>防护壁被中和消失了!{f801}{f802}{ffff}</target>
+    <target>防护壁被中和消失了！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="35">
     <source>守護壁に攻撃が反射された!{f801}{f802}{ffff}</source>
-    <target>防护壁反射了攻击!{f801}{f802}{ffff}</target>
+    <target>防护壁反射了攻击！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="36">
     <source>{f873}{0600}に烙印が押されている・・・{f801}{f802}{ffff}</source>
@@ -149,6 +149,6 @@
   </entry>
   <entry id="37">
     <source>相性を貫通した!{f801}{f802}{ffff}</source>
-    <target>耐性被贯通了!{f801}{f802}{ffff}</target>
+    <target>耐性被贯通了！{f801}{f802}{ffff}</target>
   </entry>
 </mbm>

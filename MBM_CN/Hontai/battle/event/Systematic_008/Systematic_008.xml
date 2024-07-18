@@ -9,7 +9,7 @@
   </entry>
   <entry id="2">
     <source>逮捕…する…ッ{f801}包囲…せよ…ッ{f801}射殺…命令…ッ{f801}てニWホザ!{f801}グエtぃふめ!{f801}{ffff}</source>
-    <target>把你…逮捕…!{f801}把你…包围…!{f801}射击…准备…!{f801}てニWホザ!{f801}グエtぃふめ!{f801}{ffff}</target>
+    <target>把你…逮捕…！{f801}把你…包围…！{f801}射击…准备…！{f801}てニWホザ!{f801}グエtぃふめ!{f801}{ffff}</target>
   </entry>
   <entry id="3">
     <source>行動開始チェック{f801}{f802}{ffff}</source>
@@ -17,7 +17,7 @@
   </entry>
   <entry id="4">
     <source>隊列…維持…ッ{f801}支援…求む…ッ{f801}形勢…逆転…ッ{f801}ゲアソpょヨ{f801}1P0おヘHJ{f801}{ffff}</source>
-    <target>保持…队形…!{f801}请求…支援…!{f801}形势…逆转…!{f801}ゲアソpょヨ{f801}1P0おヘHJ{f801}{ffff}</target>
+    <target>保持…队形…！{f801}请求…支援…！{f801}形势…逆转…！{f801}ゲアソpょヨ{f801}1P0おヘHJ{f801}{ffff}</target>
   </entry>
   <entry id="5">
     <source>HP50%以下{f801}{f802}{ffff}</source>

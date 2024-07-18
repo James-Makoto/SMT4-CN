@@ -8,16 +8,16 @@
     <target>这里林木葱郁，枝繁叶茂…{f801}{ffff}</target>
   </entry>
   <entry id="2">
-    <source>{f812}霍普{0000}{f87a}{0800}{f813}{0100}{0000}{d91c}{0600}…辛苦了。{f801}需要处理伤口吗?{f801}{ffff}</source>
-    <target>{f812}霍普{0000}{f87a}{0800}{f813}{0100}{0000}{d91c}{0600}…辛苦了。{f801}需要处理伤口吗?{f801}{ffff}</target>
+    <source>{f812}霍普{0000}{f87a}{0800}{f813}{0100}{0000}{d91c}{0600}…辛苦了。{f801}需要处理伤口吗？{f801}{ffff}</source>
+    <target>{f812}霍普{0000}{f87a}{0800}{f813}{0100}{0000}{d91c}{0600}…辛苦了。{f801}需要处理伤口吗？{f801}{ffff}</target>
   </entry>
   <entry id="3">
     <source>需要处理{f801}不需要处理{f801}{ffff}</source>
     <target>需要处理{f801}不需要处理{f801}{ffff}</target>
   </entry>
   <entry id="4">
-    <source>{f812}霍普{0000}{f87a}{0800}…医疗组!{f801}{ffff}</source>
-    <target>{f812}霍普{0000}{f87a}{0800}…医疗组!{f801}{ffff}</target>
+    <source>{f812}霍普{0000}{f87a}{0800}…医疗组！{f801}{ffff}</source>
+    <target>{f812}霍普{0000}{f87a}{0800}…医疗组！{f801}{ffff}</target>
   </entry>
   <entry id="5">
     <source>让医疗组的武士处理了伤口…{f801}{f802}{f843}{0000}一行人恢复了{f801}{ffff}</source>

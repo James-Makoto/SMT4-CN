@@ -29,7 +29,7 @@
   </entry>
   <entry id="7">
     <source>{f871}{0100}いざ 変化…ッ{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}来吧，变化…!{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}来吧，变化…！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="8">
     <source>{f871}{0100}今はまだ その時にあらずか…{f801}{f802}{ffff}</source>
@@ -73,11 +73,11 @@
   </entry>
   <entry id="18">
     <source>{f871}{0100}影の技の極意 今こそ伝授しよう{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}影之技的精髓，如今便传授于你吧!{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}影之技的精髓，如今便传授于你吧！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="19">
     <source>{f871}{0100}技の極意 しかと刻み込んだか?{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}你掌握这技之秘诀了吗?{f801}{f802}{ffff}</target>
+    <target>{f871}{0100}你掌握这技之秘诀了吗？{f801}{f802}{ffff}</target>
   </entry>
   <entry id="20">
     <source>{f871}{0100}公を求むる呼び声あらば{f801}鉄たる影 ここに見参…{f801}{f802}我は {f804}{0500}{f875}{0100}${f873}{0100}{f804}{0000}{f801}敵陣を穿つため 盾とならん…{f801}{f802}{ffff}</source>
