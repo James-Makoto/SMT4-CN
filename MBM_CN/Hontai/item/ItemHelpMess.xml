@@ -3412,12 +3412,12 @@
     <target>在漫天爆炎的东京市谷得到的小板子{f801}到处都是缺口{f801}{ffff}</target>
   </entry>
   <entry id="854">
-    <source>从战痕那里收到的太刀{f801}破坏神平将门的信物{f801}{ffff}</source>
-    <target>从战痕那里收到的太刀{f801}破坏神平将门的信物{f801}{ffff}</target>
+    <source>从战痕那里收到的太刀{f801}破坏神将门的信物{f801}{ffff}</source>
+    <target>从战痕那里收到的太刀{f801}破坏神将门的信物{f801}{ffff}</target>
   </entry>
   <entry id="855">
-    <source>平将门交给我的大杯子{f801}这个杯子能被东京人民的希望填满…?{f801}{ffff}</source>
-    <target>平将门交给我的大杯子{f801}这个杯子能被东京人民的希望填满…?{f801}{ffff}</target>
+    <source>将门交给我的大杯子{f801}这个杯子能被东京人民的希望填满…?{f801}{ffff}</source>
+    <target>将门交给我的大杯子{f801}这个杯子能被东京人民的希望填满…?{f801}{ffff}</target>
   </entry>
   <entry id="856">
     <source>填满圣杯的希望所化作的大魂{f801}绽放着梦幻般的柔和光芒{f801}{ffff}</source>
@@ -7800,48 +7800,48 @@
     <target>换金遗物800{f801}{ffff}</target>
   </entry>
   <entry id="1951">
-    <source>「我らランタン军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「我らランタン军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「我らランタン军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「我らランタン军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1952">
-    <source>「高热女军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「高热女军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「高热女军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「高热女军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1953">
-    <source>「巨大な炎の军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「巨大な炎の军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「巨大な炎の军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「巨大な炎の军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1954">
     <source>「炎兽の群れ」{f801}から手に入れた契约书{f801}{ffff}</source>
     <target>「炎兽の群れ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1955">
-    <source>「朱雀と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「朱雀と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「朱雀と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「朱雀と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1956">
     <source>「ヒーホーアイスズ」{f801}から手に入れた契约书{f801}{ffff}</source>
     <target>「ヒーホーアイスズ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1957">
-    <source>「龙神军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「龙神军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「龙神军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「龙神军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1958">
-    <source>「鸟と兽军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「鸟と兽军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「鸟と兽军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「鸟と兽军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1959">
     <source>「邪龙の群れ」{f801}から手に入れた契约书{f801}{ffff}</source>
     <target>「邪龙の群れ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1960">
-    <source>「玄武と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「玄武と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「玄武と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「玄武と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1961">
-    <source>「地灵军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「地灵军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「地灵军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「地灵军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1962">
     <source>「雷鸟の群れ」{f801}から手に入れた契约书{f801}{ffff}</source>
@@ -7856,8 +7856,8 @@
     <target>「妖兽の群れ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1965">
-    <source>「白虎と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「白虎と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「白虎と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「白虎と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1966">
     <source>「妖鸟の群れ」{f801}から手に入れた契约书{f801}{ffff}</source>
@@ -7868,16 +7868,16 @@
     <target>「大妖鸟の群れ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1968">
-    <source>「操风の军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「操风の军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「操风の军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「操风の军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1969">
-    <source>「天狗军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「天狗军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「天狗军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「天狗军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1970">
-    <source>「青龙と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「青龙と精灵军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「青龙と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「青龙と精灵军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1971">
     <source>「龙の群れ」{f801}から手に入れた契约书{f801}{ffff}</source>
@@ -7888,16 +7888,16 @@
     <target>「シースターズ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1973">
-    <source>「死神军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「死神军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「死神军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「死神军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1974">
-    <source>「吸血鬼军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「吸血鬼军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「吸血鬼军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「吸血鬼军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1975">
-    <source>「吸精恶魔军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「吸精恶魔军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「吸精恶魔军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「吸精恶魔军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1976">
     <source>「魔王たち」{f801}から手に入れた契约书{f801}{ffff}</source>
@@ -7932,48 +7932,48 @@
     <target>「うさぎたくさん」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1984">
-    <source>「运命女神军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「运命女神军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「运命女神军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「运命女神军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1985">
     <source>「女神と天女たち」{f801}から手に入れた契约书{f801}{ffff}</source>
     <target>「女神と天女たち」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1986">
-    <source>「狂神军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「狂神军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「狂神军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「狂神军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1987">
     <source>「神树の森」{f801}から手に入れた契约书{f801}{ffff}</source>
     <target>「神树の森」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1988">
-    <source>「二斗星君军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「二斗星君军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「二斗星君军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「二斗星君军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1989">
-    <source>「秘神军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「秘神军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「秘神军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「秘神军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1990">
-    <source>「ふんばり武士军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「ふんばり武士军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「ふんばり武士军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「ふんばり武士军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1991">
     <source>「ドワーフ・エルフ」{f801}から手に入れた契约书{f801}{ffff}</source>
     <target>「ドワーフ・エルフ」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1992">
-    <source>「半兽军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「半兽军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「半兽军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「半兽军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1993">
-    <source>「ピクシー军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「ピクシー军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「ピクシー军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「ピクシー军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1994">
-    <source>「地水火风军魑」{f801}から手に入れた契约书{f801}{ffff}</source>
-    <target>「地水火风军魑」{f801}から手に入れた契约书{f801}{ffff}</target>
+    <source>「地水火风军团」{f801}から手に入れた契约书{f801}{ffff}</source>
+    <target>「地水火风军团」{f801}から手に入れた契约书{f801}{ffff}</target>
   </entry>
   <entry id="1995">
     <source>契约书045{f801}{ffff}</source>

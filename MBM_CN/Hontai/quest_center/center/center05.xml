@@ -69,15 +69,15 @@
   </entry>
   <entry id="20">
     <source>今回 {f843}{0000}は{f801}ランク外のようだ{f801}{ffff}</source>
-    <target>当前{f843}{0000} {f801}似乎位于排名榜之外{f801}{ffff}</target>
+    <target>当前{f843}{0000}{f801}似乎位于排名榜之外{f801}{ffff}</target>
   </entry>
   <entry id="21">
     <source>人外猎人たちのランキングだ{f801}もちろん {f843}{0000}の名はない{f801}{ffff}</source>
-    <target>这是人外猎人的排名榜{f801} {f843}{0000}的名字自然不在其中{f801}{ffff}</target>
+    <target>这是人外猎人的排名榜{f801}{f843}{0000}的名字自然不在其中{f801}{ffff}</target>
   </entry>
   <entry id="22">
     <source>今回 {f843}{0000}は{f801}ランク外のようだ{f801}{ffff}</source>
-    <target>当前{f843}{0000} {f801}似乎位于排名榜之外{f801}{ffff}</target>
+    <target>当前{f843}{0000}{f801}似乎位于排名榜之外{f801}{ffff}</target>
   </entry>
   <entry id="23">
     <source>{f843}{0000}は掲示板を見た{f801}{f802}大きく『ケンジがNO.1だ!』とだけ{f801}ランキングの欄に書かれている{f801}{ffff}</source>

@@ -5,14 +5,14 @@
   </entry>
   <entry id="2">
     <source>ここに留まりますか?{f801}{ffff}</source>
-    <target>ここに留まりますか?{f801}{ffff}</target>
+    <target>要留在这里吗?{f801}{ffff}</target>
   </entry>
   <entry id="3">
     <source>本当に留まりますか?{f801}{ffff}</source>
-    <target>本当に留まりますか?{f801}{ffff}</target>
+    <target>真的要留下吗?{f801}{ffff}</target>
   </entry>
   <entry id="4">
     <source>はい{f801}いいえ{f801}{ffff}</source>
-    <target>はい{f801}いいえ{f801}{ffff}</target>
+    <target>是的{f801}算了{f801}{ffff}</target>
   </entry>
 </mbm>

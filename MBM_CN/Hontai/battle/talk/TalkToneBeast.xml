@@ -868,8 +868,8 @@
     <target>{f843}{0000}{f801}朝恶魔举起了武器…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="219">
-    <source>{f871}{0100}老子 是野兽 没有 武器…{f801}有点 邋妒{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}老子 是野兽 没有 武器…{f801}有点 邋妒{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}老子 是野兽 没有 武器…{f801}有点 嫉妒{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}老子 是野兽 没有 武器…{f801}有点 嫉妒{f801}{f802}{ffff}</target>
   </entry>
   <entry id="220">
     <source>リザーブ{f801}{ffff}</source>

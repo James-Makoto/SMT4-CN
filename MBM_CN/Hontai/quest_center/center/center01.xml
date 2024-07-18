@@ -81,7 +81,7 @@
   </entry>
   <entry id="25">
     <source>今回 {f843}{0000}は{f801}ランク外のようだ{f801}{ffff}</source>
-    <target>当前{f843}{0000} {f801}似乎位于排名榜之外{f801}{ffff}</target>
+    <target>当前{f843}{0000}{f801}似乎位于排名榜之外{f801}{ffff}</target>
   </entry>
   <entry id="26">
     <source>{f812}K{0000}{f87a}{1600}おいおい 回復できないぞ{f801}{ffff}</source>

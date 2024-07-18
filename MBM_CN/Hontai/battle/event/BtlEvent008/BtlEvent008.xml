@@ -29,7 +29,7 @@
   </entry>
   <entry id="1003">
     <source>恶魔摧毁了{f843}{0000}は{f801}的战意!{f801}{ffff}</source>
-    <target>恶魔摧毁了{f843}{0000}は{f801}的战意!{f801}{ffff}</target>
+    <target>恶魔摧毁了{f801}{f843}{0000}的战意!{f801}{ffff}</target>
   </entry>
   <entry id="1004">
     <source>{f843}{0000}的{f801}攻击下降了!{f801}{ffff}</source>
