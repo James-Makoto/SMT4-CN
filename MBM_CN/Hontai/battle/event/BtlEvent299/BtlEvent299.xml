@@ -45,7 +45,7 @@
   </entry>
   <entry id="1006">
     <source>{f843}{0000}は{f801}ルシファーに喝破された…{f801}{ffff}</source>
-    <target>{f843}{0000}は{f801}ルシファーに喝破された…{f801}{ffff}</target>
+    <target>{f843}{0000}{f801}被路西法驳斥得哑口无言…{f801}{ffff}</target>
   </entry>
   <entry id="1007">
     <source>{f843}{0000}の{f801}全ての能力が大幅に下がった!{f801}{ffff}</source>
