@@ -248,7 +248,7 @@
     <target>找不到进行中的任务数据{f801}即将取消任务{f801}{ffff}</target>
   </entry>
   <entry id="62">
-    <source>受注中のクエストデータを读み涨めません{f801}でした 受注をキャンセルします{f801}{ffff}</source>
+    <source>受注中のクエストデータを读み込めません{f801}でした 受注をキャンセルします{f801}{ffff}</source>
     <target>无法读取进行中的任务数据{f801}即将取消任务{f801}{ffff}</target>
   </entry>
   <entry id="63">
