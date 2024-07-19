@@ -16,8 +16,8 @@
     <target>{f871}{0100}不是,你这家伙没常识啊!{f801}{f802}正常人会在聊天以前{f801}先动手打人吗?!{ffff}</target>
   </entry>
   <entry id="4">
-    <source>要对话还先攻击过来真没常识啊...你这笨蛋{ffff}</source>
-    <target>要对话还先攻击过来真没常识啊...你这笨蛋{ffff}</target>
+    <source>要对话还先攻击过来真没常识啊…你这笨蛋{ffff}</source>
+    <target>要对话还先攻击过来真没常识啊…你这笨蛋{ffff}</target>
   </entry>
   <entry id="5">
     <source>{f871}{0100}别想逃啦〜!{f801}乖乖让我杀掉吧〜!{f801}{f802}{ffff}</source>
@@ -120,12 +120,12 @@
     <target>{f871}{0100}哎呀…好困哦…{f801}不想…战斗了…{f801}{f802}停战…啥的…{f801}想停…就停吧…?{f801}{f802}{ffff}</target>
   </entry>
   <entry id="30">
-    <source>ZZZ...ZZZ...ZZZ...ZZZ...呵〜啊〜...{ffff}</source>
-    <target>ZZZ...ZZZ...ZZZ...ZZZ...呵〜啊〜...{ffff}</target>
+    <source>ZZZ…ZZZ…ZZZ…ZZZ…呵〜啊〜…{ffff}</source>
+    <target>ZZZ…ZZZ…ZZZ…ZZZ…呵〜啊〜…{ffff}</target>
   </entry>
   <entry id="31">
-    <source>好困啊...要停战吗...?哎...战斗什么的...随你便吧?{ffff}</source>
-    <target>好困啊...要停战吗...?哎...战斗什么的...随你便吧?{ffff}</target>
+    <source>好困啊…要停战吗…?哎…战斗什么的…随你便吧?{ffff}</source>
+    <target>好困啊…要停战吗…?哎…战斗什么的…随你便吧?{ffff}</target>
   </entry>
   <entry id="32">
     <source>{f871}{0100}等…等等〜{f801}走之前先把这个带上!{f801}{f802}{ffff}</source>
@@ -156,16 +156,16 @@
     <target>{f871}{0100}啊啊啊〜!超级感谢!{f801}居然愿意和我这样的家伙闲聊!{f801}{f802}{ffff}</target>
   </entry>
   <entry id="39">
-    <source>呜哇〜!礼物?!真的给我嘛!好感激...!太谢谢了!{ffff}</source>
-    <target>呜哇〜!礼物?!真的给我嘛!好感激...!太谢谢了!{ffff}</target>
+    <source>呜哇〜!礼物?!真的给我嘛!好感激…!太谢谢了!{ffff}</source>
+    <target>呜哇〜!礼物?!真的给我嘛!好感激…!太谢谢了!{ffff}</target>
   </entry>
   <entry id="40">
     <source>{f871}{0100}闲聊比想象中要更有意思呢!{f801}啊哈哈哈…还想继续聊…{f801}{f802}{ffff}</source>
     <target>{f871}{0100}闲聊比想象中要更有意思呢!{f801}啊哈哈哈…还想继续聊…{f801}{f802}{ffff}</target>
   </entry>
   <entry id="41">
-    <source>嗯!礼物...!真的是好厉害!真的是太好了!{ffff}</source>
-    <target>嗯!礼物...!真的是好厉害!真的是太好了!{ffff}</target>
+    <source>嗯!礼物…!真的是好厉害!真的是太好了!{ffff}</source>
+    <target>嗯!礼物…!真的是好厉害!真的是太好了!{ffff}</target>
   </entry>
   <entry id="42">
     <source>{f871}{0100}让我给你慈悲〜?{f801}你可是人类哎?{f801}{f802}嗯〜有贡品的话我倒可以考虑考虑〜{f801}{f802}{ffff}</source>

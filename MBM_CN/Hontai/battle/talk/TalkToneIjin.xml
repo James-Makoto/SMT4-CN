@@ -1816,8 +1816,8 @@
     <target>Reserve{f801}{ffff}</target>
   </entry>
   <entry id="466">
-    <source>{f871}{0100}你是对的.{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}你是对的.{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}你是对的。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}你是对的。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="467">
     <source>Reserve{f801}{ffff}</source>
@@ -1924,8 +1924,8 @@
     <target>Not Used{f801}{f802}{ffff}</target>
   </entry>
   <entry id="494">
-    <source>{f871}{0100}呃...{f801}停停, 你让我感到尴尬.{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}呃...{f801}停停, 你让我感到尴尬.{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}呃…{f801}停停, 你让我感到尴尬。{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}呃…{f801}停停, 你让我感到尴尬。{f801}{f802}{ffff}</target>
   </entry>
   <entry id="495">
     <source>Reserve{f801}{ffff}</source>
