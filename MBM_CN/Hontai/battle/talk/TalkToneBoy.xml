@@ -168,8 +168,8 @@
     <target>哇噢!{f801}太棒了!{f801}真的假的!{f801}太好了!{f801}我现在很高兴!{f801}{ffff}</target>
   </entry>
   <entry id="42">
-    <source>{f871}{0100}You want me to heal you?{f801}Then gimme something good!{f801}{f802}{ffff}</source>
-    <target>{f871}{0100}You want me to heal you?{f801}Then gimme something good!{f801}{f802}{ffff}</target>
+    <source>{f871}{0100}おらおらー 回復してほしいか!{f801}だったら何かよこせー!{f801}{f802}{ffff}</source>
+    <target>{f871}{0100}哎呀哎呀，你想要我治疗你吗，{f801}那就给我点什么吧！{f801}{f802}{ffff}</target>
   </entry>
   <entry id="43">
     <source>哎呀呀,想让我治疗你吗?{f801}那就给我点东西,动作快!{f801}{ffff}</source>
