@@ -4,8 +4,8 @@
     <target>请输入文字{f801}{ffff}</target>
   </entry>
   <entry id="1">
-    <source>要叫作「{f811}{3200}」吗?{f801}{ffff}</source>
-    <target>要叫作「{f811}{3200}」吗?{f801}{ffff}</target>
+    <source>「{f811}{3200}」でよろしいですか?{f801}{ffff}</source>
+    <target>「{f811}{3200}」这样可以吗?{f801}{ffff}</target>
   </entry>
   <entry id="2">
     <source>是{f801}否{f801}{f802}{ffff}</source>
