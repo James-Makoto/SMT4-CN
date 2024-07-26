@@ -109,7 +109,7 @@
   </entry>
   <entry id="1015">
     <source>莉莉丝放出的气场{f801}{f843}{0000}压倒了{f843}{0000}!{f801}{ffff}</source>
-    <target>莉莉丝放出的气场{f801}{f843}{0000}压倒了{f843}{0000}!{f801}{ffff}</target>
+    <target>莉莉丝放出的气场{f801}压倒了{f843}{0000}!{f801}{ffff}</target>
   </entry>
   <entry id="1016">
     <source>{f843}{0000}的{f801}全能力下降了!{f801}{ffff}</source>
