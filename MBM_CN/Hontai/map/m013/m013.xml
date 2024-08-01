@@ -8,8 +8,8 @@
     <target>要留在这里吗?{f801}{ffff}</target>
   </entry>
   <entry id="3">
-    <source>要留在这里吗?{f801}{ffff}</source>
-    <target>要留在这里吗?{f801}{ffff}</target>
+    <source>真的要留下吗?{f801}{ffff}</source>
+    <target>真的要留下吗?{f801}{ffff}</target>
   </entry>
   <entry id="4">
     <source>是的{f801}算了{f801}{ffff}</source>
