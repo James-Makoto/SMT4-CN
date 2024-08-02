@@ -57,7 +57,7 @@
   </entry>
   <entry id="1009">
     <source>ルシファーから放たれる殺気が{f801}{f843}{0000}を圧倒する…{f801}{ffff}</source>
-    <target>{f801}{f843}{0000}被路西法释放的杀气压倒了…{f801}{ffff}</target>
+    <target>{f843}{0000}{f801}被路西法释放的杀气压倒了…{f801}{ffff}</target>
   </entry>
   <entry id="1010">
     <source>ルシファーに{f801}行動するチャンスを与えてしまった!{f801}{ffff}</source>
