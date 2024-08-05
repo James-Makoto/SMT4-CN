@@ -93,7 +93,7 @@
   </entry>
   <entry id="23">
     <source>从这开始再走下去也不会有任何东西了{f801}{f802}去上野的话 要从这里往西走{f801}{ffff}</source>
-    <target>这前面已经没有任何东西了。{f801}{f802}去上野的话,要从这里往西走。{f801}{ffff}</target>
+    <target>这前面已经没有任何东西了{f801}{f802}去上野的话,要从这里往西走{f801}{ffff}</target>
   </entry>
   <entry id="24">
     <source>可恶 没有去新宿方向的道路吗{f801}{ffff}</source>
