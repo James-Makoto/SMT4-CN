@@ -65,7 +65,7 @@
   </entry>
   <entry id="312">
     <source>マサカドと戦う{f801}マサカドと戦わない{f801}{ffff}</source>
-    <target>和{f816}将门{f817}マサカド{f818}战斗{f801}不和{f816}将门{f817}マサカド{f818}战斗{f801}{ffff}</target>
+    <target>和将门战斗{f801}不和将门战斗{f801}{ffff}</target>
   </entry>
   <entry id="313">
     <source>{f812}史蒂芬{0000}{f87a}{0e00}…そうか{f801}{f802}ならば ミサイル到達まで時間がない{f801}急いだ方がいいよ{f801}{ffff}</source>
@@ -97,7 +97,7 @@
   </entry>
   <entry id="320">
     <source>{f843}{0000}は{f801}マサカドに駆け寄った…{f801}{ffff}</source>
-    <target>{f843}{0000}{f801}朝{f816}将门{f817}マサカド{f818}奔去…{f801}{ffff}</target>
+    <target>{f843}{0000}{f801}朝将门奔去…{f801}{ffff}</target>
   </entry>
   <entry id="321">
     <source>{f812}史蒂芬{0000}{f87a}{0e00}…そうか それが君の選択か{f801}{ffff}</source>
@@ -109,7 +109,7 @@
   </entry>
   <entry id="400">
     <source>マサカドは{f801}東京を覆う天井になった{f801}{ffff}</source>
-    <target>{f816}将门{f817}マサカド{f818}{f801}化成了覆盖东京的岩层{f801}{ffff}</target>
+    <target>将门{f801}化成了覆盖东京的岩层{f801}{ffff}</target>
   </entry>
   <entry id="401">
     <source>{f812}史蒂芬{0000}{f87a}{0e00}これで東京は{f801}君が知っている歴史を辿ることになった{f801}{f802}マサカド公の背中に東のミカド国ができ{f801}君が生まれてくる歴史だ{f801}{ffff}</source>
@@ -117,7 +117,7 @@
   </entry>
   <entry id="402">
     <source>辺りに マサカドの声が響き渡る…{f801}{ffff}</source>
-    <target>周围响起了{f816}将门{f817}マサカド{f818}的声音…{f801}{ffff}</target>
+    <target>周围响起了将门的声音…{f801}{ffff}</target>
   </entry>
   <entry id="403">
     <source>{f812}マサカドの声{0000}{f87a}{0100}東京は護られた…{f801}だが 善意と悪意も残った{f801}{f802}これより先も善意と悪意は相争い{f801}民は大いなる苦難を強いられることだろう{f801}{f802}しかし 貴様が残した希望もまたある{f801}{f802}希望ある限り『東京』は死せず{f801}{ffff}</source>
@@ -173,6 +173,6 @@
   </entry>
   <entry id="2101">
     <source>はじめから{f801}マサカドとのバトルから{f801}{ffff}</source>
-    <target>从头开始{f801}从与{f816}将门{f817}マサカド{f818}的战斗开始{f801}{ffff}</target>
+    <target>从头开始{f801}从与将门的战斗开始{f801}{ffff}</target>
   </entry>
 </mbm>
