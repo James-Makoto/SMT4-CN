@@ -1,7 +1,7 @@
 <mbm>
   <entry id="0">
     <source>一个小孩挡在{f843}{0000}了{f801}一行人面前{f801}{ffff}</source>
-    <target>一个小孩挡在{f843}{0000}了{f801}一行人面前{f801}{ffff}</target>
+    <target>一个小孩挡在了{f801}{f843}{0000}一行人面前{f801}{ffff}</target>
   </entry>
   <entry id="1">
     <source>{f812}声音沙哑的女孩{0000}{f87a}{6000}{f813}{0000}{0000}{7105}{0300}…救世主大人。{f801}{ffff}</source>

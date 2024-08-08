@@ -73,7 +73,7 @@
   </entry>
   <entry id="113">
     <source>伽比将什么东西{f843}{0000}轻轻放在{f801}手中…{f801}{ffff}</source>
-    <target>伽比将什么东西{f843}{0000}轻轻放在{f801}手中…{f801}{ffff}</target>
+    <target>伽比将什么东西轻轻放在{f801}{f843}{0000}手中…{f801}{ffff}</target>
   </entry>
   <entry id="213">
     <source>得到了六芒星念珠{f801}{ffff}</source>
