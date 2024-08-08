@@ -401,19 +401,19 @@
   </entry>
   <entry id="101">
     <source>提升攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>提升攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>提升攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="102">
     <source>提升命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>提升命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>提升命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="103">
     <source>提升防御{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>提升防御{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>提升防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="104">
     <source>攻击力・防御力・提升命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>攻击力・防御力・提升命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="105">
     <source>消除能力上升效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -421,19 +421,19 @@
   </entry>
   <entry id="106">
     <source>降低攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低攻击{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低攻击力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="107">
     <source>降低命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="108">
     <source>降低防御{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低防御{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="109">
     <source>降低攻击・防御・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低攻击・防御・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="110">
     <source>消除能力下降效果{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -445,19 +445,19 @@
   </entry>
   <entry id="112">
     <source>降低攻击・防御{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低攻击・防御{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低攻击力・防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="113">
     <source>降低攻击・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低攻击・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低攻击力・命中力・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="114">
     <source>降低防御・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低防御・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低防御力・命中力・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="115">
     <source>提升攻击 降低防御{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>提升攻击 降低防御{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>提升攻击力 降低防御力{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="116">
     <source>ダミー{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -489,7 +489,7 @@
   </entry>
   <entry id="123">
     <source>攻击力・防御力・提升命中・回避{f801}对象/{f87d}{0f00} 附加/HPが1に{f801}{ffff}</source>
-    <target>攻击力・防御力・提升命中・回避{f801}对象/{f87d}{0f00} 附加/HP 1点{f801}{ffff}</target>
+    <target>提升攻击力・防御力・命中・回避率{f801}对象/{f87d}{0f00} 附加/HP 1点{f801}{ffff}</target>
   </entry>
   <entry id="124">
     <source>召唤或归还仲魔{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
@@ -1273,7 +1273,7 @@
   </entry>
   <entry id="319">
     <source>以{f87d}{0e00}属性进行1次大威力攻击{f801}对象/{f87d}{0f00} 附加/命中・回避下降{f801}{ffff}</source>
-    <target>以{f87d}{0e00}属性进行1次大威力攻击{f801}对象/{f87d}{0f00} 附加/命中・回避下降{f801}{ffff}</target>
+    <target>以{f87d}{0e00}属性进行1次大威力攻击{f801}对象/{f87d}{0f00} 附加/命中・回避率下降{f801}{ffff}</target>
   </entry>
   <entry id="320">
     <source>以{f87d}{0e00}属性进行1次大威力攻击{f801}对象/{f87d}{0f00} 附加/强制命中弱点{f801}{ffff}</source>
@@ -1937,11 +1937,11 @@
   </entry>
   <entry id="485">
     <source>提升命中・回避{f801}{ffff}</source>
-    <target>提升命中・回避{f801}{ffff}</target>
+    <target>提升命中・回避率{f801}{ffff}</target>
   </entry>
   <entry id="486">
     <source>提升命中・回避{f801}效果/大{f801}{ffff}</source>
-    <target>提升命中・回避{f801}效果/大{f801}{ffff}</target>
+    <target>提升命中・回避率{f801}效果/大{f801}{ffff}</target>
   </entry>
   <entry id="487">
     <source>提升暴击发生率{f801}{ffff}</source>
