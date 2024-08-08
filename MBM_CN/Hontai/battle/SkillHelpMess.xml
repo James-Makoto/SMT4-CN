@@ -449,11 +449,11 @@
   </entry>
   <entry id="113">
     <source>降低攻击・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低攻击力・命中力・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低攻击力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="114">
     <source>降低防御・命中・回避{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>降低防御力・命中力・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>降低防御力・命中・回避率{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="115">
     <source>提升攻击 降低防御{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
