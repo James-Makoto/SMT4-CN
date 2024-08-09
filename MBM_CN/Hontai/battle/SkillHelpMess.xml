@@ -673,7 +673,7 @@
   </entry>
   <entry id="169">
     <source>以{f87d}{0e00}属性进行1次小威力攻击{f801}对象/{f87d}{0f00} 附加/攻击下降{f801}{ffff}</source>
-    <target>以{f87d}{0e00}属性进行1次小威力攻击{f801}对象/{f87d}{0f00} 附加/攻击下降{f801}{ffff}</target>
+    <target>以{f87d}{0e00}属性进行1次小威力攻击{f801}对象/{f87d}{0f00} 附加/攻击力下降{f801}{ffff}</target>
   </entry>
   <entry id="170">
     <source>以{f87d}{0e00}属性进行1次小威力攻击{f801}对象/{f87d}{0f00} 附加/睡眠{f801}{ffff}</source>
