@@ -109,7 +109,7 @@
   </entry>
   <entry id="202">
     <source>命中・回避下降了!{f801}{ffff}</source>
-    <target>命中・回避下降了!{f801}{ffff}</target>
+    <target>命中・回避率下降了!{f801}{ffff}</target>
   </entry>
   <entry id="206">
     <source>攻击力下降了!{f801}{ffff}</source>
@@ -121,7 +121,7 @@
   </entry>
   <entry id="211">
     <source>命中・回避下降了!{f801}{ffff}</source>
-    <target>命中・回避下降了!{f801}{ffff}</target>
+    <target>命中・回避率下降了!{f801}{ffff}</target>
   </entry>
   <entry id="212">
     <source>攻击力下降了!{f801}{ffff}</source>
@@ -133,7 +133,7 @@
   </entry>
   <entry id="217">
     <source>命中・回避下降了!{f801}{ffff}</source>
-    <target>命中・回避下降了!{f801}{ffff}</target>
+    <target>命中・回避率下降了!{f801}{ffff}</target>
   </entry>
   <entry id="221">
     <source>攻击力下降了!{f801}{ffff}</source>

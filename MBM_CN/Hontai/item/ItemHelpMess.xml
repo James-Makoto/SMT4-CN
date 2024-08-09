@@ -2765,19 +2765,19 @@
   </entry>
   <entry id="692">
     <source>特殊效果/火焰属性攻击强化{f801}{ffff}</source>
-    <target>特殊效果/火焰属性攻击强化{f801}{ffff}</target>
+    <target>特殊效果/火焰属性攻击力强化{f801}{ffff}</target>
   </entry>
   <entry id="693">
     <source>特殊效果/冰冻属性攻击强化{f801}{ffff}</source>
-    <target>特殊效果/冰冻属性攻击强化{f801}{ffff}</target>
+    <target>特殊效果/冰冻属性攻击力强化{f801}{ffff}</target>
   </entry>
   <entry id="694">
     <source>特殊效果/电击属性攻击强化{f801}{ffff}</source>
-    <target>特殊效果/电击属性攻击强化{f801}{ffff}</target>
+    <target>特殊效果/电击属性攻击力强化{f801}{ffff}</target>
   </entry>
   <entry id="695">
     <source>特殊效果/冲击属性攻击强化{f801}{ffff}</source>
-    <target>特殊效果/冲击属性攻击强化{f801}{ffff}</target>
+    <target>特殊效果/冲击属性攻击力强化{f801}{ffff}</target>
   </entry>
   <entry id="696">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2785,11 +2785,11 @@
   </entry>
   <entry id="697">
     <source>特殊效果/物理属性攻击强化{f801}{ffff}</source>
-    <target>特殊效果/物理属性攻击强化{f801}{ffff}</target>
+    <target>特殊效果/物理属性攻击力强化{f801}{ffff}</target>
   </entry>
   <entry id="698">
     <source>特殊效果/枪属性攻击强化{f801}{ffff}</source>
-    <target>特殊效果/枪属性攻击强化{f801}{ffff}</target>
+    <target>特殊效果/枪属性攻击力强化{f801}{ffff}</target>
   </entry>
   <entry id="699">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2833,7 +2833,7 @@
   </entry>
   <entry id="709">
     <source>特殊效果/对军势攻击上升 效果/中{f801}{ffff}</source>
-    <target>特殊效果/对军势攻击上升 效果/中{f801}{ffff}</target>
+    <target>特殊效果/对军势攻击力上升 效果/中{f801}{ffff}</target>
   </entry>
   <entry id="710">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2865,19 +2865,19 @@
   </entry>
   <entry id="717">
     <source>特殊效果/火焰属性攻击强化 效果/大{f801}{ffff}</source>
-    <target>特殊效果/火焰属性攻击强化 效果/大{f801}{ffff}</target>
+    <target>特殊效果/火焰属性攻击力强化 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="718">
     <source>特殊效果/冰冻属性攻击强化 效果/大{f801}{ffff}</source>
-    <target>特殊效果/冰冻属性攻击强化 效果/大{f801}{ffff}</target>
+    <target>特殊效果/冰冻属性攻击力强化 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="719">
     <source>特殊效果/电击属性攻击强化 效果/大{f801}{ffff}</source>
-    <target>特殊效果/电击属性攻击强化 效果/大{f801}{ffff}</target>
+    <target>特殊效果/电击属性攻击力强化 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="720">
     <source>特殊效果/冲击属性攻击强化 效果/大{f801}{ffff}</source>
-    <target>特殊效果/冲击属性攻击强化 效果/大{f801}{ffff}</target>
+    <target>特殊效果/冲击属性攻击力强化 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="721">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -2925,11 +2925,11 @@
   </entry>
   <entry id="732">
     <source>{f87d}{0c00} {f801}特殊效果/物理属性攻击强化 效果/大{f801}{ffff}</source>
-    <target>{f87d}{0c00} {f801}特殊效果/物理属性攻击强化 效果/大{f801}{ffff}</target>
+    <target>{f87d}{0c00} {f801}特殊效果/物理属性攻击力强化 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="733">
     <source>{f87d}{0c00} {f801}特殊效果/枪属性攻击强化 效果/大{f801}{ffff}</source>
-    <target>{f87d}{0c00} {f801}特殊效果/枪属性攻击强化 效果/大{f801}{ffff}</target>
+    <target>{f87d}{0c00} {f801}特殊效果/枪属性攻击力强化 效果/大{f801}{ffff}</target>
   </entry>
   <entry id="734">
     <source>特殊效果/{f87d}{0d00}{f801}{ffff}</source>
@@ -3021,7 +3021,7 @@
   </entry>
   <entry id="756">
     <source>{f87d}{0c00} {f801}特殊效果/大幅提升命中・回避{f801}{ffff}</source>
-    <target>{f87d}{0c00} {f801}特殊效果/大幅提升命中・回避{f801}{ffff}</target>
+    <target>{f87d}{0c00} {f801}特殊效果/大幅提升命中・回避率{f801}{ffff}</target>
   </entry>
   <entry id="757">
     <source>{f87d}{0c00} {f801}特殊效果/HP为0时仅1次HP全回复{f801}{ffff}</source>
