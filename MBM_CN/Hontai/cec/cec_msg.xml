@@ -1,7 +1,7 @@
 <mbm>
   <entry id="0">
     <source>是否要登录{f801}真・女神转生IV的擦肩通信功能?{f801}{ffff}</source>
-    <target>是否要登录{f801}真・女神转生IV的擦肩通信功能?{f801}{ffff}</target>
+    <target>是否要登录{f801}真・女神转生{8757}的擦肩通信功能?{f801}{ffff}</target>
   </entry>
   <entry id="1">
     <source>使用擦肩通信{f801}需要同意最新的使用条款{f801}{f802}如需使用擦肩通信,{f801}请在系统设置中的『网络设置』⇒{f801}{f802}『其它信息』中选择『确认使用条款』,{f801}对最新的使用条款进行确认{f801}{ffff}</source>
@@ -33,7 +33,7 @@
   </entry>
   <entry id="8">
     <source>真・女神转生IV的擦肩通信{f801}已登录完毕{f801}{ffff}</source>
-    <target>真・女神转生IV的擦肩通信{f801}已登录完毕{f801}{ffff}</target>
+    <target>真・女神转生{8757}的擦肩通信{f801}已登录完毕{f801}{ffff}</target>
   </entry>
   <entry id="100">
     <source>是{f801}否{f801}{ffff}</source>
