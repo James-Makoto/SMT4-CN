@@ -505,7 +505,7 @@
   </entry>
   <entry id="127">
     <source>从召唤槽召出等级更高的仲魔{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
-    <target>从召唤槽召出等级更高的仲魔{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
+    <target>从召唤槽召出等级最高的仲魔{f801}对象/{f87d}{0f00}{f801}{ffff}</target>
   </entry>
   <entry id="128">
     <source>ダミー{f801}对象/{f87d}{0f00}{f801}{ffff}</source>
